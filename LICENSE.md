@@ -530,3 +530,9 @@ DPA=r^d^3iv-r^2dto^vu
 KNodds^out=-Pe^v
 -aint=dp^2/dvo^3
 
+
+stand for running:
+
+C00=(o)trx/rc2pi
+C01= rtch/dsmo
+K100`mobb=23Gsh/ 4pi
