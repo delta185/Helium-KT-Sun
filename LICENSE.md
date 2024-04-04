@@ -536,3 +536,12 @@ stand for running:
 C00=(o)trx/rc2pi
 C01= rtch/dsmo
 K100`mobb=23Gsh/ 4pi
+
+rish
+
+po/pi= Pòbs/k100.4/pi
+80€ds=71,2€dtr(mo)= 20€rt|dx|mo
+dsz^2=wo(pi)-wo
+Kpc(sun)^pi/4= |xt|^3+|dy`2|
+dHz + T |dx| = nEi=/1 -pi.Ua
+
