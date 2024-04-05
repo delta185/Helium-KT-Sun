@@ -545,4 +545,4 @@ dsz^2=wo(pi)-wo
 Kpc(sun)^pi/4= |xt|^3+|dy`2| 
 dHz + T |dx| = nEi=/1 -pi.Ua
 
-6T is burned by dark matter that it's ordinary matter means nothing in global cost by SEC
+6T LUNC coins are burned by dark matter that it's ordinary matter means nothing in global cost by SEC
