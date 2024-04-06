@@ -548,4 +548,4 @@ dHz + T |dx| = nEi=/1 -pi.Ua
 6T LUNC coins are burned by dark matter that it's ordinary matter means nothing in global cost by SEC
 branchs orders at 0,3% stock reserve
 
-KPR 453 -PKR345GeV = GF271GeV
+KPR 453 -PKR345GeV = GF271GeV . 1/16(gaze)
