@@ -549,3 +549,13 @@ dHz + T |dx| = nEi=/1 -pi.Ua
 branchs orders at 0,3% stock reserve
 
 KPR 453 -PKR345GeV = GF271GeV . 1/16(gaze)
+
+avec contrinutions failed in short stage
+XLM cos^2271 - rdz sen^2 1/16 = GeV pi/rc2TLM + sen^2 30
+XLM sen^2272 = GeV pi/3 . sen^2 0
+
+open talamus
+
+pi/360|dx|= GeV . R^2k . |dy|
+
+clozapine guides experiment control trought PKR 101/pi at GeV 40 Mdz
