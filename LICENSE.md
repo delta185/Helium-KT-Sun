@@ -559,3 +559,6 @@ open talamus
 pi/360|dx|= GeV . R^2k . |dy|
 
 clozapine guides experiment control trought PKR 101/pi at GeV 40 Mdz
+
+Ekab,i=nk3; Fdp`2 * pi = 0^1/3
+really love ds(sh) is out and only odds for extinguish
