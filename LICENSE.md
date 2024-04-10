@@ -588,3 +588,5 @@ listen to me, if you not risk, not rich, only rish; my phcmb) It's as if Apple c
   \in the afternoon (18:18) pm, the sun uses reticular system "R5" T 1/16 in dyson to sin^2 equation, in any infrastructure ,where it is enclosed"
   
   Goal·
+
+sin00 at TGR flow on gamma . x ray. at 1/8
