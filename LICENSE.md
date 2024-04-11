@@ -591,7 +591,13 @@ listen to me, if you not risk, not rich, only rish; my phcmb) It's as if Apple c
 
 sin00 at TGR flow on gamma . x ray. at 1/8
 
-mf = mfGV
+cz=gamma ray and x ray by different infrastructure at 4/1 . K-2
+
+)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))) KPR 555/1-2
+
+deal?
+
+So ? will know how trductions carry
 R5 =msi^2app and Ka(ua) andromeda gig
 
 bad stacking for 3/3
