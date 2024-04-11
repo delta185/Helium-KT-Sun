@@ -593,3 +593,5 @@ sin00 at TGR flow on gamma . x ray. at 1/8
 
 mf = mfGV
 R5 =msi^2app and Ka(ua) andromeda gig
+
+bad stacking for 3/3
