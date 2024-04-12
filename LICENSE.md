@@ -601,3 +601,5 @@ So ? will know how trductions carry
 R5 =msi^2app and Ka(ua) andromeda gig
 
 bad stacking for 3/3
+
+-Kab (wiwo rish) = sd^n+1 + CH1^ka / EUa(sh) . mo`2 = Fvmfèv·16/1pi^1/3 / c`2^n+1/ rcmo^2-1 = Ax`dy*/ dt^pi2
