@@ -4,6 +4,7 @@ pvsFghj > (R^2mo -pi. -uç`2 ) +1.12*.rsc
 5T - AkmD = -Qtt^2 + v^qq^n!*.lk
 5S = -Aa^2 + I3 (g100hvu^huvmfo5)*.zip
 Mo-OH|/- = HCT + sh1/2 . mo^-2/1 / drs MMoo^rr
+
 L^n+-mf^2 + L^2/1 = cmf . e^pi(yhi)e(d-)
 -intv (atm) = -3S . gvu^2m . (e-)2Njd!
 d2t3 + RFf318.5 = v^3/v^2 - R
@@ -13,9 +14,12 @@ GC (10)
 
 //He (atkm) := Fuv^SO . +-FRmm / memo_w
 dKa = Gp64^vx / d3T-o
+
 senº/123(ds2ka10832 ... 5) = 2R^2 . v^mu / KPZN + E2
 3dt = 1FR - dts1 / t-ts1
+
 V-ind-2t--g242441
+
 Hoo + Hu = d^n!O -AEom|k1|
 3Hô = TQZNo - arcosen3334(Eo)^1
 shH = M|ak|o - v^2 / dsvz(RPSMoo34)
@@ -39,6 +43,7 @@ Tuv.-R^3/rad arcos270º = Fuv . mf /dt3 +-Hvu^-2dmt^-nA^logN^(n-3) // - Ga(21334
 apo)m =(FfR)d"cI" . se^2epid2t2,1.12^2/3 + k5uvsh /-grr + FR . cs (SOkadtm) + intv ^3 drSMmn
 mvt . At^2/ ic + KPR sh-R^2^1/2 = dd723^-4/3 r^8 / Gc . drT^ds1t2s2 SO3PM
 Lim Eo-Eodt = 2/3 shch/ I^2
+
 v/s^5 = ac^1/2 . E^2/1cc
 g4.5 = bst^3 / 2 - dts^-1/2 +c^2Fuv
 gmu + av = FR^-2/1 + OHCdrr
@@ -51,6 +56,7 @@ mu / M^2o = dsz(4) . FR^1/2^2213
 K(a)To = 2pxvo . 3vt2 / AHebb^-7/2*
 gu^2(vo) / N2^-37/1 = sGv^-98/1
 M^-indmg3/2t^2^-1/2g8 -dmu'cl^2 = -R^2 . 3dR3^3/4^^4/3 +dt5/AKPR arcos +1/2mFU(uv) +-b^-79/2dtsh
+
 RRF = L^n!.Ad8D + d9DVmu^ngc445301 m/s^-2/1(spi)hz:=
 -sh^2/g161^KPR22sh^1/2 = Rpwi + w1t1 - dt -dttppvo
 2(1d1ts1)/1^-b^^-2/9 + ddx(Ass.V)
@@ -68,7 +74,6 @@ dryHe = Frv^vu^2
 10KT = / . 2/1 Api/-pu.ucc
 DM = ds^5/4 - pu^-2mû'. -hu!
 arcsen^2 = Apu'-mf'/1
-
 d6/pi(as,pi,ru,Un)
 
 5/0- . Mo - ddt^2E = GEo . Q^nk . pEc - Ec2
@@ -79,12 +84,14 @@ o = -pmiEc't^3/2
 a = d-pmu . QPRRct
 q = +- -2/1dp (-R)
 j^ns-1/2)N!5 = -d0
+
 1:5000rnab = 213 Kpc . sh^3H + (2n - 1/2Hen)
 (cfdm^+1/2e+lt1) = dtt^2 +1/2-4/3.15
 GPI + K3.105^n = R^2
 dt= 2/3 -icsg8 . pi^2
 gu=dd1t1cs^2d2-DT9t'
 Ka = rc^muv^sh2-pu^2/Eccp^8''
+
 W1^3/2 + d1t1 . w^3/2 = $LUNC + target 300dsh ($0.023)
 RB + MAF = Eo - d1t1 . wrs^2|/^o,313
 cos159 = ^8pi^KPR 24/7 + 2/3 pidrt^2ms / r^2arsen3/0
@@ -94,7 +101,9 @@ He = mu . v^2 gpack(AEo) / mb^pumf^3/2
 mu = a^2 - (r^2-To) / dAa + Eo^1/2
 Ao (li30)^+-(e-e+)^fv2 + FR|x|dx-(vk) . F^u.v/At^2-cs^2+Ec4o = /TN2|dy| - 2q2 / -Tg17^-2/3
 C2H2 = TD3-cidt^1/3
+
 EOSmf1 = -RF . -vo(ypt)q2A^5/4
+
 Lm5 = p(qgz) . AE /Av^2dk^-3/2
 img = -1/2 rf . 2/3Fuv^uv / m(dm) . pU
 -1/2 - 2/2 = DTo . (qt2rs - qT2rc) / 1/2gg
@@ -102,6 +111,7 @@ DM (ds^2) > 1/2 m^e+ . (p3)i(2dt^1) | 1/2 > 1/2
 FR + dac = -At^2sds + Wo^3/1.223 
 358 dt^2sv = F271 +dr^3 / 1:121234^3/2 r^2 -cfv^2
 9/1m . dt2 = Fuv . dts2
+
 4m = QT34k5
 8mKa = 3ATo
 U^2 = U^1 . pi^u vo(n/2dts3)
@@ -109,7 +119,9 @@ U^2 = U^1 . pi^u vo(n/2dts3)
 12010:10050rpm > ( 3/2 )dt (2/2) dts (1.2/2) dr < 100K(au) > -1/2gmo
 Mdr = du^drs-4/2 . 2/3dt(3/4) / -0me + dts (2:10130)
 AUmu . vo^2/3 / 4/3 dr(du) . p10Ka -rR = - P(mr^-2/1)(de^-1/2)
+
 PM ^2/1 -dts^-1/2= 2vo . arcsen180dr10 / rpm(cos180) . G32Apro^bb+-8342gms
+
 8Di = Ecp^3 + vm^-1/2 / mbht^1 - R(u)^v
 a^2 = pr.dt.M(m) / rcK(a) . rbb^-2/3dMEc
 DMvfmh / PRN(frHe) = log(arcsen/)vo^-1wm^n-2hN/ Fuv^uv . Kpc 3242n
@@ -117,6 +129,7 @@ DMvfmh / PRN(frHe) = log(arcsen/)vo^-1wm^n-2hN/ Fuv^uv . Kpc 3242n
 Mo(at) = N(na)^uv . K(a) / rc^3
 Er^2.ST(a) = 2/ rc^8t8T -ER(kpc101)^2
 dp(gs) = v1^-1/2-vo^-w^2rci.AEc / d(ts1)^2
+
 (-K^-)! = Ak^+p Tsen^2 0º (V) -nqcos^2 360(a) / ATK (pi^n, Ec3) + q'^Qrpd^2/2
 DM = ds^5 . -int)^4/5 / F^uv . -A-K^-^pn + Mo(fq'pq2)
 dt2 / 5D(n`agtp)^-bbcs^2 = c(a
@@ -125,6 +138,7 @@ dt2 / 5D(n`agtp)^-bbcs^2 = c(a
 /OKN(a) = -0 . Rdd^2 / Qdt742(SO)
 Z|fXd| = - Fuv^uv + 3Ec^2/1 / -SVq
 v = -cos21 (n-2)^n+1d/
+
 F^uv.Ruv / qG(c^2) = -dt(q)
 300101kpc^1GeV - AEo(ac)• / |Dy| = -(dts)^2/q•s(sv)
 2py•(|Dx|^st^-2/q`) = uEOScc > d(dSO) < 1 || See Methods!
@@ -133,6 +147,7 @@ F^uv.Ruv / qG(c^2) = -dt(q)
 st(a^2) = PR(1.120 < 1.210) . -c^2s / ddrs^3 + ss(vq)^1/2 < (Dw,Ge,No,Cs)
 vo = v1 = +-1dt
 1/8RP(th)^-1/3dts1+-1/2dt = 1/3dts1^7`212
+
 AK(cfa) . CH /-T = -At^2 + cj(a^2) / -g^2 < jw < gz=o < -2/1 F(dr)^uvT
 AHe . k^+/ACO2 . -k^- = Hdro
 -K^-(n-1)/p(aE)^(n+2) = 2sq^(-3/2)n) . K^(n1+1)
@@ -140,18 +155,23 @@ q(b^-)rs - p^2 . |Dx| > q(b^+)p . |Dy|
 |Dy|/1/2pr^(n+1)• = Loo(arcsen^2(45.3124º))/|Dx| . xp^2 
 (AE,z=1,n=dpx)/1 < 2/(AE,z=1,n=dp'z) = (3 . Ec'/Qz^-0) + 5^pq'/4(Ttd . -pmf . Ud)
 Mu^drt2/to-dt1s' = 3.134gak1v . at^2
+
 8/2ab^b'c|ax| / qt3E(pn) . Thd( = QoV
 1/2TcsGv(KN) . V(He) / Od(CO2) . Od(He) = g08ru'imy^-eish/at^2
+
 Oc|mx| = ad^2 || MGg•Kfu/^(-e^2).+eK.piu'
 Kt(a) . dgid(ntciby) = ucvg /e.(d^2)gv(a)
+
 Ort . g01pi = chmg'p|y| / (x)out
 Kpc(a) = 10/4 Ecv / 4/2 Ecb
 C(n+1)^(e-e+)^2 = At1^2/-(D(n+1)ts)^2
+
 n+1 = -dqrs
 dL^2(K10vmuo) = -dqrs . -(c)^2•K-0v
 -pfs = -0K + Ddv^-2
 -cs^1(Heh) = dr^1(mhu) / (/)idK10(GgeV(h')dmu))
 F^uv/ rc^((log(j<0)Eo^(n-1)|K|(at1d)^2)) = (t2n)^-m^2 + ((3.4/(16)^2 Fuv . 16/4 GeV))
+
 qrd^4/2 / F^uv = Fuv(shd) . (qd)'^2/3
 cpf(FR) . ((l0cos(qs) . -pe(logtdd2)) = dt(qs)' . |enr1'sK|^1/2
 SO^-(cbz)^2 = (-K^-). -K^+(F^uv) . Fuv / e-ff(dx)c' . |Dy|^mo
@@ -164,13 +184,16 @@ Cs^3 - dt(qdf)^2/3 . -pK32 = -Tvts3|•
 gu^2 . ip / F(ar1d2)(lm2) = drl . d3chz(g4h')
 dtt^2s .rqs (arcsen180^(n+dy') = R(log1)Pc(sht)^3/1 / 1s
 gmc• . -sr^3 . Fu(sz)^2 / Fvi . g(cv)^(dm-1) = at^2 + dtss1
+
 im(qvt) . -i^2v = (^)3pbx / -dt(mq4/8)^02
 -wo^rd2^2/1wi = cj^1/2 + dr(vprp) / d(a^2vdc) . ih(fr) + dts(mq)^d(dmû)
 d(a^2)^(n-2) = avnt(HTh)/rdt
 ddpp^2 = -ns . qT^Fuv / fr(ka)
 gi(NGC(•out)) / rc(a^2) = Nns . K(a) / QrT(dy) ||
 || = FvRu - dt
+
 qpcs^^^(Ka) / Di = ^O2 :/... (3Hcs) /K|Ddy|dt3oM*o ... //-xo\*•*||DYH4|.intsv,5Ho?
+
 expt^-1 / -(R)^2/1 = -Ut2 . -2/3I1
 31176683434 = dd86321 |*
 || / 5/4.Fkq^-Kn = \TEv523 Gv^bb^-2
@@ -183,6 +206,7 @@ z^2 -Fuv . Tuv^uv = 3IMo
 S9 = AK(nk10(a))^n+1hg
 312st . Fs(dr)^ph / A|ds|^cq^(1 - n(x)) = - dts^qp^2 /Ncgdd(y) . 2px|dx|
 b3h . -ait^2 = bcg / logK5n . at(n3dt)^Edv(h)\
+
 2nt^(nt - 1n) = fT(kap) / m^2 . 3/1dh. (dt^-dt(ps)) . 3ûvg
 p(dvo-ar) ((MD(dgr)3id)) / (t-1)/to = (-jkt)^2^nd2 .IFv^ûv
 (i8923)Tt4Zn^/Nc^-1 = Kp^2ZN((gc(l^3)) / parc(2M)6754183
@@ -519,8 +543,6 @@ chgb>chscHto
 S10,Trs, pi,rad, O +beta
 
 -1/3 dp, -1/3dtr, -1/3 dts, 1/3 dsz < g(U)log DP
-
-
 
 Fuiv^3 = d^3vodm
 r^-g=KPZN^v3uiv
