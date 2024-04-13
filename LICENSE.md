@@ -632,3 +632,5 @@ amygdala = Z2 .RM5^4 / (N +1)^-2m^2
 |dx| = Idsv
 
 |Dy| = IL(tm)^4
+
+zmi = IC o wp^2 /dsv
