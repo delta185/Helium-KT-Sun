@@ -661,3 +661,7 @@ rc2 . D2 = V1.010(dm)
 1 = +iPe^rc3v
 
 DPA = rcd`3^ - rc2dto^v4
+
+KN^out / odds = -i . Pe^v^
+
+SU(2) = -mp/dy^ . -JA (aint)
