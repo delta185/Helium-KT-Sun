@@ -659,3 +659,5 @@ DPA^-R(R) =1/3-dt(pi) = dt(p^2^) . -g2/pi
 dt(i=md)  =2|dy|^-jvo / -RE(jr)^1/2
 DH(193)^00 = Vo(RjA)^rc-g(kpzn^d3
 M^dd3 (pi!) = RE· RC2
+
+n^n! .pi(earth) = dsv5
