@@ -655,3 +655,5 @@ Z3out = dy^DG 5-3 class
 F^3 u.^ = d^3(vo).DM
 
 rc-g . D2 = Vo(dm)
+
+rc2 . D2 = V1.010(dm)
