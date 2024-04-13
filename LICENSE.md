@@ -638,3 +638,5 @@ zmi = IC o wp^2 /dsv
 40Gev = CLPi . KPR/n
 
 Z1f,m n=1/2 0 g1.12
+
+Zq( n+1) = dszg^K3.51
