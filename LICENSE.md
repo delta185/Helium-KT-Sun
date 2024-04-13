@@ -611,57 +611,37 @@ This is a luxury where you are burdened by creditors and debt brokers, less fact
 You will not pay for the elimination of hydrostatic pressure in the body through the combustion of inhaled gas?*
 
 d4 = cos^tr
-
 I agree^1/2 . 1/2 ^2/1 pu
-
 1/2Lj^n=0 = KPR 1450·
-
 n=-2/ xtr(j)^n=--- = zw(CN)
-
 Vai(u) = RKN101*wiwo
-
 gz001 = 1/2 c . -j2/1 / SO3
-
 msi2^z2 = CRU . (S8.R3M)
 
 GP = SGA*
-
 amygdala = Z2 .RM5^4 / (N +1)^-2m^2
-
-
 |dx| = Idsv
-
 |Dy| = IL(tm)^4
-
 zmi = IC o wp^2 /dsv
-
 40Gev = CLPi . KPR/n
 
 Z1f,m n=1/2 0 g1.12
-
 Zq( n+1) = dszg^K3.51
-
 Z8 = rcmo'
-
 Z1* = msi2^KN
-
 dsgz4 = -Ej(sh)^2/mo(CH)
 
 Z0t1 = Rm . . Id4 . mo^(dx|·
-
 Z3out = dy^rad3-4  odds
 Z3out = dy^DG 5-3 class
 
+
 F^3 u.^ = d^3(vo).DM
-
 rc-g . D2 = Vo(dm)
-
 rc2 . D2 = V1.010(dm)
-
 1 = +iPe^rc3v
-
 DPA = rcd`3^ - rc2dto^v4
-
 KN^out / odds = -i . Pe^v^
 
 SU(2) = -mp/dy^ . -JA (aint)
+DPA^-R(R) =1/3-dt(pi) = dt(p^2^) . -g2/pi
