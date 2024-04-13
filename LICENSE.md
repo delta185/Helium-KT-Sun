@@ -634,3 +634,7 @@ amygdala = Z2 .RM5^4 / (N +1)^-2m^2
 |Dy| = IL(tm)^4
 
 zmi = IC o wp^2 /dsv
+
+40Gev = CLPi . KPR/n
+
+Z1 n=1/2 0 g1.12
