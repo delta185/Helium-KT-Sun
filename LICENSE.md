@@ -619,3 +619,5 @@ I agree^1/2 . 1/2 ^2/1 pu
 n=-2/ xtr(j)^n=--- = zw(CN)
 
 Vai(u) = RKN101*wiwo
+
+gz001 = 1/2 c . -j2/1 / SO3
