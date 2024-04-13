@@ -651,3 +651,5 @@ Z0t1 = Rm . . Id4 . mo^(dx|·
 
 Z3out = dy^rad3-4  odds
 Z3out = dy^DG 5-3 class
+
+F^3 u.^ = d^3(vo).DM
