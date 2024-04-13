@@ -629,3 +629,4 @@ GP = SGA*
 amygdala = Z2 .RM5^4 / (N +1)^-2m^2
 
 
+|dx| = Idsv
