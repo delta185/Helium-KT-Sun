@@ -613,3 +613,7 @@ You will not pay for the elimination of hydrostatic pressure in the body through
 d4 = cos^tr
 
 I agree^1/2 . 1/2 ^2/1 pu
+
+1/2Lj^n=0 = KPR 1450·
+
+n=-2/ xtr(j)^n=--- = zw(CN)
