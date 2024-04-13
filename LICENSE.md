@@ -657,3 +657,5 @@ F^3 u.^ = d^3(vo).DM
 rc-g . D2 = Vo(dm)
 
 rc2 . D2 = V1.010(dm)
+
+1 = +iPe^rc3v
