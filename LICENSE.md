@@ -622,4 +622,6 @@ Vai(u) = RKN101*wiwo
 
 gz001 = 1/2 c . -j2/1 / SO3
 
-msi2^z2 = CRU . (S8.R3M
+msi2^z2 = CRU . (S8.R3M)
+
+GP = SGA*
