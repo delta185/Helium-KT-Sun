@@ -637,4 +637,4 @@ zmi = IC o wp^2 /dsv
 
 40Gev = CLPi . KPR/n
 
-Z1 n=1/2 0 g1.12
+Z1f,m n=1/2 0 g1.12
