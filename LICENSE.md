@@ -664,3 +664,5 @@ n^n! .pi(earth) = dsv5
 dx(p^2) . pu9 = piIC(n+1)
 
 p^3 = -p^2 . D12(ar)
+
+KEROLOX = SO3/+SD7
