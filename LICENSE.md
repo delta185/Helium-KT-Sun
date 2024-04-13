@@ -661,3 +661,4 @@ DH(193)^00 = Vo(RjA)^rc-g(kpzn^d3
 M^dd3 (pi!) = RE· RC2
 
 n^n! .pi(earth) = dsv5
+dx(p^2) . pu9 = piIC(n+1)
