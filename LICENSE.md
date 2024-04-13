@@ -646,3 +646,5 @@ Z8 = rcmo'
 Z1* = msi2^KN
 
 dsgz4 = -Ej(sh)^2/mo(CH)
+
+Z0t1 = Rm . . Id4 . mo^(dx|·
