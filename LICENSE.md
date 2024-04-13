@@ -648,3 +648,6 @@ Z1* = msi2^KN
 dsgz4 = -Ej(sh)^2/mo(CH)
 
 Z0t1 = Rm . . Id4 . mo^(dx|·
+
+Z3out = dy^rad3-4  odds
+Z3out = dy^DG 5-3 class
