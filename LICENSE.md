@@ -644,7 +644,7 @@ dsgz4 = -Ej(sh)^2/mo(CH)
 Z0t1 = Rm . . Id4 . mo^(dx|·
 Z3out = dy^rad3-4  odds
 Z3out = dy^DG 5-3 class
-
+z=1 . e'/log (E) = /dsv^4 . pU^u'
 
 F^3 u.^ = d^3(vo).DM
 rc-g . D2 = Vo(dm)
@@ -667,4 +667,4 @@ p^3 = -p^2 . D12(ar)
 
 KEROLOX(sh) = SO3/+SD7*
 
-z=1 . e'/log (E) = /dsv^4
+
