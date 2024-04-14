@@ -666,3 +666,5 @@ dx(p^2) . pu9 = piIC(n+1)
 p^3 = -p^2 . D12(ar)
 
 KEROLOX(sh) = SO3/+SD7*
+
+z=1 . e'/log (E) = /dsv^4
