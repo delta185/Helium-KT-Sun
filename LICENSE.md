@@ -668,5 +668,4 @@ p^3 = -p^2 . D12(ar)
 KEROLOX(sh) = SO3/+SD7*
 600gr of clozapine by aint 3px·
 CR + FR = SU^(nh)
-
 any parsec navigates. ecluidean geometry. dt^3 = v^2(max)
