@@ -671,3 +671,10 @@ CR + FR = SU^(nh)
 any parsec navigates. ecluidean geometry. dt^3 = v^2(max)
 
 T11 = KPR.pi 323E5
+msi^-2 = Ua
+KU = -Q9. Rv7
+sr8 = KU^-3/4(HS)
+H8 = SO^mo(j3)/sr7·
+dts= P(b1)/ e4* .TG^1/64
+Vo = W0 - W0 / DU8^2p^2) . p(iv)
+v2 = D2 . at^2 / 40Gev(logsin)^-m
