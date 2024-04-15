@@ -679,3 +679,6 @@ H8 = SO^mo(j3)/sr7·
 dts= P(b1)/ e4* .TG^1/64
 Vo = W0 - W0 / DU8^2p^2) . p(iv)
 v2 = D2 . at^2 / 40Gev(logsin)^-m
+
+dtQ8(ua) = z = 1
+L = -Q80(ua) / KPKR54
