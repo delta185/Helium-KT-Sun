@@ -691,5 +691,6 @@ D3 = -w0^(z+1) . -pK(u) - Kab
 TGS = -Q
 S=~Q
 
-clozapina (short)
+clozapina (short) 2p^2=expt^-1
 behistina y/o dogmatil = - Kab
+
