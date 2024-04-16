@@ -682,3 +682,11 @@ v2 = D2 . at^2 / 40Gev(logsin)^-m
 
 dtQ8(ua) = z = 1
 L = -Q80(ua) / KPKR54
+
+D2 = z 1(00) = SO
+D9 z=0.5
+D11= z = 1.5
+D4=-z^2 . d^2(2)/ D9 + D11(cc)
+D3 = -w0^(z+1) . -pK(u) - Kab
+TGS = -Q
+S=~Q
