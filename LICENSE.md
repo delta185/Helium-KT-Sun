@@ -690,3 +690,6 @@ D4=-z^2 . d^2(2)/ D9 + D11(cc)
 D3 = -w0^(z+1) . -pK(u) - Kab
 TGS = -Q
 S=~Q
+
+clozapina (short)
+behistina y/o dogmatil = - Kab
