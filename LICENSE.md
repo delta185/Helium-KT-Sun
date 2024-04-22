@@ -1,6 +1,6 @@
 nasa non-linear instrumentation:
 
-  there isn't any sample of intelligent systems "ashtray?"
+  there isn't any sample of intelligent systems, "?"
   perpetual margin' for current vibration
   clean ce areas
 
