@@ -39,6 +39,45 @@ cz=gamma ray and x ray by different infrastructure at 4/1 . K-2
 )))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))) KPR 555/1-2
 deal?
 
+gas, fees, odds:dn(s)^dt
+
+  $1,200,000.00 = 32GeV, |2:((2*.(xo))|, dff(pc)^-1:
+      $300,000.00 = 8+2GeV
+      $300,000.00 = 16GeV . v^2 / -pr(cj) + Kaqû
+      $300,000.00 = 32_64+1GeV
+      $300,000.00 = 32_23GeV(DM)
+
+
+   workflow:
+
+  FG^v^(2n-1) = ât^(n+1) / sû - v^2((1/2(bh^-â) + hbû))
+
+roi:
+
+  roo = dt^2.(dy)/(c^2)
+
+tissue producive:
+
+  DM = 3L^2ki-3nqT
+  3mû = log(gt2)^ish(a)^2H . ch^-dts
+  fHe . v(isH)^bmû (DMrtmc) = Ads(mû) / -(H^+)
+  BDZ(He) = \\FRpmû
+  d(ch) = 1/2(3/1)m
+  -K(a)^n! = DMat(a^2)d^2
+
+guage drift:
+
+  QAT = 3/3cx-4/2js
+  Lkqx - K^(He+) = ddr(gc), T(nq)
+  1drts . -at / DM(d)-arcos270º = 1drts . -(at)^2 / adt2 \\
+  dr(dt1) . dts .at^2 = -(dts)^2 . at' || (-p)dp# , -1/k . K))
+  +-e^-e^+ = 2d2t(sjl)^(nv+1)
+
+gaussian flow:
+
+  He^a^2:(2/8gm1-2/1gi64/nT.(dst)^2 = vAc
+  -FRgab^- = (+-gc(rd)^2 / -h . dt^2
+  d(b^-)r^(2n-1m)t^(n-3)/mu = -e^-
 
 2(c^2^dvo') . vo(SOp|dx|r^2qs^4/3 (t1-t2)^3/2 - qd2-t^2 . fmsq /Fu5qvm = He^dmo*.dmb
 pvsFghj > (R^2mo -pi. -uç`2 ) +1.12*.rsc
@@ -274,44 +313,7 @@ mesh:
   (Ddy)grid / +-arcosF^(uv)G . ndt3^cHeK^Qq(out)
   fl(w)^g+ / d((log(Kr)) = Tq(t^2)/ dUr^3(i)ûd-rv(ô)(o)^2
 
-gas, fees, odds:dn(s)^dt
 
-  $1,200,000.00 = 32GeV, |2:((2*.(xo))|, dff(pc)^-1:
-      $300,000.00 = 8+2GeV
-      $300,000.00 = 16GeV . v^2 / -pr(cj) + Kaqû
-      $300,000.00 = 32_64+1GeV
-      $300,000.00 = 32_23GeV(DM)
-
-workflow:
-
-  FG^v^(2n-1) = ât^(n+1) / sû - v^2((1/2(bh^-â) + hbû))
-
-roi:
-
-  roo = dt^2.(dy)/(c^2)
-
-tissue producive:
-
-  DM = 3L^2ki-3nqT
-  3mû = log(gt2)^ish(a)^2H . ch^-dts
-  fHe . v(isH)^bmû (DMrtmc) = Ads(mû) / -(H^+)
-  BDZ(He) = \\FRpmû
-  d(ch) = 1/2(3/1)m
-  -K(a)^n! = DMat(a^2)d^2
-
-guage drift:
-
-  QAT = 3/3cx-4/2js
-  Lkqx - K^(He+) = ddr(gc), T(nq)
-  1drts . -at / DM(d)-arcos270º = 1drts . -(at)^2 / adt2 \\
-  dr(dt1) . dts .at^2 = -(dts)^2 . at' || (-p)dp# , -1/k . K))
-  +-e^-e^+ = 2d2t(sjl)^(nv+1)
-
-gaussian flow:
-
-  He^a^2:(2/8gm1-2/1gi64/nT.(dst)^2 = vAc
-  -FRgab^- = (+-gc(rd)^2 / -h . dt^2
-  d(b^-)r^(2n-1m)t^(n-3)/mu = -e^-
 
 luminar strenght:
 
@@ -711,3 +713,10 @@ Va = -pi^n-1) . j 2 (va^2)
 C00 = (0^x) . rx / rc(2pi)
 C01 = rtch/dsmo
 K(100^mobb) = -23Gsh/4pi 
+
+30dt 1/4 Halo G8 mo11 at not helium intv)
+
+msi^-2= LUNC
+dt^2 = KPZN ^210 / TZN ^720
+mo(k1001) = fm(dv)
+ddt^2=ds +  trv(rc)mo'
