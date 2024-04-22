@@ -697,3 +697,11 @@ behistina y/o dogmatil = - Kab
 T^n+2 =-xpo + PRZ·^c
 LUNC will broke all astronomi tissues and arcosen(radian) appear by boson theory and practical null contract
 Lo(r') = dAu
+
+H(n) = R+ . st^5/2 / /|N^n-1
+sr7 / rc (v) = sr(2) . pu'
+Va = -pi^n-1) . j 2 (va^2)
+
+C00 = (0^x) . rx / rc(2pi)
+C01 = rtch/dsmo
+K(100^mobb) = -23Gsh/4pi 
