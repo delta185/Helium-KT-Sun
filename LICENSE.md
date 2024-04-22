@@ -694,3 +694,6 @@ S=~Q
 clozapina (short) 2p^2=expt^-1
 behistina y/o dogmatil = - Kab
 
+T^n+2 =-xpo + PRZ·^c
+LUNC will broke all astronomi tissues and arcosen(radian) appear by boson theory and practical null contract
+Lo(r') = dAu
