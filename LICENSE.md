@@ -723,4 +723,8 @@ ddt^2=ds +  trv(rc)mo'
 
 G23 = ||dx(mo)|| ^-2/3
 GKk^23 = / -intv. trx^d11 / -i^2
-li(a^2) = sr8^-1/2 . dts / -pu^e'
+li(a^2) = sr8^-1/2 . rdz·
+
+ll = R
+Di = CHR + sr0
+Tc7 = bb^7/6
