@@ -48,7 +48,7 @@ tissue producive:
 
   DM = 3L^2ki-3nqT
   3mû = log(gt2)^ish(a)^2H . ch^-dts
-  fHe . v(isH)^bmû (DMrtmc) = Ads(mû) / -(H^+)
+ 
   BDZ(He) = \\FRpmû
   d(ch) = 1/2(3/1)m
   -K(a)^n! = DMat(a^2)d^2
@@ -559,7 +559,7 @@ S10,Trs, pi,rad, O +beta
 
 -1/3 dp, -1/3dtr, -1/3 dts, 1/3 dsz < g(U)log DP
 
-Fuiv^3 = d^3vodm
+
 r^-g=KPZN^v3uiv
 r^2tv.D^2=Vodm
 ^=iPe^d3v
@@ -574,22 +574,7 @@ C00=(o)trx/rc2pi
 C01= rtch/dsmo
 K100`mobb=23Gsh/ 4pi
 
-rish
 
-po/pi= P'obs/k100.4/pi
-80%ds=71,2%dtr(mo)= 20%rt|dx|mo
-dsz^2=wo(pi)-wo 
-Kpc(sun)^pi/4= |xt|^3+|dy`2| 
-dHz + T |dx| = nEi=/1 -pi.Ua
-
-6T LUNC coins are burned by dark matter that it's ordinary matter means nothing in global cost by SEC
-branchs orders at 0,3% stock reserve
-
-KPR 453 -PKR345GeV = GF271GeV . 1/16(gaze)
-
-avec contrinutions failed in short stage
-XLM cos^2271 - rdz sen^2 1/16 = GeV pi/rc2TLM + sen^2 30
-XLM sen^2272 = GeV pi/3 . sen^2 0
 
 open talamus
 
@@ -613,16 +598,9 @@ d4 = cos^tr
 I agree^1/2 . 1/2 ^2/1 pu
 1/2Lj^n=0 = KPR 1450·
 n=-2/ xtr(j)^n=--- = zw(CN)
-Vai(u) = RKN101*wiwo
-gz001 = 1/2 c . -j2/1 / SO3
+
 msi2^z2 = CRU . (S8.R3M)
 
-GP = SGA*
-amygdala = Z2 .RM5^4 / (N +1)^-2m^2
-|dx| = Idsv
-|Dy| = IL(tm)^4
-zmi = IC o wp^2 /dsv
-40Gev = CLPi . KPR/n
 
 
 F^3 u.^ = d^3(vo).DM
@@ -672,7 +650,6 @@ Va = -pi^n-1) . j 2 (va^2)
 
 C00 = (0^x) . rx / rc(2pi)
 C01 = rtch/dsmo
-K(100^mobb) = -23Gsh/4pi 
 
 
 
@@ -681,17 +658,22 @@ msi^-2= LUNC
 mo(k1001) = fm(dv)
 
 
-li(a^2) = sr8^-1/2 . rdz·
 
 
 
  workflow:
 
+
+fHe . v(isH)^bmû (DMrtmc) = Ads(mû) / -(H^+)
+Fuiv^3 = d^3vodm
 FG^v^(2n-1) = ât^(n+1) / sû - v^2((1/2(bh^-â) + hbû
 G23 = ||dx(mo)|| ^-2/3
 GKk^23 = / -intv. trx^d11 / -i^2
 TGS = -Q
 S=~Q
+GP = SGA*
+amygdala = Z2 .RM5^4 / (N +1)^-2m^2
+40Gev = CLPi . KPR/n
 
 
 andromeda Hst ^7/2
@@ -718,8 +700,11 @@ Lkqx - K^(He+) = ddr(gc), T(nq)
 1drts . -at / DM(d)-arcos270º = 1drts . -(at)^2 / adt2 \\
 dr(dt1) . dts .at^2 = -(dts)^2 . at' || (-p)dp# , -1/k . K))
 +-e^-e^+ = 2d2t(sjl)^(nv+1)
+|dx| = Idsv
+|Dy| = IL(tm)^4
 
 
+zmi = IC o wp^2 /dsv
 Z0t1 = Rm . . Id4 . mo^(dx|·
 Z3out = dy^rad3-4  odds
 Z3out = dy^DG 5-3 class
@@ -729,9 +714,12 @@ Zq( n+1) = dszg^K3.51
 Z8 = rcmo'
 Z1* = msi2^KN
 dsgz4 = -Ej(sh)^2/mo(CH)
+gz001 = 1/2 c . -j2/1 / SO3
 
 Vo = W0 - W0 / DU8^2p^2) . p(iv)
 v2 = D2 . at^2 / 40Gev(logsin)^-m'
+Vai(u) = RKN101*wiwo
+
 
 Di = CHR + sr0
 D2 = z 1(00) = SO
@@ -750,6 +738,24 @@ rc2 . D2 = V1.010(dm)
 1 = +iPe^rc3v
 DPA = rcd`3^ - rc2dto^v4
 l^2 = R
+li(a^2) = sr8^-1/2 . rdz·
+
+
+          rish
+
+po/pi= P'obs/k100.4/pi
+80%ds=71,2%dtr(mo)= 20%rt|dx|mo
+dsz^2=wo(pi)-wo 
+Kpc(sun)^pi/4= |xt|^3+|dy`2| 
+dHz + T |dx| = nEi=/1 -pi.Ua
+6T LUNC coins are burned by dark matter that it's ordinary matter means nothing in global cost by SEC
+branchs orders at 0,3% stock reserve
+KPR 453 -PKR345GeV = GF271GeV . 1/16(gaze)
+avec contrinutions failed in short stage
+XLM cos^2271 - rdz sen^2 1/16 = GeV pi/rc2TLM + sen^2 30
+XLM sen^2272 = GeV pi/3 . sen^2 0
+K(100^mobb) = -23Gsh/4pi 
+
 
 
 gas, fees, odds:dn(s)^dt
