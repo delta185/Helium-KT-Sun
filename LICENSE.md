@@ -48,13 +48,8 @@ gas, fees, odds:dn(s)^dt
       $300,000.00 = 32_23GeV(DM)
 
 
-   workflow:
 
-  FG^v^(2n-1) = ât^(n+1) / sû - v^2((1/2(bh^-â) + hbû))
 
-roi:
-
-  roo = dt^2.(dy)/(c^2)
 
 tissue producive:
 
@@ -351,6 +346,8 @@ mb:
 
 cmb:
 
+ 
+  
   K^+ . b^+ = ph . cmb
   n^vo = E(dc')
 
@@ -693,13 +690,16 @@ mo(k1001) = fm(dv)
 
 li(a^2) = sr8^-1/2 . rdz·
 
-l^2 = R
 
+
+ workflow:
+
+FG^v^(2n-1) = ât^(n+1) / sû - v^2((1/2(bh^-â) + hbû
+G23 = ||dx(mo)|| ^-2/3
+GKk^23 = / -intv. trx^d11 / -i^2
 TGS = -Q
 S=~Q
 
-G23 = ||dx(mo)|| ^-2/3
-GKk^23 = / -intv. trx^d11 / -i^2
 
 andromeda Hst ^7/2
 
@@ -747,9 +747,14 @@ D11= z = 1.5
 D4=-z^2 . d^2(2)/ D9 + D11(cc)
 D3 = -w0^(z+1) . -pK(u) - Kab
 
+roi:
+
+roo = dt^2.(dy)/(c^2)
 sr8 = KU^-3/4(HS)
 CR + FR = SU^(nh)
 rc-g . D2 = Vo(dm)
 rc2 . D2 = V1.010(dm)
 1 = +iPe^rc3v
 DPA = rcd`3^ - rc2dto^v4
+l^2 = R
+
