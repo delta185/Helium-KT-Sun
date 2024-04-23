@@ -57,7 +57,7 @@ e=(ee)+-  bad m(e)son: = peer review a lot\
 
 
 
-  DM = 3L^2ki-3nqT
+  
   3mû = log(gt2)^ish(a)^2H . ch^-dts
   BDZ(He) = \\FRpmû
   d(ch) = 1/2(3/1)m
@@ -401,7 +401,7 @@ no staking:
   elrond ||e |)a=vo(|
   an elf can wait many years /((800y., aprox.v))/*^smo
   avrg sample = 1/3 dt^u^2/1
-  p0e=))s^na)^u /c td)mu^(1/2dmo)*gpn^n
+ 
   Dr^3s^t! = d(intv)^n^3^-m^-1
   KPR (100kpc) = (30,99,-2,Dvo))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))tTquo(KPR))((((7171kpc))1.)
 
@@ -551,8 +551,7 @@ S10,Trs, pi,rad, O +beta
 -1/3 dp, -1/3dtr, -1/3 dts, 1/3 dsz < g(U)log DP
 
 
-r^-g=KPZN^v3uiv
-r^2tv.D^2=Vodm
+
 ^=iPe^d3v
 DPA=r^d^3iv-r^2dto^vu
 KNodds^out=-Pe^v
@@ -733,6 +732,9 @@ DPA = rcd`3^ - rc2dto^v4
 l^2 = R
 li(a^2) = sr8^-1/2 . rdz·
 r^3s^2m^3-log(pi).log(u)^ngc^n = 1Mo
+r^-g=KPZN^v3uiv
+r^2tv.D^2=Vodm
+
 
           rish
 
@@ -763,4 +765,10 @@ usa army:
 tissue producive:
 gaussian flow:
 
- 
+
+
+
+
+
+ DM = 3L^2ki-3nqT
+ p0e=))s^na)^u /c td)mu^(1/2dmo)*gpn^n
