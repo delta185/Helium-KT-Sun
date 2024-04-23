@@ -46,8 +46,6 @@ deal?
       $300,000.00 = 32_64+1GeV
       $300,000.00 = 32_23GeV(DM)
 
-
-
 desactivation binary algothrim by dmcode to 50years olddd in advance))))\\|
 administration laws haven't zerohedge (T)
 blood is different layer
@@ -65,7 +63,7 @@ tissue producive:
   3mû = log(gt2)^ish(a)^2H . ch^-dts
   BDZ(He) = \\FRpmû
   d(ch) = 1/2(3/1)m
-  -K(a)^n! = DMat(a^2)d^2
+ 
 
 
 gaussian flow:
@@ -231,7 +229,7 @@ q(b^-)rs - p^2 . |Dx| > q(b^+)p . |Dy|
 (AE,z=1,n=dpx)/1 < 2/(AE,z=1,n=dp'z) = (3 . Ec'/Qz^-0) + 5^pq'/4(Ttd . -pmf . Ud)
 Mu^drt2/to-dt1s' = 3.134gak1v . at^2
 
-8/2ab^b'c|ax| / qt3E(pn) . Thd( = QoV
+
 1/2TcsGv(KN) . V(He) / Od(CO2) . Od(He) = g08ru'imy^-eish/at^2
 
 Oc|mx| = ad^2 || MGg•Kfu/^(-e^2).+eK.piu'
@@ -378,14 +376,13 @@ btc:
   coma berenices
   a^2 . 5/5dRH = Smesh^(n+2)* / (-ib^2) . 3vho
  
-bubbles:
 
   panels = 2y'(px)|Dy|, (dx)^-2/1, dt=0, DM(dt) = ck(He)
   ld^-2 = -3(dxy|
   w(ce) = AH^-
   kq(br) = b+^2
 
-K9 biology systems:
+
 
   (35.2)I27 / (-dts)^-3/23* = -(cHeQ)^-2 . brdr^16piG / 5dc . 3c^2dt(rpx)^3
   dtNGC^-16/8i/At^2 .r^3pr|x| = DTN(2vo) + AE2c'iD^9/1.4
@@ -399,7 +396,7 @@ K9 biology systems:
   (TLMff) = s!|dy|/|D|Dx|)
   PR = (2Vo/1vo)2s^n . dt(yH)3|
 
-milky way prism:
+
 
   SU^-n = (PR)iD|y| . log+-(FR^2)radq(t^2) / Tn . e^-2/4
   Avrg(tech) = 3/1
@@ -413,7 +410,7 @@ no staking:
   Dr^3s^t! = d(intv)^n^3^-m^-1
   KPR (100kpc) = (30,99,-2,Dvo))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))tTquo(KPR))((((7171kpc))1.)
 
-zhukov methods:
+see methods:
 
   NGC ((2261))w|:=CDPR))
   R^2 / R^3 -R = Dy
@@ -429,8 +426,6 @@ bryn and mikita methods
   bch . dt(r^2) = - adq / tc^|dx|^-m^2^(n!-1)
 
 
-
-skyrocket:
 
   Ud = b(msi)
   ph(in)^((-br(ps)/c^3)) = f(mc)dph(u)(v^3)
@@ -454,7 +449,6 @@ PK(1.1'.0,FBI=) genetic systems'\dtr^27(-1ds,-1dtr,0,0) = 0 (pfcdt)^nH . (pfB^-(
   -ch/3H . at^2 = p^2/-dt
   -r = ph + c^3/2
 
-horizon 2030
 
   4/3 bH = gdc^3
   DMdr = lo(g) p^2
@@ -675,14 +669,11 @@ amygdala = Z2 .RM5^4 / (N +1)^-2m^2
 40Gev = CLPi . KPR/n
 
 
-andromeda Hst ^7/2
-
         I3, hold right respiratory lung tensor for isometry and isomery settings
         KPN production tensor by rny tissue
 
 
 
-guage drift:
 
 ddt^2=ds +  trv(rc)mo'
 Tc7 = bb^7/6
@@ -703,7 +694,7 @@ dr(dt1) . dts .at^2 = -(dts)^2 . at' || (-p)dp# , -1/k . K))
 |Dy| = IL(tm)^4
 L = -Q80(ua) / KPKR54
 H(n) = R+ . st^5/2 / /|N^n-1
-
+8/2ab^b'c|ax| / qt3E(pn) . Thd( = QoV
 
 
 
@@ -762,7 +753,14 @@ avec contrinutions failed in short stage
 XLM cos^2271 - rdz sen^2 1/16 = GeV pi/rc2TLM + sen^2 30
 XLM sen^2272 = GeV pi/3 . sen^2 0
 K(100^mobb) = -23Gsh/4pi 
+-K(a)^n! = DMat(a^2)d^2
 
 
 
-
+K9 biology systems:
+milky way prism:
+horizon 2030
+bubbles:
+guage drift:
+andromeda Hst ^7/2
+skyrocket:
