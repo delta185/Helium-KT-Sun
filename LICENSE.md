@@ -641,16 +641,6 @@ amygdala = Z2 .RM5^4 / (N +1)^-2m^2
 zmi = IC o wp^2 /dsv
 40Gev = CLPi . KPR/n
 
-Z1f,m n=1/2 0 g1.12
-Zq( n+1) = dszg^K3.51
-Z8 = rcmo'
-Z1* = msi2^KN
-dsgz4 = -Ej(sh)^2/mo(CH)
-
-Z0t1 = Rm . . Id4 . mo^(dx|·
-Z3out = dy^rad3-4  odds
-Z3out = dy^DG 5-3 class
-z=1 . e'/log (E) = /dsv^4 . pU^u'
 
 F^3 u.^ = d^3(vo).DM
 rc-g . D2 = Vo(dm)
@@ -662,7 +652,7 @@ KN^out / odds = -i . Pe^v^
 SU(2) = -mp/dy^ . -JA (aint)
 DPA^-R(R) =1/3-dt(pi) = dt(p^2^) . -g2/pi
 
-dt(i=md)  =2|dy|^-jvo / -RE(jr)^1/2
+
 DH(193)^00 = Vo(RjA)^rc-g(kpzn^d3
 M^dd3 (pi!) = RE· RC2
 
@@ -673,29 +663,23 @@ p^3 = -p^2 . D12(ar)
 
 KEROLOX(sh) = SO3/+SD7*
 600gr of clozapine by aint 3px·
-CR + FR = SU^(nh)
+
 any parsec navigates. ecluidean geometry. dt^3 = v^2(max)
 
-T11 = KPR.pi 323E5
+
 msi^-2 = Ua
 KU = -Q9. Rv7
 sr8 = KU^-3/4(HS)
+CR + FR = SU^(nh)
+
 
 H8 = SO^mo(j3)/sr7·
-dts= P(b1)/ e4* .TG^1/64
-Vo = W0 - W0 / DU8^2p^2) . p(iv)
-v2 = D2 . at^2 / 40Gev(logsin)^-m
 
-dtQ8(ua) = z = 1
+
+
 L = -Q80(ua) / KPKR54
 
-D2 = z 1(00) = SO
-D9 z=0.5
-D11= z = 1.5
-D4=-z^2 . d^2(2)/ D9 + D11(cc)
-D3 = -w0^(z+1) . -pK(u) - Kab
-TGS = -Q
-S=~Q
+
 
 clozapina (short) 2p^2=expt^-1
 behistina y/o dogmatil = - Kab
@@ -712,27 +696,57 @@ C00 = (0^x) . rx / rc(2pi)
 C01 = rtch/dsmo
 K(100^mobb) = -23Gsh/4pi 
 
-30dt 1/4 Halo G8 mo11 at not helium intv)
+
 
 msi^-2= LUNC
 
 mo(k1001) = fm(dv)
 
-G23 = ||dx(mo)|| ^-2/3
-GKk^23 = / -intv. trx^d11 / -i^2
+
 li(a^2) = sr8^-1/2 . rdz·
 
 l^2 = R
-Di = CHR + sr0
+
+TGS = -Q
+S=~Q
+
+G23 = ||dx(mo)|| ^-2/3
+GKk^23 = / -intv. trx^d11 / -i^2
 
 andromeda Hst ^7/2
 
-I3, hold right respiratory lung tensor for isometry and isomery settings
+        I3, hold right respiratory lung tensor for isometry and isomery settings
+        KPN production tensor by rny tissue
 
-KPN production tensor by rny tissue
 
 ddt^2=ds +  trv(rc)mo'
 Tc7 = bb^7/6
 Tuv.-R^3/rad arcos270º = Fuv . mf /dt3 +-Hvu^-2dmt^-nA^logN^(n-3) // - Ga(21334321!34556) . sv Gngcº91!216594832 ...
 trust (kn)
 dt^2 = KPZN ^210 / TZN ^720
+30dt 1/4 Halo G8 mo11 at not helium intv)
+dtQ8(ua) = z = 1
+dt(i=md)  =2|dy|^-jvo / -RE(jr)^1/2
+dts= P(b1)/ e4* .TG^1/64
+T11 = KPR.pi 323E5
+
+
+Z0t1 = Rm . . Id4 . mo^(dx|·
+Z3out = dy^rad3-4  odds
+Z3out = dy^DG 5-3 class
+z=1 . e'/log (E) = /dsv^4 . pU^u'
+Z1f,m n=1/2 0 g1.12
+Zq( n+1) = dszg^K3.51
+Z8 = rcmo'
+Z1* = msi2^KN
+dsgz4 = -Ej(sh)^2/mo(CH)
+
+Vo = W0 - W0 / DU8^2p^2) . p(iv)
+v2 = D2 . at^2 / 40Gev(logsin)^-m'
+
+Di = CHR + sr0
+D2 = z 1(00) = SO
+D9 z=0.5
+D11= z = 1.5
+D4=-z^2 . d^2(2)/ D9 + D11(cc)
+D3 = -w0^(z+1) . -pK(u) - Kab
