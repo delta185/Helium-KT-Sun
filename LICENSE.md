@@ -40,15 +40,10 @@ cz=gamma ray and x ray by different infrastructure at 4/1 . K-2
 deal?
 
 
-
-
-
-
 tissue producive:
 
   DM = 3L^2ki-3nqT
   3mû = log(gt2)^ish(a)^2H . ch^-dts
- 
   BDZ(He) = \\FRpmû
   d(ch) = 1/2(3/1)m
   -K(a)^n! = DMat(a^2)d^2
@@ -89,7 +84,7 @@ shH = M|ak|o - v^2 / dsvz(RPSMoo34)
 
 Mo/sh (20)
 
-Vo^v2dQ = AFûv . c^2 / G4Po^1
+
 s3s5 = 4Qv - (2T-To4)
 p(a) + a^2 / df = q^3/1 - mf^2/3 / T(k)^2/2 - dEc^+-w(jr)(rp)
 ANGC = c^2 . PK,Zmu^- . (arsen0),N3t^3/2 / -i^2DT^? - v(ka)t3
@@ -457,7 +452,6 @@ dts long live learning
 1/2 SM(dsh^d(pi3u))/dt^log2D(x)^3drms^-vi^2N(cfj)^vlz^2(dg)^3
   1(dt) = 10x'(dt)
 
-Vo(dtzn)~vo(tzn)
 
 desactivation binary algothrim by dmcode to 50years olddd in advance))))\\|
 
@@ -719,7 +713,8 @@ gz001 = 1/2 c . -j2/1 / SO3
 Vo = W0 - W0 / DU8^2p^2) . p(iv)
 v2 = D2 . at^2 / 40Gev(logsin)^-m'
 Vai(u) = RKN101*wiwo
-
+Vo(dtzn)~vo(tzn)
+Vo^v2dQ = AFûv . c^2 / G4Po^1
 
 Di = CHR + sr0
 D2 = z 1(00) = SO
