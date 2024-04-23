@@ -162,13 +162,7 @@ FR + dac = -At^2sds + Wo^3/1.223
 358 dt^2sv = F271 +dr^3 / 1:121234^3/2 r^2 -cfv^2
 9/1m . dt2 = Fuv . dts2
 
-4m = QT34k5
-8mKa = 3ATo
-U^2 = U^1 . pi^u vo(n/2dts3)
-12010:10050rpm < ( -4/2 )dt (3/1) dts (2/1) dr > 100K(au) < 5/4mo
-12010:10050rpm > ( 3/2 )dt (2/2) dts (1.2/2) dr < 100K(au) > -1/2gmo
-Mdr = du^drs-4/2 . 2/3dt(3/4) / -0me + dts (2:10130)
-AUmu . vo^2/3 / 4/3 dr(du) . p10Ka -rR = - P(mr^-2/1)(de^-1/2)
+
 
 PM ^2/1 -dts^-1/2= 2vo . arcsen180dr10 / rpm(cos180) . G32Apro^bb+-8342gms
 
@@ -326,11 +320,15 @@ mb:
   (n-2)^2 = cTs(âû) / ph(cmb) . dts(dchg)^3
 
 cmb:
-
+4m = QT34k5
+8mKa = 3ATo
+U^2 = U^1 . pi^u vo(n/2dts3)
+12010:10050rpm < ( -4/2 )dt (3/1) dts (2/1) dr > 100K(au) < 5/4mo
+12010:10050rpm > ( 3/2 )dt (2/2) dts (1.2/2) dr < 100K(au) > -1/2gmo
+Mdr = du^drs-4/2 . 2/3dt(3/4) / -0me + dts (2:10130)
+AUmu . vo^2/3 / 4/3 dr(du) . p10Ka -rR = - P(mr^-2/1)(de^-1/2)
  
-  
-  K^+ . b^+ = ph . cmb
-  n^vo = E(dc')
+
 
 quantile:
 
@@ -493,12 +491,14 @@ P|dx| = D|dx| = MHe(ch)^logKTN^-l^2
 
 -log PNGC ch(ca)^-mspi(ch)s^2^-! =SD<DH<Hdsu^nD^-ED'!
 
-+-msiRP < Tch =-bbout\
 
-2d(msi)^1/3k-k+!
 
 k9^! (msi)^n = 1/3^-n dt^(d-1)< d+1 < r^3(a^2)/log(DH)
+  
+  K^+ . b^+ = ph . cmb
+  n^vo = E(dc')
 
+  
 d4 2KNch = RK10 (kerolox) log(dtr
 
 all container' composites are ebooks. no thrust
@@ -571,7 +571,7 @@ I agree^1/2 . 1/2 ^2/1 pu
 1/2Lj^n=0 = KPR 1450·
 n=-2/ xtr(j)^n=--- = zw(CN)
 
-msi2^z2 = CRU . (S8.R3M)
+
 
 
 
@@ -596,16 +596,7 @@ KEROLOX(sh) = SO3/+SD7*
 
 any parsec navigates. ecluidean geometry. dt^3 = v^2(max)
 
-
-
-KU = -Q9. Rv7
-
-
 H8 = SO^mo(j3)/sr7·
-
-
-
-
 
 
 
@@ -620,17 +611,19 @@ C00 = (0^x) . rx / rc(2pi)
 C01 = rtch/dsmo
 
 
-msi^-2 = Ua
-msi^-2= LUNC
 
 mo(k1001) = fm(dv)
 
 
 
 
-
  workflow:
 
+msi^-2 = Ua
+msi^-2= LUNC
++-msiRP < Tch =-bbout\
+2d(msi)^1/3k-k+!
+msi2^z2 = CRU . (S8.R3M)
 
 fHe . v(isH)^bmû (DMrtmc) = Ads(mû) / -(H^+)
 Fuiv^3 = d^3vodm
@@ -739,7 +732,7 @@ K(100^mobb) = -23Gsh/4pi
 Kpc(sun)^pi/4= |xt|^3+|dy`2| 
 KPR 453 -PKR345GeV = GF271GeV . 1/16(gaze)
 mvt . At^2/ ic + KPR sh-R^2^1/2 = dd723^-4/3 r^8 / Gc . drT^ds1t2s2 SO3PM
-
+KU = -Q9. Rv7
 
 p(a) + a^2 / df = q^3/1 - mf^2/3 / T(k)^2/2 - dEc^+-w(jr)(rp)
 ANGC = c^2 . PK,Zmu^- . (arsen0),N3t^3/2 / -i^2DT^? - v(ka)t3
