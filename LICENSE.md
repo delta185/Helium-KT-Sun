@@ -97,25 +97,7 @@ shH = M|ak|o - v^2 / dsvz(RPSMoo34)
 Mo/sh (20)
 
 
-s3s5 = 4Qv - (2T-To4)
-p(a) + a^2 / df = q^3/1 - mf^2/3 / T(k)^2/2 - dEc^+-w(jr)(rp)
-ANGC = c^2 . PK,Zmu^- . (arsen0),N3t^3/2 / -i^2DT^? - v(ka)t3
-|Apsu)) = 4Q d(so) drs3/5 / 4/3 ddpparsen 90
-Q-dr^2 . |+-g16p^n! = -Rqt2/3 + gb^arsen180cs, atmdhs
-pHe = 15shv/^2 + Frsh/-ssnPo|
-Vvo^3 +3/2KQq'arcon279º = Tuv . F^uv
 
-SO (30)
-
-
-apo)m =(FfR)d"cI" . se^2epid2t2,1.12^2/3 + k5uvsh /-grr + FR . cs (SOkadtm) + intv ^3 drSMmn
-mvt . At^2/ ic + KPR sh-R^2^1/2 = dd723^-4/3 r^8 / Gc . drT^ds1t2s2 SO3PM
-Lim Eo-Eodt = 2/3 shch/ I^2
-
-v/s^5 = ac^1/2 . E^2/1cc
-g4.5 = bst^3 / 2 - dts^-1/2 +c^2Fuv
-gmu + av = FR^-2/1 + OHCdrr
-Dz(4)334(k) = (SO) . YM^2oOpi543234
 
 M (d4,40Epcc')
 
@@ -689,7 +671,7 @@ L = -Q80(ua) / KPKR54
 H(n) = R+ . st^5/2 / /|N^n-1
 8/2ab^b'c|ax| / qt3E(pn) . Thd( = QoV
 T^n+2 =-xpo + PRZ·^c
-
+s3s5 = 4Qv - (2T-To4)
 
 
 zmi = IC o wp^2 /dsv
@@ -756,6 +738,30 @@ K(100^mobb) = -23Gsh/4pi
 -K(a)^n! = DMat(a^2)d^2
 Kpc(sun)^pi/4= |xt|^3+|dy`2| 
 KPR 453 -PKR345GeV = GF271GeV . 1/16(gaze)
+mvt . At^2/ ic + KPR sh-R^2^1/2 = dd723^-4/3 r^8 / Gc . drT^ds1t2s2 SO3PM
+
+
+p(a) + a^2 / df = q^3/1 - mf^2/3 / T(k)^2/2 - dEc^+-w(jr)(rp)
+ANGC = c^2 . PK,Zmu^- . (arsen0),N3t^3/2 / -i^2DT^? - v(ka)t3
+|Apsu)) = 4Q d(so) drs3/5 / 4/3 ddpparsen 90
+Q-dr^2 . |+-g16p^n! = -Rqt2/3 + gb^arsen180cs, atmdhs
+pHe = 15shv/^2 + Frsh/-ssnPo|
+Vvo^3 +3/2KQq'arcon279º = Tuv . F^uv
+
+SO (30)
+
+
+apo)m =(FfR)d"cI" . se^2epid2t2,1.12^2/3 + k5uvsh /-grr + FR . cs (SOkadtm) + intv ^3 drSMmn
+
+Lim Eo-Eodt = 2/3 shch/ I^2
+
+v/s^5 = ac^1/2 . E^2/1cc
+g4.5 = bst^3 / 2 - dts^-1/2 +c^2Fuv
+gmu + av = FR^-2/1 + OHCdrr
+Dz(4)334(k) = (SO) . YM^2oOpi543234
+
+
+
 
 
 
