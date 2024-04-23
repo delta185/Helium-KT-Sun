@@ -61,7 +61,7 @@ e=(ee)+-  bad m(e)son: = peer review a lot\
   
   3mû = log(gt2)^ish(a)^2H . ch^-dts
   BDZ(He) = \\FRpmû
-  d(ch) = 1/2(3/1)m
+  
  
 
 
@@ -615,7 +615,7 @@ KEROLOX(sh) = SO3/+SD7*
 any parsec navigates. ecluidean geometry. dt^3 = v^2(max)
 
 
-msi^-2 = Ua
+
 KU = -Q9. Rv7
 
 
@@ -630,7 +630,6 @@ H8 = SO^mo(j3)/sr7·
 clozapina (short) 2p^2=expt^-1
 behistina y/o dogmatil = - Kab
 
-T^n+2 =-xpo + PRZ·^c
 
 Lo(r') = dAu
 
@@ -639,7 +638,7 @@ C00 = (0^x) . rx / rc(2pi)
 C01 = rtch/dsmo
 
 
-
+msi^-2 = Ua
 msi^-2= LUNC
 
 mo(k1001) = fm(dv)
@@ -689,6 +688,7 @@ dr(dt1) . dts .at^2 = -(dts)^2 . at' || (-p)dp# , -1/k . K))
 L = -Q80(ua) / KPKR54
 H(n) = R+ . st^5/2 / /|N^n-1
 8/2ab^b'c|ax| / qt3E(pn) . Thd( = QoV
+T^n+2 =-xpo + PRZ·^c
 
 
 
@@ -718,6 +718,8 @@ D11= z = 1.5
 D4=-z^2 . d^2(2)/ D9 + D11(cc)
 D3 = -w0^(z+1) . -pK(u) - Kab
 2(c^2^dvo') . vo(SOp|dx|r^2qs^4/3 (t1-t2)^3/2 - qd2-t^2 . fmsq /Fu5qvm = He^dmo*
+d(ch) = 1/2(3/1)m
+
 
 roi:
 
