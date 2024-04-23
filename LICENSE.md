@@ -70,8 +70,7 @@ tissue producive:
 
 gaussian flow:
 
-  He^a^2:(2/8gm1-2/1gi64/nT.(dst)^2 = vAc
-  -FRgab^- = (+-gc(rd)^2 / -h . dt^2
+ 
   d(b^-)r^(2n-1m)t^(n-3)/mu = -e^-
 
 2(c^2^dvo') . vo(SOp|dx|r^2qs^4/3 (t1-t2)^3/2 - qd2-t^2 . fmsq /Fu5qvm = He^dmo*.dmb
@@ -473,6 +472,7 @@ dts long live learning
 
 
 
+
 I3
 
   DMcd msid mush ph(3Mo)^23Ec' parsc* mdlbb (eucn)\di flux gzfr(rdz/NGC) |dy|
@@ -504,8 +504,9 @@ drs /dts . K10^h^3s/2m = p^2(vo)^dc^3t / K9(dtr) . -G(1.0, 2d^DRP)
 
 FR = 1/2mu(3)
 FR(si,hy^2/htc(su)) = 2h^2-3dz,d2su/3
+ He^a^2:(2/8gm1-2/1gi64/nT.(dst)^2 = vAc
+  -FRgab^- = (+-gc(rd)^2 / -h . dt^2
 
-r^3s^2m^3-log(pi).log(u)^ngc^n = 1Mo
 
 
 
@@ -744,7 +745,7 @@ rc2 . D2 = V1.010(dm)
 DPA = rcd`3^ - rc2dto^v4
 l^2 = R
 li(a^2) = sr8^-1/2 . rdz·
-
+r^3s^2m^3-log(pi).log(u)^ngc^n = 1Mo
 
           rish
 
