@@ -120,7 +120,7 @@ Vvo^3 +3/2KQq'arcon279º = Tuv . F^uv
 SO (30)
 
 grr = goo - wo / -1.214^22/4
-Tuv.-R^3/rad arcos270º = Fuv . mf /dt3 +-Hvu^-2dmt^-nA^logN^(n-3) // - Ga(21334321!34556) . sv Gngcº91!216594832 ...
+
 apo)m =(FfR)d"cI" . se^2epid2t2,1.12^2/3 + k5uvsh /-grr + FR . cs (SOkadtm) + intv ^3 drSMmn
 mvt . At^2/ ic + KPR sh-R^2^1/2 = dd723^-4/3 r^8 / Gc . drT^ds1t2s2 SO3PM
 Lim Eo-Eodt = 2/3 shch/ I^2
@@ -523,9 +523,7 @@ FR(si,hy^2/htc(su)) = 2h^2-3dz,d2su/3
 
 r^3s^2m^3-log(pi).log(u)^ngc^n = 1Mo
 
-trust
 
-kn
 
 O|H (ch)mpsu(dy) =log (r^3,l^2^nipu)
 
@@ -717,7 +715,7 @@ K(100^mobb) = -23Gsh/4pi
 30dt 1/4 Halo G8 mo11 at not helium intv)
 
 msi^-2= LUNC
-dt^2 = KPZN ^210 / TZN ^720
+
 mo(k1001) = fm(dv)
 
 G23 = ||dx(mo)|| ^-2/3
@@ -735,3 +733,6 @@ KPN production tensor by rny tissue
 
 ddt^2=ds +  trv(rc)mo'
 Tc7 = bb^7/6
+Tuv.-R^3/rad arcos270º = Fuv . mf /dt3 +-Hvu^-2dmt^-nA^logN^(n-3) // - Ga(21334321!34556) . sv Gngcº91!216594832 ...
+trust (kn)
+dt^2 = KPZN ^210 / TZN ^720
