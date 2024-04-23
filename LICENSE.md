@@ -73,7 +73,7 @@ gaussian flow:
  
   d(b^-)r^(2n-1m)t^(n-3)/mu = -e^-
 
-2(c^2^dvo') . vo(SOp|dx|r^2qs^4/3 (t1-t2)^3/2 - qd2-t^2 . fmsq /Fu5qvm = He^dmo*.dmb
+
 pvsFghj > (R^2mo -pi. -uç`2 ) +1.12*.rsc
 3Po|ddxv-inAm^f^2! = jnds^2/KPR 3212312243453455523*.int
 5T - AkmD = -Qtt^2 + v^qq^n!*.lk
@@ -732,6 +732,7 @@ D9 z=0.5
 D11= z = 1.5
 D4=-z^2 . d^2(2)/ D9 + D11(cc)
 D3 = -w0^(z+1) . -pK(u) - Kab
+2(c^2^dvo') . vo(SOp|dx|r^2qs^4/3 (t1-t2)^3/2 - qd2-t^2 . fmsq /Fu5qvm = He^dmo*
 
 roi:
 
