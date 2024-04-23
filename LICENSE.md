@@ -39,6 +39,16 @@ cz=gamma ray and x ray by different infrastructure at 4/1 . K-2
 )))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))) KPR 555/1-2
 deal?
 
+desactivation binary algothrim by dmcode to 50years olddd in advance))))\\|
+administration laws haven't zerohedge (T)
+blood is different layer
+
+rash ce (KPR50y) = 9/1ce
+hackectt+(p^2)^log(ebs- =  |dx| . lis^ctt / d|(msi)| . ~SU/SO~
+qubit difficult problems without tensor\drop quantile))
+e=(ee)+-  bad m(e)son: = peer review a lot\
+
+
 
 tissue producive:
 
@@ -453,18 +463,6 @@ dts long live learning
   1(dt) = 10x'(dt)
 
 
-desactivation binary algothrim by dmcode to 50years olddd in advance))))\\|
-
-administration laws haven't zerohedge (T)
-  blood is different layer
-
-rash ce (KPR50y) = 9/1ce
-
-hackectt+(p^2)^log(ebs- =  |dx| . lis^ctt / d|(msi)| . ~SU/SO~
-
-qubit difficult problems without tensor\drop quantile))
-
-  e=(ee)+-  bad m(e)son: = peer review a lot\
 
 I3
 
