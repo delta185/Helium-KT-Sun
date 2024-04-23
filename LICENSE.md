@@ -719,18 +719,19 @@ K(100^mobb) = -23Gsh/4pi
 msi^-2= LUNC
 dt^2 = KPZN ^210 / TZN ^720
 mo(k1001) = fm(dv)
-ddt^2=ds +  trv(rc)mo'
 
 G23 = ||dx(mo)|| ^-2/3
 GKk^23 = / -intv. trx^d11 / -i^2
 li(a^2) = sr8^-1/2 . rdz·
 
-ll = R
+l^2 = R
 Di = CHR + sr0
-Tc7 = bb^7/6
 
 andromeda Hst ^7/2
 
 I3, hold right respiratory lung tensor for isometry and isomery settings
 
 KPN production tensor by rny tissue
+
+ddt^2=ds +  trv(rc)mo'
+Tc7 = bb^7/6
