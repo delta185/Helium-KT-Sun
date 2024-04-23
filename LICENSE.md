@@ -728,3 +728,5 @@ li(a^2) = sr8^-1/2 . rdz·
 ll = R
 Di = CHR + sr0
 Tc7 = bb^7/6
+
+andromeda Hst ^7/2
