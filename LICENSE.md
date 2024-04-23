@@ -2,6 +2,7 @@
 
 
 NASA has a non-linear navigation system, so, no instrumentation
+AVEC contrinutions failed in short stage.
 
   there isn't any sample of intelligent systems, "?"
   perpetual margin' for current vibration
@@ -106,7 +107,6 @@ Vvo^3 +3/2KQq'arcon279º = Tuv . F^uv
 
 SO (30)
 
-grr = goo - wo / -1.214^22/4
 
 apo)m =(FfR)d"cI" . se^2epid2t2,1.12^2/3 + k5uvsh /-grr + FR . cs (SOkadtm) + intv ^3 drSMmn
 mvt . At^2/ ic + KPR sh-R^2^1/2 = dd723^-4/3 r^8 / Gc . drT^ds1t2s2 SO3PM
@@ -734,26 +734,30 @@ li(a^2) = sr8^-1/2 . rdz·
 r^3s^2m^3-log(pi).log(u)^ngc^n = 1Mo
 r^-g=KPZN^v3uiv
 r^2tv.D^2=Vodm
+grr = goo - wo / -1.214^22/4
 
 
-          rish
-
+          
 po/pi= P'obs/k100.4/pi
 80%ds=71,2%dtr(mo)= 20%rt|dx|mo
 dsz^2=wo(pi)-wo 
-Kpc(sun)^pi/4= |xt|^3+|dy`2| 
+
 dHz + T |dx| = nEi=/1 -pi.Ua
 6T LUNC coins are burned by dark matter that it's ordinary matter means nothing in global cost by SEC
 branchs orders at 0,3% stock reserve
-KPR 453 -PKR345GeV = GF271GeV . 1/16(gaze)
-avec contrinutions failed in short stage
+
+
 XLM cos^2271 - rdz sen^2 1/16 = GeV pi/rc2TLM + sen^2 30
 XLM sen^2272 = GeV pi/3 . sen^2 0
+
 K(100^mobb) = -23Gsh/4pi 
 -K(a)^n! = DMat(a^2)d^2
+Kpc(sun)^pi/4= |xt|^3+|dy`2| 
+KPR 453 -PKR345GeV = GF271GeV . 1/16(gaze)
 
 
 
+rish
 K9 biology systems:
 milky way prism:
 horizon 2030
