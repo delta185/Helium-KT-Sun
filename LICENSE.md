@@ -39,13 +39,6 @@ cz=gamma ray and x ray by different infrastructure at 4/1 . K-2
 )))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))) KPR 555/1-2
 deal?
 
-gas, fees, odds:dn(s)^dt
-
-  $1,200,000.00 = 32GeV, |2:((2*.(xo))|, dff(pc)^-1:
-      $300,000.00 = 8+2GeV
-      $300,000.00 = 16GeV . v^2 / -pr(cj) + Kaqû
-      $300,000.00 = 32_64+1GeV
-      $300,000.00 = 32_23GeV(DM)
 
 
 
@@ -757,4 +750,13 @@ rc2 . D2 = V1.010(dm)
 1 = +iPe^rc3v
 DPA = rcd`3^ - rc2dto^v4
 l^2 = R
+
+
+gas, fees, odds:dn(s)^dt
+
+  $3,000,000.00 = 32GeV, |2:((2*.(xo))|, dff(pc)^-1:
+      $300,000.00 = 8+2GeV
+      $300,000.00 = 16GeV . v^2 / -pr(cj) + Kaqû
+      $300,000.00 = 32_64+1GeV
+      $300,000.00 = 32_23GeV(DM)
 
