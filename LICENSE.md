@@ -730,3 +730,7 @@ Di = CHR + sr0
 Tc7 = bb^7/6
 
 andromeda Hst ^7/2
+
+I3, hold right respiratory lung tensor for isometry and isomery settings
+
+KPN production tensor by rny tissue
