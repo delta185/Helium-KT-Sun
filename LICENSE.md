@@ -634,7 +634,7 @@ H8 = SO^mo(j3)/sr7·
 
 
 
-L = -Q80(ua) / KPKR54
+
 
 
 
@@ -645,9 +645,6 @@ T^n+2 =-xpo + PRZ·^c
 
 Lo(r') = dAu
 
-H(n) = R+ . st^5/2 / /|N^n-1
-sr7 / rc (v) = sr(2) . pu'
-Va = -pi^n-1) . j 2 (va^2)
 
 C00 = (0^x) . rx / rc(2pi)
 C01 = rtch/dsmo
@@ -703,6 +700,10 @@ dr(dt1) . dts .at^2 = -(dts)^2 . at' || (-p)dp# , -1/k . K))
 +-e^-e^+ = 2d2t(sjl)^(nv+1)
 |dx| = Idsv
 |Dy| = IL(tm)^4
+L = -Q80(ua) / KPKR54
+H(n) = R+ . st^5/2 / /|N^n-1
+
+
 
 
 zmi = IC o wp^2 /dsv
@@ -722,6 +723,7 @@ v2 = D2 . at^2 / 40Gev(logsin)^-m'
 Vai(u) = RKN101*wiwo
 Vo(dtzn)~vo(tzn)
 Vo^v2dQ = AFûv . c^2 / G4Po^1
+Va = -pi^n-1) . j 2 (va^2)
 
 Di = CHR + sr0
 D2 = z 1(00) = SO
@@ -732,6 +734,7 @@ D3 = -w0^(z+1) . -pK(u) - Kab
 
 roi:
 
+sr7 / rc (v) = sr(2) . pu'
 roo = dt^2.(dy)/(c^2)
 sr8 = KU^-3/4(HS)
 CR + FR = SU^(nh)
