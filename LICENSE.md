@@ -65,13 +65,6 @@ tissue producive:
   d(ch) = 1/2(3/1)m
   -K(a)^n! = DMat(a^2)d^2
 
-guage drift:
-
-  QAT = 3/3cx-4/2js
-  Lkqx - K^(He+) = ddr(gc), T(nq)
-  1drts . -at / DM(d)-arcos270º = 1drts . -(at)^2 / adt2 \\
-  dr(dt1) . dts .at^2 = -(dts)^2 . at' || (-p)dp# , -1/k . K))
-  +-e^-e^+ = 2d2t(sjl)^(nv+1)
 
 gaussian flow:
 
@@ -643,10 +636,7 @@ zmi = IC o wp^2 /dsv
 
 
 F^3 u.^ = d^3(vo).DM
-rc-g . D2 = Vo(dm)
-rc2 . D2 = V1.010(dm)
-1 = +iPe^rc3v
-DPA = rcd`3^ - rc2dto^v4
+
 KN^out / odds = -i . Pe^v^
 
 SU(2) = -mp/dy^ . -JA (aint)
@@ -669,8 +659,6 @@ any parsec navigates. ecluidean geometry. dt^3 = v^2(max)
 
 msi^-2 = Ua
 KU = -Q9. Rv7
-sr8 = KU^-3/4(HS)
-CR + FR = SU^(nh)
 
 
 H8 = SO^mo(j3)/sr7·
@@ -719,6 +707,9 @@ andromeda Hst ^7/2
         KPN production tensor by rny tissue
 
 
+
+guage drift:
+
 ddt^2=ds +  trv(rc)mo'
 Tc7 = bb^7/6
 Tuv.-R^3/rad arcos270º = Fuv . mf /dt3 +-Hvu^-2dmt^-nA^logN^(n-3) // - Ga(21334321!34556) . sv Gngcº91!216594832 ...
@@ -729,6 +720,11 @@ dtQ8(ua) = z = 1
 dt(i=md)  =2|dy|^-jvo / -RE(jr)^1/2
 dts= P(b1)/ e4* .TG^1/64
 T11 = KPR.pi 323E5
+QAT = 3/3cx-4/2js
+Lkqx - K^(He+) = ddr(gc), T(nq)
+1drts . -at / DM(d)-arcos270º = 1drts . -(at)^2 / adt2 \\
+dr(dt1) . dts .at^2 = -(dts)^2 . at' || (-p)dp# , -1/k . K))
++-e^-e^+ = 2d2t(sjl)^(nv+1)
 
 
 Z0t1 = Rm . . Id4 . mo^(dx|·
@@ -750,3 +746,10 @@ D9 z=0.5
 D11= z = 1.5
 D4=-z^2 . d^2(2)/ D9 + D11(cc)
 D3 = -w0^(z+1) . -pK(u) - Kab
+
+sr8 = KU^-3/4(HS)
+CR + FR = SU^(nh)
+rc-g . D2 = Vo(dm)
+rc2 . D2 = V1.010(dm)
+1 = +iPe^rc3v
+DPA = rcd`3^ - rc2dto^v4
