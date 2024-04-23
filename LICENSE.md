@@ -1,6 +1,5 @@
 
 
-
 NASA have non-linear navigation system, so, no instrumentation
 AVEC contrinutions failed in short stage.
 
