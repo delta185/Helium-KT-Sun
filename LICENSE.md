@@ -1,12 +1,12 @@
-nasa non-linear instrumentation:
+
+
+
+NASA has a non-linear navigation system, so, no instrumentation
 
   there isn't any sample of intelligent systems, "?"
   perpetual margin' for current vibration
   clean ce areas
-
-usa army:
-
-  dt= log(0|
+  dt= log(0| for me
   received SO's fermionic bubble's giraffe panels (2p(x)^2, Dy/(dx), Udt, -R|dx|) 
 
 if LUNC won`t hits 0.01. Stock market capital loses credentials in oceanic intermediary action. It's true
@@ -57,8 +57,6 @@ e=(ee)+-  bad m(e)son: = peer review a lot\
 
 
 
-tissue producive:
-
   DM = 3L^2ki-3nqT
   3mû = log(gt2)^ish(a)^2H . ch^-dts
   BDZ(He) = \\FRpmû
@@ -66,9 +64,6 @@ tissue producive:
  
 
 
-gaussian flow:
-
- 
   d(b^-)r^(2n-1m)t^(n-3)/mu = -e^-
 
 
@@ -764,3 +759,8 @@ bubbles:
 guage drift:
 andromeda Hst ^7/2
 skyrocket:
+usa army:
+tissue producive:
+gaussian flow:
+
+ 
