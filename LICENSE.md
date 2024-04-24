@@ -410,35 +410,7 @@ bryn and mikita methods
   AHe(sf) = r^2su+-gsd(Hc)
   -Ts/ = dpi\ / sT(dm) / dst
   
-  psm (H) = ((F(sc')Eb))HT / Dts
-  ss^(ds^+-1)ch^3/2Er/(3cf) . Eo^n^n!(/sr(dNn22) = r^-g(fc)H
-  KS = r^2(Hc^2)
-  c^2 = s(c')E^- (ch)
-  Hoo (-pr) / ant(Hs) = c^3 . dt^nsd / dtr(Hsu)* - (imtv /fso)^-pn!*
-  ((v^3(out)) - |T|^-nd(cH)  = pd^u / (dtp)^2 (oddsT)
-
-PK(1.1'.0,FBI=) genetic systems'\dtr^27(-1ds,-1dtr,0,0) = 0 (pfcdt)^nH . (pfB^-(e^-,e^+))(
-
-  K(1.0)-cd\ = -dtr/ log(dts)^2
-  FBI = -1/2memo^n^n!
-  cTH = v-vo
-  -ch/3H . at^2 = p^2/-dt
-  -r = ph + c^3/2
-
-
-  4/3 bH = gdc^3
-  DMdr = lo(g) p^2
-  dtr 2/3 = 3H*
-
-dm(shau) = pi(aush^3)/dmH.gu^n!
-
-dts long live learning
-  1/2 america
-  2/3 china . russia
-  (1/7,1/6,1/7,1/9) ce
-
-1/2 SM(dsh^d(pi3u))/dt^log2D(x)^3drms^-vi^2N(cfj)^vlz^2(dg)^3
-  1(dt) = 10x'(dt)
+  
 
 
 
@@ -824,3 +796,35 @@ betahistina 16 gr xp
 a^2/dv^5 = s2 . v(2)/ t(4) + U(8)
 dts . .tr = a^2
 T(so) = -T(su) . K(ab)^u.v/ v^2
+
+
+
+psm (H) = ((F(sc')Eb))HT / Dts
+  ss^(ds^+-1)ch^3/2Er/(3cf) . Eo^n^n!(/sr(dNn22) = r^-g(fc)H
+  KS = r^2(Hc^2)
+  c^2 = s(c')E^- (ch)
+  Hoo (-pr) / ant(Hs) = c^3 . dt^nsd / dtr(Hsu)* - (imtv /fso)^-pn!*
+  ((v^3(out)) - |T|^-nd(cH)  = pd^u / (dtp)^2 (oddsT)
+
+PK(1.1'.0,FBI=) genetic systems'\dtr^27(-1ds,-1dtr,0,0) = 0 (pfcdt)^nH . (pfB^-(e^-,e^+))(
+
+  K(1.0)-cd\ = -dtr/ log(dts)^2
+  FBI = -1/2memo^n^n!
+  cTH = v-vo
+  -ch/3H . at^2 = p^2/-dt
+  -r = ph + c^3/2
+
+
+  4/3 bH = gdc^3
+  DMdr = lo(g) p^2
+  dtr 2/3 = 3H*
+
+dm(shau) = pi(aush^3)/dmH.gu^n!
+
+dts long live learning
+  1/2 america
+  2/3 china . russia
+  (1/7,1/6,1/7,1/9) ce
+
+1/2 SM(dsh^d(pi3u))/dt^log2D(x)^3drms^-vi^2N(cfj)^vlz^2(dg)^3
+  1(dt) = 10x'(dt)
