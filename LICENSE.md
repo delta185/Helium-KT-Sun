@@ -807,7 +807,7 @@ cc = dts/0,8
 
 ru = dru = -qs(pi)Un^K(ab) . RH
 DMZ ^4 = 2D! / at^2
-
+c^2 = -N-e'/logv^2
 
  
  bz bg bw bb
