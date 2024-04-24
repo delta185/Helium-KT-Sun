@@ -38,7 +38,7 @@ sin00 at TGR flow on gamma . x ray. at 1/8
 cz=gamma ray and x ray by different infrastructure at 4/1 . K-2
 )))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))) KPR 555/1-2
 deal?
-            gas, fees, odds:dn(s)^dt
+            gas, fees, odds:dn(s)^dt\eureka))
 
   $3,000,000.00 = 32GeV, |2:((2*.(xo))|, dff(pc)^-1:
       $300,000.00 = 8+2GeV
