@@ -768,6 +768,11 @@ tissue producive:
 gaussian flow:
 
 
+TZN^+ = BCH(kb)
+Dr(mo) = stm·/sr^4/1CH
+B(bb)CH= rcmo' + K(100)^mo+ g(23)^32 / K9.PKR(101) + a(ds)^2
+(ds)mo = phCMB
+st + msi^-2 -msi^-1|dx|= 2(mf)
 
 
 
