@@ -801,6 +801,7 @@ z= n+2
  G23/rcZ = s^2.t^2/K^3(n+1) . R^3/4
 
 
+cc =/ cco
  
  bz bg bw bb
 
