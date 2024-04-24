@@ -410,7 +410,7 @@ bryn and mikita methods
   msd(v) = 20sd
   AHe(sf) = r^2su+-gsd(Hc)
   -Ts/ = dpi\ / sT(dm) / dst
-  dtr = 3/1 Udt / 1/2 Es (ch)
+  
   psm (H) = ((F(sc')Eb))HT / Dts
   ss^(ds^+-1)ch^3/2Er/(3cf) . Eo^n^n!(/sr(dNn22) = r^-g(fc)H
   KS = r^2(Hc^2)
@@ -614,12 +614,13 @@ C01 = rtch/dsmo
 
 
 
-mo(k1001) = fm(dv)
-
-
 
 
  workflow:
+
+              I3, hold right respiratory lung tensor for isometry and isomery settings
+                        KPN production tensor by rny tissue
+
 
 msi^-2 = Ua
 msi^-2= LUNC
@@ -627,24 +628,7 @@ msi^-2= LUNC
 2d(msi)^1/3k-k+!
 msi2^z2 = CRU . (S8.R3M)
 
-fHe . v(isH)^bmû (DMrtmc) = Ads(mû) / -(H^+)
-Fuiv^3 = d^3vodm
-FG^v^(2n-1) = ât^(n+1) / sû - v^2((1/2(bh^-â) + hbû
-G23 = ||dx(mo)|| ^-2/3
-GKk^23 = / -intv. trx^d11 / -i^2
-TGS = -Q
-S=~Q
-GP = SGA*
-amygdala = Z2 .RM5^4 / (N +1)^-2m^2
-40Gev = CLPi . KPR/n
-
-
-        I3, hold right respiratory lung tensor for isometry and isomery settings
-        KPN production tensor by rny tissue
-
-
-
-
+dtr = 3/1 Udt / 1/2 Es (ch)
 ddt^2=ds +  trv(rc)mo'
 Tc7 = bb^7/6
 Tuv.-R^3/rad arcos270º = Fuv . mf /dt3 +-Hvu^-2dmt^-nA^logN^(n-3) // - Ga(21334321!34556) . sv Gngcº91!216594832 ...
@@ -698,6 +682,20 @@ D3 = -w0^(z+1) . -pK(u) - Kab
 d(ch) = 1/2(3/1)m
 
 
+fHe . v(isH)^bmû (DMrtmc) = Ads(mû) / -(H^+)
+Fuiv^3 = d^3vodm
+FG^v^(2n-1) = ât^(n+1) / sû - v^2((1/2(bh^-â) + hbû
+G23 = ||dx(mo)|| ^-2/3
+GKk^23 = / -intv. trx^d11 / -i^2
+TGS = -Q
+S=~Q
+GP = SGA*
+amygdala = Z2 .RM5^4 / (N +1)^-2m^2
+40Gev = CLPi . KPR/n
+
+
+
+
 roi:
 
 sr7 / rc (v) = sr(2) . pu'
@@ -728,6 +726,10 @@ branchs orders at 0,3% stock reserve
 
 XLM cos^2271 - rdz sen^2 1/16 = GeV pi/rc2TLM + sen^2 30
 XLM sen^2272 = GeV pi/3 . sen^2 0
+
+
+TZN^+ = BCH(kb)
+
 
 K(100^mobb) = -23Gsh/4pi 
 -K(a)^n! = DMat(a^2)d^2
@@ -768,13 +770,15 @@ andromeda Hst ^7/2
 skyrocket:
 usa army:
 tissue producive:
+
+
 gaussian flow:
-
-
-TZN^+ = BCH(kb)
+mo(k1001) = fm(dv)
 Dr(mo) = stm·/sr^4/1CH
 B(bb)CH= rcmo' + K(100)^mo+ g(23)^32 / K9.PKR(101) + a(ds)^2
 (ds)mo = phCMB
+
+
 st + msi^-2 -msi^-1|dx|= 2(mf)
 
 -Kab = FA(uk)^uH/c
