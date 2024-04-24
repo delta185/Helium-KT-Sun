@@ -814,3 +814,9 @@ c^2 = -N-e'/logv^2
 
 dogmatil 50gr (xp)
 betahistina 16 gr xp
+
+
+
+a^2/dv^5 = s2 . v(2)/ t(4) + U(8)
+dts . .tr = a^2
+T(so) = -T(su) . K(ab)^u.v/ v^2
