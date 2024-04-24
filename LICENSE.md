@@ -67,8 +67,7 @@ sv rcd^5 . G1/8 . T(uv)^uv
  
 
 
-  d(b^-)r^(2n-1m)t^(n-3)/mu = -e^-
-
+ 
 
 pvsFghj > (R^2mo -pi. -uç`2 ) +1.12*.rsc
 3Po|ddxv-inAm^f^2! = jnds^2/KPR 3212312243453455523*.int
@@ -712,6 +711,7 @@ r^3s^2m^3-log(pi).log(u)^ngc^n = 1Mo
 r^-g=KPZN^v3uiv
 r^2tv.D^2=Vodm
 grr = goo - wo / -1.214^22/4
+d(b^-)r^(2n-1m)t^(n-3)/mu = -e^-
 
 
           
