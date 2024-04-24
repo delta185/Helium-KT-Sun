@@ -803,3 +803,6 @@ z= n+2
 
  
  bz bg bw bb
+
+dogmatil 50gr (xp)
+betahistina 16 gr xp
