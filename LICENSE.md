@@ -785,3 +785,18 @@ thanks for worflows at 1/3 and rent special areas. It'noghing
  p0e=))s^na)^u /c td)mu^(1/2dmo)*gpn^n
 
  HLT = 2c'^2/3 . -pu^3/2 +dt / mo^FR . Tr23
+ R^3-2R = N(us) / Tr
+ R^3(fm) = CH(2) + Epu·
+
+ dt+sr = -pi . 3wo
+
+ 2cs
+ 2tcs
+ 2wo
+ 1pwo
+ pi/360+(20/40)
+c^2 = n+1
+z= n+2
+
+ msi^2 = -qs^2 . e'^5/4 / st^1/3. rcN+dt^5/1
+ 
