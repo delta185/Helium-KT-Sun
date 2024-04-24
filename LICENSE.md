@@ -802,6 +802,13 @@ z= n+2
 
 
 cc =/ cco
+cc = dts/1,20
+cc = dts/0,8
+
+ru = dru = -qs(pi)Un^K(ab) . RH
+
+
+
  
  bz bg bw bb
 
