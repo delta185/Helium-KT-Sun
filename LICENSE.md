@@ -265,7 +265,6 @@ pcsv b^+)^2 . k(fhz) . pr3Hgg / -dt(c') (prEcg)cos^(1-n)! > b^- . Fuv^bcs / dtg!
 Euv < Fuv < -Euvo^3/1 < )KUc^Mvo) < \\To^(n-3)/11Dt(vô)^-m^2 . mûE^u(a)\k|d
 2Agg(pq) / R^3gpc" = M00dzg(radh) . (log FP . -R^2) / KP(dR^3o)
 
-nagaksua' sense, throught:
 
   EDT = DM
   SZ^OtD = |Di|rûa / |DY|sôa
@@ -742,6 +741,7 @@ andromeda Hst ^7/2
 skyrocket:
 usa army:
 tissue producive:
+nagaksua' sense, throught:
 
 
 gaussian flow:
