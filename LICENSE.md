@@ -778,3 +778,5 @@ st + msi^-2 -msi^-1|dx|= 2(mf)
 
  DM = 3L^2ki-3nqT
  p0e=))s^na)^u /c td)mu^(1/2dmo)*gpn^n
+
+ HLT = 2c'^2/3 . -pu^3/2 +dt / mo^FR . Tr23
