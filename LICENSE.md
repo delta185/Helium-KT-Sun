@@ -836,3 +836,5 @@ Euv < Fuv < -Euvo^3/1 < )KUc^Mvo) < \\To^(n-3)/11Dt(vô)^-m^2 . mûE^u(a)\k|d
   /(dy)/s3 = vT3
   (dy)^2 = 3/2(gip) + int(l^2)^(n-1-2)+(2/2dN|Dy) + 5/4drs - d3/2)
   
+
+SO(3) = sen 30· . N^(n+1)/ A^1/2
