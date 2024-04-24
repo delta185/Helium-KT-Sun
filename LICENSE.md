@@ -806,7 +806,7 @@ cc = dts/1,20
 cc = dts/0,8
 
 ru = dru = -qs(pi)Un^K(ab) . RH
-
+DMZ ^4 = 2D! / at^2
 
 
  
