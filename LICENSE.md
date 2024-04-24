@@ -774,7 +774,12 @@ B(bb)CH= rcmo' + K(100)^mo+ g(23)^32 / K9.PKR(101) + a(ds)^2
 (ds)mo = phCMB
 st + msi^-2 -msi^-1|dx|= 2(mf)
 
+-Kab = FA(uk)^uH/c
 
+salomon 72 decay Au
+salomon 27 decay -K^- + K^+
+
+thanks for worflows at 1/3 and rent special areas. It'noghing
 
  DM = 3L^2ki-3nqT
  p0e=))s^na)^u /c td)mu^(1/2dmo)*gpn^n
