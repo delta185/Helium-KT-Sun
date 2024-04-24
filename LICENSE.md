@@ -1,4 +1,4 @@
-
+NULL = |trx| . |dy|^(n+1)
 
 NASA have non-linear navigation system, so, no instrumentation
 AVEC contrinutions failed in short stage.
@@ -54,9 +54,12 @@ rash ce (KPR50y) = 9/1ce
 hackectt+(p^2)^log(ebs- =  |dx| . lis^ctt / d|(msi)| . ~SU/SO~
 qubit difficult problems without tensor\drop quantile))
 e=(ee)+-  bad m(e)son: = peer review a lot\
+thanks for worflows at 1/3 and rent special areas. It'noghing
 
+salomon 72 decay Au
+salomon 27 decay -K^- + K^+
 
-
+sv rcd^5 . G1/8 . T(uv)^uv
   
   3mû = log(gt2)^ish(a)^2H . ch^-dts
   BDZ(He) = \\FRpmû
@@ -776,10 +779,6 @@ st + msi^-2 -msi^-1|dx|= 2(mf)
 
 -Kab = FA(uk)^uH/c
 
-salomon 72 decay Au
-salomon 27 decay -K^- + K^+
-
-thanks for worflows at 1/3 and rent special areas. It'noghing
 
  DM = 3L^2ki-3nqT
  p0e=))s^na)^u /c td)mu^(1/2dmo)*gpn^n
@@ -799,4 +798,8 @@ c^2 = n+1
 z= n+2
 
  msi^2 = -qs^2 . e'^5/4 / st^1/3. rcN+dt^5/1
+ G23/rcZ = s^2.t^2/K^3(n+1) . R^3/4
+
+
  
+ bz bg bw bb
