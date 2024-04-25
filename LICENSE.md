@@ -60,32 +60,22 @@ salomon 72 decay Au
 salomon 27 decay -K^- + K^+
 
 sv rcd^5 . G1/8 . T(uv)^uv
-  
-  3mû = log(gt2)^ish(a)^2H . ch^-dts
-  BDZ(He) = \\FRpmû
-  
- 
 
 
- 
-
-
-
-mb:
+3mû = log(gt2)^ish(a)^2H . ch^-dts
+BDZ(He) = \\FRpmû
+-mb=0t (d is out)
+4m = QT34k5
+8mKa = 3ATo
 
   2px(ch)
-  -mb=0t (d is out)
+  
   Texpt^-1 = pc + gct
   (n-2)^2 = cTs(âû) / ph(cmb) . dts(dchg)^3
 
-cmb:
-4m = QT34k5
-8mKa = 3ATo
-U^2 = U^1 . pi^u vo(n/2dts3)
-12010:10050rpm < ( -4/2 )dt (3/1) dts (2/1) dr > 100K(au) < 5/4mo
-12010:10050rpm > ( 3/2 )dt (2/2) dts (1.2/2) dr < 100K(au) > -1/2gmo
-Mdr = du^drs-4/2 . 2/3dt(3/4) / -0me + dts (2:10130)
-AUmu . vo^2/3 / 4/3 dr(du) . p10Ka -rR = - P(mr^-2/1)(de^-1/2)
+
+
+
  
 
 
@@ -135,11 +125,7 @@ btc:
   SU^-n = (PR)iD|y| . log+-(FR^2)radq(t^2) / Tn . e^-2/4
   Avrg(tech) = 3/1
  
-no staking:
 
-  elrond ||e |)a=vo(|
-  an elf can wait many years /((800y., aprox.v))/*^smo
-  avrg sample = 1/3 dt^u^2/1
  
   Dr^3s^t! = d(intv)^n^3^-m^-1
   KPR (100kpc) = (30,99,-2,Dvo))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))tTquo(KPR))((((7171kpc))1.)
@@ -473,9 +459,9 @@ ANGC = c^2 . PK,Zmu^- . (arsen0),N3t^3/2 / -i^2DT^? - v(ka)t3
 |Apsu)) = 4Q d(so) drs3/5 / 4/3 ddpparsen 90
 Q-dr^2 . |+-g16p^n! = -Rqt2/3 + gb^arsen180cs, atmdhs
 
-Vvo^3 +3/2KQq'arcon279º = Tuv . F^uv
 
-SO (30)
+
+
 
 
 apo)m =(FfR)d"cI" . se^2epid2t2,1.12^2/3 + k5uvsh /-grr + FR . cs (SOkadtm) + intv ^3 drSMmn
@@ -489,6 +475,7 @@ gmu + av = FR^-2/1 + OHCdrr
 
 
 
+SO (30)
 rish
 K9 biology systems:
 milky way prism:
@@ -508,10 +495,11 @@ luminar strenght:
 energy: 
 Mo/sh (20)
 D5
+mb:
+cmb:
+no staking:
 
-
-
-
+  
 
 mo(k1001) = fm(dv)
 Dr(mo) = stm·/sr^4/1CH
@@ -596,6 +584,8 @@ dts long live learning
   1/2 america
   2/3 china . russia
   (1/7,1/6,1/7,1/9) ce
+
+  
 
 1/2 SM(dsh^d(pi3u))/dt^log2D(x)^3drms^-vi^2N(cfj)^vlz^2(dg)^3
   1(dt) = 10x'(dt)
@@ -794,6 +784,12 @@ pcsv b^+)^2 . k(fhz) . pr3Hgg / -dt(c') (prEcg)cos^(1-n)! > b^- . Fuv^bcs / dtg!
 <L . K(âv)^1 | >L . K(aû) = 30v^ i|d-xo^yv|^z^2
 Euv < Fuv < -Euvo^3/1 < )KUc^Mvo) < \\To^(n-3)/11Dt(vô)^-m^2 . mûE^u(a)\k|d
 2Agg(pq) / R^3gpc" = M00dzg(radh) . (log FP . -R^2) / KP(dR^3o)
+U^2 = U^1 . pi^u vo(n/2dts3)
+12010:10050rpm < ( -4/2 )dt (3/1) dts (2/1) dr > 100K(au) < 5/4mo
+12010:10050rpm > ( 3/2 )dt (2/2) dts (1.2/2) dr < 100K(au) > -1/2gmo
+Mdr = du^drs-4/2 . 2/3dt(3/4) / -0me + dts (2:10130)
+
+
 
 
   EDT = DM
@@ -806,7 +802,7 @@ Euv < Fuv < -Euvo^3/1 < )KUc^Mvo) < \\To^(n-3)/11Dt(vô)^-m^2 . mûE^u(a)\k|d
   fl(w)^g+ / d((log(Kr)) = Tq(t^2)/ dUr^3(i)ûd-rv(ô)(o)^2
 
 
-
+d8 = 2l(SDXY) / 4/360pi
 
 
   F^uv . Hû = intH . Fuv / RFtc(îdm)
@@ -842,13 +838,21 @@ Euv < Fuv < -Euvo^3/1 < )KUc^Mvo) < \\To^(n-3)/11Dt(vô)^-m^2 . mûE^u(a)\k|d
 
 SO(3) = sen 30· . N^(n+1)/ A^1/2
 R^3 = R^2/|dy|^o
-
-
-G23 = /e^-imz < G7
-/ = 1,01
 SO(-its) = / . G7
-Vo(/vj) = j0·0·
-d8 = 2l(SDXY) / 4/360pi
+G23 = /e^-imz < G7
 
+/ = 1,01
+
+
+
+Vo(/vj) = j0·0·
 -trv = ((-(null)trx(di))) . |dy|
 /v . c^2 = 2d^2 = n+3 /1/3e*
+Vvo^3 +3/2KQq'arcon279º = Tuv . F^uv
+AUmu . vo^2/3 / 4/3 dr(du) . p10Ka -rR = - P(mr^-2/1)(de^-1/2)
+
+
+Autopilot:
+  elrond ||e |)a=vo(|
+  an elf can wait many years /((800y., aprox.v))/*^smo
+  avrg sample = 1/3 dt^u^2/1
