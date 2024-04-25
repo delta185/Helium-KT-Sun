@@ -839,3 +839,10 @@ Euv < Fuv < -Euvo^3/1 < )KUc^Mvo) < \\To^(n-3)/11Dt(vô)^-m^2 . mûE^u(a)\k|d
 
 SO(3) = sen 30· . N^(n+1)/ A^1/2
 R^3 = R^2/|dy|^o
+
+
+G23 = /e^-imz < G7
+/ = 1,01
+SO(-its) = / . G7
+Vo(/j) = j0·0·
+d8 = 2l(SDXY) / 4/360pi
