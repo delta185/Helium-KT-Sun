@@ -66,8 +66,7 @@ sv rcd^5 . G1/8 . T(uv)^uv
 
   2px(ch)
   
-  Texpt^-1 = pc + gct
-  (n-2)^2 = cTs(âû) / ph(cmb) . dts(dchg)^3
+  
 
 
 
@@ -155,7 +154,7 @@ bryn and mikita methods
 
 
 
-I3
+
 
   DMcd msid mush ph(3Mo)^23Ec' parsc* mdlbb (eucn)\di flux gzfr(rdz/NGC) |dy|
   qT-^2-q^3
@@ -253,15 +252,10 @@ KNodds^out=-Pe^v
 -aint=dp^2/dvo^3
 
 
-stand for running:
-
-C00=(o)trx/rc2pi
-C01= rtch/dsmo
-K100`mobb=23Gsh/ 4pi
 
 
 
-open talamus
+
 
 pi/360|dx|= GeV . R^2k . |dy|
 
@@ -327,7 +321,7 @@ C01 = rtch/dsmo
 
 
 
- workflow:
+ 
 
               I3, hold right respiratory lung tensor for isometry and isomery settings
                         KPN production tensor by rny tissue
@@ -376,12 +370,7 @@ Z1* = msi2^KN
 dsgz4 = -Ej(sh)^2/mo(CH)
 gz001 = 1/2 c . -j2/1 / SO3
 
-Vo = W0 - W0 / DU8^2p^2) . p(iv)
-v2 = D2 . at^2 / 40Gev(logsin)^-m'
-Vai(u) = RKN101*wiwo
-Vo(dtzn)~vo(tzn)
-Vo^v2dQ = AFûv . c^2 / G4Po^1
-Va = -pi^n-1) . j 2 (va^2)
+
 
 Di = CHR + sr0
 D2 = z 1(00) = SO
@@ -470,7 +459,7 @@ gmu + av = FR^-2/1 + OHCdrr
 
 
 
-
+stand for running:
 SO (30)
 rish
 K9 biology systems:
@@ -494,8 +483,13 @@ D5
 mb:
 cmb:
 no staking:
-
+I3
+open talamus
+workflow:
   
+
+
+
 
 mo(k1001) = fm(dv)
 Dr(mo) = stm·/sr^4/1CH
@@ -739,6 +733,9 @@ Cs^3 - dt(qdf)^2/3 . -pK32 = -Tvts3|•
 gu^2 . ip / F(ar1d2)(lm2) = drl . d3chz(g4h')
 dtt^2s .rqs (arcsen180^(n+dy') = R(log1)Pc(sht)^3/1 / 1s
 gmc• . -sr^3 . Fu(sz)^2 / Fvi . g(cv)^(dm-1) = at^2 + dtss1
+Texpt^-1 = pc + gct
+(n-2)^2 = cTs(âû) / ph(cmb) . dts(dchg)^3
+
 
 im(qvt) . -i^2v = (^)3pbx / -dt(mq4/8)^02
 -wo^rd2^2/1wi = cj^1/2 + dr(vprp) / d(a^2vdc) . ih(fr) + dts(mq)^d(dmû)
@@ -847,14 +844,29 @@ BDZ(He) = \\FRpmû
 8mKa = 3ATo
 
 
+
+C00=(o)trx/rc2pi
+C01= rtch/dsmo
+K100`mobb=23Gsh/ 4pi
+
+
+
 Vo(/vj) = j0·0·
 -trv = ((-(null)trx(di))) . |dy|
 /v . c^2 = 2d^2 = n+3 /1/3e*
 Vvo^3 +3/2KQq'arcon279º = Tuv . F^uv
 AUmu . vo^2/3 / 4/3 dr(du) . p10Ka -rR = - P(mr^-2/1)(de^-1/2)
+Vo = W0 - W0 / DU8^2p^2) . p(iv)
+v2 = D2 . at^2 / 40Gev(logsin)^-m'
+Vai(u) = RKN101*wiwo
+Vo(dtzn)~vo(tzn)
+Vo^v2dQ = AFûv . c^2 / G4Po^1
+Va = -pi^n-1) . j 2 (va^2)
 
 
 Autopilot:
   elrond ||e |)a=vo(|
   an elf can wait many years /((800y., aprox.v))/*^smo
   avrg sample = 1/3 dt^u^2/1
+
+  
