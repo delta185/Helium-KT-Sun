@@ -74,11 +74,7 @@ sv rcd^5 . G1/8 . T(uv)^uv
  
 
 
-quantile:
 
-  gp = V^2o^(-2+n!) / -|Qxy|^3
-  (pb)^nô3/2nî = cmb^3/1 . e^2 +drq0*
-  -(sh)^3 . ptdd2 = p^2 . At^2 / 2
 
 btc:
 
@@ -125,14 +121,7 @@ btc:
   Dr^3s^t! = d(intv)^n^3^-m^-1
   KPR (100kpc) = (30,99,-2,Dvo))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))tTquo(KPR))((((7171kpc))1.)
 
-see methods:
 
-  NGC ((2261))w|:=CDPR))
-  R^2 / R^3 -R = Dy
-  m^2 -1 / m^3 -1 = Di
-  (Di, Dy, nds) = Poch
-  /?
-  KPZN compound's composites
 
 bryn and mikita methods
 
@@ -486,7 +475,7 @@ no staking:
 I3
 open talamus
 workflow:
-  
+quantile:
 
 
 
@@ -657,6 +646,11 @@ mu = a^2 - (r^2-To) / dAa + Eo^1/2
 Ao (li30)^+-(e-e+)^fv2 + FR|x|dx-(vk) . F^u.v/At^2-cs^2+Ec4o = /TN2|dy| - 2q2 / -Tg17^-2/3
 C2H2 = TD3-cidt^1/3
 
+gp = V^2o^(-2+n!) / -|Qxy|^3
+(pb)^nô3/2nî = cmb^3/1 . e^2 +drq0*
+-(sh)^3 . ptdd2 = p^2 . At^2 / 2
+
+
 EOSmf1 = -RF . -vo(ypt)q2A^5/4
 
 Lm5 = p(qgz) . AE /Av^2dk^-3/2
@@ -707,6 +701,7 @@ Mu^drt2/to-dt1s' = 3.134gak1v . at^2
 
 
 1/2TcsGv(KN) . V(He) / Od(CO2) . Od(He) = g08ru'imy^-eish/at^2
+
 
 Oc|mx| = ad^2 || MGg•Kfu/^(-e^2).+eK.piu'
 Kt(a) . dgid(ntciby) = ucvg /e.(d^2)gv(a)
@@ -870,3 +865,11 @@ Autopilot:
   avrg sample = 1/3 dt^u^2/1
 
   
+see methods:
+
+  NGC ((2261))w|:=CDPR))
+  R^2 / R^3 -R = Dy
+  m^2 -1 / m^3 -1 = Di
+  (Di, Dy, nds) = Poch
+  /?
+  KPZN compound's composites
