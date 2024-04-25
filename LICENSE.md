@@ -844,5 +844,8 @@ R^3 = R^2/|dy|^o
 G23 = /e^-imz < G7
 / = 1,01
 SO(-its) = / . G7
-Vo(/j) = j0·0·
+Vo(/vj) = j0·0·
 d8 = 2l(SDXY) / 4/360pi
+
+-trv = ((-(null)trx(di))) . |dy|
+/v . c^2 = 2d^2 = n+3 /1/3e*
