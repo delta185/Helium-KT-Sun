@@ -472,7 +472,7 @@ p(a) + a^2 / df = q^3/1 - mf^2/3 / T(k)^2/2 - dEc^+-w(jr)(rp)
 ANGC = c^2 . PK,Zmu^- . (arsen0),N3t^3/2 / -i^2DT^? - v(ka)t3
 |Apsu)) = 4Q d(so) drs3/5 / 4/3 ddpparsen 90
 Q-dr^2 . |+-g16p^n! = -Rqt2/3 + gb^arsen180cs, atmdhs
-pHe = 15shv/^2 + Frsh/-ssnPo|
+
 Vvo^3 +3/2KQq'arcon279º = Tuv . F^uv
 
 SO (30)
@@ -485,7 +485,6 @@ Lim Eo-Eodt = 2/3 shch/ I^2
 v/s^5 = ac^1/2 . E^2/1cc
 g4.5 = bst^3 / 2 - dts^-1/2 +c^2Fuv
 gmu + av = FR^-2/1 + OHCdrr
-Dz(4)334(k) = (SO) . YM^2oOpi543234
 
 
 
@@ -509,7 +508,7 @@ luminar strenght:
 energy: 
 Mo/sh (20)
 D5
-M (d4,40Epcc')
+
 
 
 
@@ -518,6 +517,10 @@ mo(k1001) = fm(dv)
 Dr(mo) = stm·/sr^4/1CH
 B(bb)CH= rcmo' + K(100)^mo+ g(23)^32 / K9.PKR(101) + a(ds)^2
 (ds)mo = phCMB
+Dz(4)334(k) = (SO) . YM^2oOpi543234
+DM = 3L^2ki-3nqT
+p0e=))s^na)^u /c td)mu^(1/2dmo)*gpn^n
+M (d4,40Epcc')
 
 
 st + msi^-2 -msi^-1|dx|= 2(mf)
@@ -525,10 +528,9 @@ st + msi^-2 -msi^-1|dx|= 2(mf)
 -Kab = FA(uk)^uH/c
 
 
- DM = 3L^2ki-3nqT
- p0e=))s^na)^u /c td)mu^(1/2dmo)*gpn^n
+ 
 
- HLT = 2c'^2/3 . -pu^3/2 +dt / mo^FR . Tr23
+
  R^3-2R = N(us) / Tr
  R^3(fm) = CH(2) + Epu·
 
@@ -612,7 +614,7 @@ dt(qHe)^qdt = 1/2muv3H - |km)^4/3
 
 GC (10)
 
-//He (atkm) := Fuv^SO . +-FRmm / memo_w
+
 dKa = Gp64^vx / d3T-o
 
 senº/123(ds2ka10832 ... 5) = 2R^2 . v^mu / KPZN + E2
@@ -624,8 +626,9 @@ Hoo + Hu = d^n!O -AEom|k1|
 3Hô = TQZNo - arcosen3334(Eo)^1
 shH = M|ak|o - v^2 / dsvz(RPSMoo34)
 4/433/2.58523913M^d32 = T2Z1(N23sh / vs5 - vsd4
-
-
+//He (atkm) := Fuv^SO . +-FRmm / memo_w
+pHe = 15shv/^2 + Frsh/-ssnPo|
+HLT = 2c'^2/3 . -pu^3/2 +dt / mo^FR . Tr23
 
 
 
