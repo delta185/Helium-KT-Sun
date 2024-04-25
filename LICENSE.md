@@ -62,11 +62,7 @@ salomon 27 decay -K^- + K^+
 sv rcd^5 . G1/8 . T(uv)^uv
 
 
-3mû = log(gt2)^ish(a)^2H . ch^-dts
-BDZ(He) = \\FRpmû
--mb=0t (d is out)
-4m = QT34k5
-8mKa = 3ATo
+
 
   2px(ch)
   
@@ -612,13 +608,7 @@ senº/123(ds2ka10832 ... 5) = 2R^2 . v^mu / KPZN + E2
 
 V-ind-2t--g242441
 
-Hoo + Hu = d^n!O -AEom|k1|
-3Hô = TQZNo - arcosen3334(Eo)^1
-shH = M|ak|o - v^2 / dsvz(RPSMoo34)
-4/433/2.58523913M^d32 = T2Z1(N23sh / vs5 - vsd4
-//He (atkm) := Fuv^SO . +-FRmm / memo_w
-pHe = 15shv/^2 + Frsh/-ssnPo|
-HLT = 2c'^2/3 . -pu^3/2 +dt / mo^FR . Tr23
+
 
 
 
@@ -843,6 +833,18 @@ G23 = /e^-imz < G7
 
 / = 1,01
 
+Hoo + Hu = d^n!O -AEom|k1|
+3Hô = TQZNo - arcosen3334(Eo)^1
+shH = M|ak|o - v^2 / dsvz(RPSMoo34)
+4/433/2.58523913M^d32 = T2Z1(N23sh / vs5 - vsd4
+//He (atkm) := Fuv^SO . +-FRmm / memo_w
+pHe = 15shv/^2 + Frsh/-ssnPo|
+HLT = 2c'^2/3 . -pu^3/2 +dt / mo^FR . Tr23
+3mû = log(gt2)^ish(a)^2H . ch^-dts
+BDZ(He) = \\FRpmû
+-mb=0t (d is out)
+4m = QT34k5
+8mKa = 3ATo
 
 
 Vo(/vj) = j0·0·
