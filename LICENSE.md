@@ -834,7 +834,7 @@ R=PDX
 Autopilot:
 bb(z)=-Q(x) . logTZN
 msi^-2 = /Voo*
-
+pi6 and pv7; KQ = T.ds
 
 
 stand for running:
