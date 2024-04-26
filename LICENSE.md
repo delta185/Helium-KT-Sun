@@ -39,7 +39,7 @@ cz=gamma ray and x ray by different infrastructure at 4/1 . K-2
 )))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))) KPR 555/1-2
 deal?
             gas, fees, odds:dn(s)^dt\eureka))
-
+salomon 27 decay -K^- + K^+ |hamiltonian| 
   $3,000,000.00 = 32GeV, |2:((2*.(xo))|, dff(pc)^-1:
       $300,000.00 = 8+2GeV
       $300,000.00 = 16GeV . v^2 / -pr(cj) + Kaqû
@@ -56,32 +56,36 @@ qubit difficult problems without tensor\drop quantile))
 e=(ee)+-  bad m(e)son: = peer review a lot\
 thanks for worflows at 1/3 and rent special areas. It'noghing
 
-salomon 72 decay Au
-salomon 27 decay -K^- + K^+
-
-sv rcd^5 . G1/8 . T(uv)^uv
-
-
-
-
-  2px(ch)
-  
-  
-
-
-
-
- 
-
-
-
+salomon 72 decay Au |Hamiltonian|
+8,500,000,000.00 blô||lô4c
+  cs<cx
+  xi = 4/1 |drc|
+  xy = 3/2
+  xo = 1/2 +-(dc) / t^2
+   2px(ch)
+C00=(o)trx/rc2pi
+C01= rtch/dsmo
+K100`mobb=23Gsh/ 4pi
 
 btc:
 
   KPZN (10,101,500,3000,8000,....20,000.00)
   Di = (/cp^h\)
   meson |px|
-  (px)^2 = IPC 
+  (px)^2 = IPC
+
+see methods:
+
+  NGC ((2261))w|:=CDPR))
+  R^2 / R^3 -R = Dy
+  m^2 -1 / m^3 -1 = Di
+  (Di, Dy, nds) = Poch
+  /?
+  KPZN compound's composites
+  -R=T(uv)^uv
+
+
+
 
 1AU:
 
@@ -436,8 +440,6 @@ Q-dr^2 . |+-g16p^n! = -Rqt2/3 + gb^arsen180cs, atmdhs
 
 
 
-
-
 apo)m =(FfR)d"cI" . se^2epid2t2,1.12^2/3 + k5uvsh /-grr + FR . cs (SOkadtm) + intv ^3 drSMmn
 
 Lim Eo-Eodt = 2/3 shch/ I^2
@@ -446,36 +448,6 @@ v/s^5 = ac^1/2 . E^2/1cc
 g4.5 = bst^3 / 2 - dts^-1/2 +c^2Fuv
 gmu + av = FR^-2/1 + OHCdrr
 
-
-
-stand for running:
-SO (30)
-rish
-K9 biology systems:
-milky way prism:
-horizon 2030
-bubbles:
-guage drift:
-andromeda Hst ^7/2
-skyrocket:
-usa army:
-tissue producive:
-nagaksua' sense, throught:
-lens:
-gaussian flow:
-2038 grow:
-mesh:
-luminar strenght:
-energy: 
-Mo/sh (20)
-D5
-mb:
-cmb:
-no staking:
-I3
-open talamus
-workflow:
-quantile:
 
 
 
@@ -673,8 +645,8 @@ Mo(at) = N(na)^uv . K(a) / rc^3
 Er^2.ST(a) = 2/ rc^8t8T -ER(kpc101)^2
 dp(gs) = v1^-1/2-vo^-w^2rci.AEc / d(ts1)^2
 
-(-K^-)! = Ak^+p Tsen^2 0º (V) -nqcos^2 360(a) / ATK (pi^n, Ec3) + q'^Qrpd^2/2
-DM = ds^5 . -int)^4/5 / F^uv . -A-K^-^pn + Mo(fq'pq2)
+
+
 dt2 / 5D(n`agtp)^-bbcs^2 = c(a
 |Dx| = Ec^3/2 / -Q^T01q2 . pq`u
 (R,K,Dq) = 3N
@@ -770,10 +742,12 @@ U^2 = U^1 . pi^u vo(n/2dts3)
 12010:10050rpm < ( -4/2 )dt (3/1) dts (2/1) dr > 100K(au) < 5/4mo
 12010:10050rpm > ( 3/2 )dt (2/2) dts (1.2/2) dr < 100K(au) > -1/2gmo
 Mdr = du^drs-4/2 . 2/3dt(3/4) / -0me + dts (2:10130)
+DM = ds^5 . -int)^4/5 / F^uv . -A-K^-^pn + Mo(fq'pq2)
 
 
-
-
+  elrond ||e |)a=vo(|
+  an elf can wait many years /((800y., aprox.v))/*^smo
+  avrg sample = 1/3 dt^u^2/1
   EDT = DM
   SZ^OtD = |Di|rûa / |DY|sôa
   Q(tr^3) = R|Dy(dx•)|
@@ -793,19 +767,8 @@ d8 = 2l(SDXY) / 4/360pi
 
 
 
-  (HeQ)
-  3Q4q\(16_64yg)2R^3
-  Dtd(di)+-9yg
-  2 = Di + Dy
-  Hgg = sû . Opc  / v^2 + Dk(aû)
-  ci/r^3 = 2vo . 8Eoc
+  
 
-
-  8,500,000,000.00 blô||lô4c
-  cs<cx
-  xi = 4/1 |drc|
-  xy = 3/2
-  xo = 1/2 +-(dc) / t^2
 
 
   FGv*Nn^(ats)/R^3 . ((+-n+log(1aû))
@@ -837,12 +800,12 @@ BDZ(He) = \\FRpmû
 -mb=0t (d is out)
 4m = QT34k5
 8mKa = 3ATo
-
-
-
-C00=(o)trx/rc2pi
-C01= rtch/dsmo
-K100`mobb=23Gsh/ 4pi
+(HeQ)
+3Q4q\(16_64yg)2R^3
+Dtd(di)+-9yg
+2 = Di + Dy
+Hgg = sû . Opc  / v^2 + Dk(aû)
+ci/r^3 = 2vo . 8Eoc
 
 
 
@@ -858,20 +821,36 @@ Vo(dtzn)~vo(tzn)
 Vo^v2dQ = AFûv . c^2 / G4Po^1
 Va = -pi^n-1) . j 2 (va^2)
 
+sv^2(rcd^5) . G1/8 . T(uv)^uv
+
+
 
 Autopilot:
-  elrond ||e |)a=vo(|
-  an elf can wait many years /((800y., aprox.v))/*^smo
-  avrg sample = 1/3 dt^u^2/1
-
-  
-see methods:
-
-  NGC ((2261))w|:=CDPR))
-  R^2 / R^3 -R = Dy
-  m^2 -1 / m^3 -1 = Di
-  (Di, Dy, nds) = Poch
-  /?
-  KPZN compound's composites
-
-  -R=T(uv)^uv
+stand for running:
+SO (30)
+rish
+K9 biology systems:
+milky way prism:
+horizon 2030
+bubbles:
+guage drift:
+andromeda Hst ^7/2
+skyrocket:
+usa army:
+tissue producive:
+nagaksua' sense, throught:
+lens:
+gaussian flow:
+2038 grow:
+mesh:
+luminar strenght:
+energy: 
+Mo/sh (20)
+D5
+mb:
+cmb:
+no staking:
+I3
+open talamus
+workflow:
+quantile:
