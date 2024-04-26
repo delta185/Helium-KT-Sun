@@ -827,7 +827,15 @@ sv^2(rcd^5) . G1/8 . T(uv)^uv
 -R=PDA
 R=PDX
 
+
+
+
 Autopilot:
+bb(z)=-Q(x) . logTZN
+msi^-2 = /Voo*
+
+
+
 stand for running:
 SO (30)
 rish
