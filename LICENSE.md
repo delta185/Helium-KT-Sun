@@ -700,6 +700,7 @@ Cs^3 - dt(qdf)^2/3 . -pK32 = -Tvts3|•
 gu^2 . ip / F(ar1d2)(lm2) = drl . d3chz(g4h')
 dtt^2s .rqs (arcsen180^(n+dy') = R(log1)Pc(sht)^3/1 / 1s
 gmc• . -sr^3 . Fu(sz)^2 / Fvi . g(cv)^(dm-1) = at^2 + dtss1
+sr8=D2*=dc(gu)3N(kmo)~sr6
 Texpt^-1 = pc + gct
 (n-2)^2 = cTs(âû) / ph(cmb) . dts(dchg)^3
 
