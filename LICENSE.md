@@ -85,7 +85,7 @@ see methods:
   -R=T(uv)^uv
 
 
-
+Not talamus replication.
 
 1AU:
 
@@ -653,7 +653,7 @@ dt2 / 5D(n`agtp)^-bbcs^2 = c(a
 /OKN(a) = -0 . Rdd^2 / Qdt742(SO)
 Z|fXd| = - Fuv^uv + 3Ec^2/1 / -SVq
 v = -cos21 (n-2)^n+1d/
-
+z=2 if d2=0,E'=-I2
 F^uv.Ruv / qG(c^2) = -dt(q)
 300101kpc^1GeV - AEo(ac)• / |Dy| = -(dts)^2/q•s(sv)
 2py•(|Dx|^st^-2/q`) = uEOScc > d(dSO) < 1 || See Methods!
@@ -670,7 +670,11 @@ q(b^-)rs - p^2 . |Dx| > q(b^+)p . |Dy|
 |Dy|/1/2pr^(n+1)• = Loo(arcsen^2(45.3124º))/|Dx| . xp^2 
 (AE,z=1,n=dpx)/1 < 2/(AE,z=1,n=dp'z) = (3 . Ec'/Qz^-0) + 5^pq'/4(Ttd . -pmf . Ud)
 Mu^drt2/to-dt1s' = 3.134gak1v . at^2
-
+n+1 = -dqrs
+dL^2(K10vmuo) = -dqrs . -(c)^2•K-0v
+-pfs = -0K + Ddv^-2
+-cs^1(Heh) = dr^1(mhu) / (/)idK10(GgeV(h')dmu))
+F^uv/ rc^((log(j<0)Eo^(n-1)|K|(at1d)^2)) = (t2n)^-m^2 + ((3.4/(16)^2 Fuv . 16/4 GeV))
 
 1/2TcsGv(KN) . V(He) / Od(CO2) . Od(He) = g08ru'imy^-eish/at^2
 
@@ -682,12 +686,8 @@ Ort . g01pi = chmg'p|y| / (x)out
 Kpc(a) = 10/4 Ecv / 4/2 Ecb
 C(n+1)^(e-e+)^2 = At1^2/-(D(n+1)ts)^2
 
-n+1 = -dqrs
-dL^2(K10vmuo) = -dqrs . -(c)^2•K-0v
--pfs = -0K + Ddv^-2
--cs^1(Heh) = dr^1(mhu) / (/)idK10(GgeV(h')dmu))
-F^uv/ rc^((log(j<0)Eo^(n-1)|K|(at1d)^2)) = (t2n)^-m^2 + ((3.4/(16)^2 Fuv . 16/4 GeV))
 
+3(S0)
 qrd^4/2 / F^uv = Fuv(shd) . (qd)'^2/3
 cpf(FR) . ((l0cos(qs) . -pe(logtdd2)) = dt(qs)' . |enr1'sK|^1/2
 SO^-(cbz)^2 = (-K^-). -K^+(F^uv) . Fuv / e-ff(dx)c' . |Dy|^mo
@@ -827,7 +827,7 @@ sv^2(rcd^5) . G1/8 . T(uv)^uv
 -R= T(uv)^uv
 -R=PDA
 R=PDX
-
+U(x)^3/4-diff . Kab^-1/2
 
 
 
@@ -865,3 +865,4 @@ I3
 open talamus
 workflow:
 quantile:
+relesase
