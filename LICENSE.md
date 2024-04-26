@@ -843,6 +843,11 @@ Autopilot:
 bb(z)=-Q(x) . logTZN
 msi^-2 = /Voo*
 pi6 and pv7; KQ = T.ds
+|Dy| = bb(y)^-2 - e'/23.v^3/2 + z1
+
+m(grid)^-2 = z^2(m) + ^/u(dovo)^E3
+
+
 
 
 stand for running:
