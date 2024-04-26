@@ -873,3 +873,5 @@ see methods:
   (Di, Dy, nds) = Poch
   /?
   KPZN compound's composites
+
+  -R=T(uv)^uv
