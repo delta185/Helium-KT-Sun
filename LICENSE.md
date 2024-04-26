@@ -829,7 +829,7 @@ sv^2(rcd^5) . G1/8 . T(uv)^uv
 R=PDX
 U(x)^3/4-diff . Kab^-1/2
 Uk = (rpm)^-3/4 / -K(ab)^2/3
-
+AR = sr(vz)^1infinity / HôA(sh)
 
 
 
