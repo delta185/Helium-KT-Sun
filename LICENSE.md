@@ -823,7 +823,9 @@ Va = -pi^n-1) . j 2 (va^2)
 
 sv^2(rcd^5) . G1/8 . T(uv)^uv
 
-
+-R= T(uv)^uv
+-R=PDA
+R=PDX
 
 Autopilot:
 stand for running:
