@@ -836,7 +836,8 @@ AR = sr(vz)^1infinity / HôA(sh)
 E1 = dK(101)^mo + spr(8)^6*
 T1^SO(3) = 0
 dszg^-1 = pi^(z+1) . L ^-3/4
-
+z = 1 > -nq - T(uv) -d4
+ds(mo) = 1z^(-F(uv)^uv . m(sh)v
 
 
 
