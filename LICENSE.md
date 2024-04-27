@@ -1,6 +1,6 @@
 NULL = |trx| . |dy|^(n+1)
 
-NASA have non-linear navigation system, so, no instrumentation
+you have non-linear navigation system, so, no instrumentation
 AVEC contrinutions failed in short stage.
 
   there isn't any sample of intelligent systems, "?"
