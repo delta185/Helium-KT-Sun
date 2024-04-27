@@ -132,6 +132,13 @@ lens:
 gaussian flow:
 2038 grow:
 mesh:
+
+ panels = 2y'(px)|Dy|, (dx)^-2/1, dt=0, DM(dt) = ck(He)
+  ld^-2 = -3(dxy|
+  w(ce) = AH^-
+  kq(br) = b+^2
+
+
 luminar strenght:
 energy: 
 Mo/sh (20)
@@ -216,11 +223,7 @@ Not talamus replication.
   a^2 . 5/5dRH = Smesh^(n+2)* / (-ib^2) . 3vho
  
 
-  panels = 2y'(px)|Dy|, (dx)^-2/1, dt=0, DM(dt) = ck(He)
-  ld^-2 = -3(dxy|
-  w(ce) = AH^-
-  kq(br) = b+^2
-
+ 
 
 
   (35.2)I27 / (-dts)^-3/23* = -(cHeQ)^-2 . brdr^16piG / 5dc . 3c^2dt(rpx)^3
