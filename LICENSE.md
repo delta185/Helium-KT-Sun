@@ -785,22 +785,40 @@ d8 = 2l(SDXY) / 4/360pi
   (dy)^2 = 3/2(gip) + int(l^2)^(n-1-2)+(2/2dN|Dy) + 5/4drs - d3/2)
   
 
-SO(3) = sen 30· . N^(n+1)/ A^1/2
+
 
 SO(-its) = / . G7
 G23 = /e^-imz < G7
 
 / = 1,01
 
-Hoo + Hu = d^n!O -AEom|k1|
-3Hô = TQZNo - arcosen3334(Eo)^1
-shH = M|ak|o - v^2 / dsvz(RPSMoo34)
-4/433/2.58523913M^d32 = T2Z1(N23sh / vs5 - vsd4
-//He (atkm) := Fuv^SO . +-FRmm / memo_w
-pHe = 15shv/^2 + Frsh/-ssnPo|
-HLT = 2c'^2/3 . -pu^3/2 +dt / mo^FR . Tr23
-3mû = log(gt2)^ish(a)^2H . ch^-dts
-BDZ(He) = \\FRpmû
+
+
+
+
+
+mef^2 = v^2
+m(grid)^-2 = z^2(m) + ^/u(dovo)^E3
+sr(10) = z = 3^pz^2
+RM/FR = (U(k)n+1 -K(ab)z+1
+E1 = dK(101)^mo + spr(8)^6*
+T1^SO(3) = 0
+
+z = 1 > -nq - T(uv) -d4
+z = 2 if D2 =0, e' = -I(2)
+ds(mo) = 1z^(-F(uv)^uv . m(sh)v
+
+
+bb(z)=-Q(x) . logTZN
+msi^-2 = /Voo*
+pi6 and pv7; KQ = T.ds
+|Dy| = bb(y)^-2 - e'/23.v^3/2 + z1
+
+dt(8)talamus = -log(emj)
+
+
+
+nsi^-2m= PZR (h/mo) if N=c
 -mb=0t (d is out)
 4m = QT34k5
 8mKa = 3ATo
@@ -808,9 +826,11 @@ BDZ(He) = \\FRpmû
 3Q4q\(16_64yg)2R^3
 Dtd(di)+-9yg
 2 = Di + Dy
-Hgg = sû . Opc  / v^2 + Dk(aû)
-ci/r^3 = 2vo . 8Eoc
 
+
+
+
+    Autopilot:
 
 vo^u ~ vo^k
 Vo(/vj) = j0·0·
@@ -828,30 +848,35 @@ sv^2(rcd^5) . G1/8 . T(uv)^uv
 dszg^-1 = pi^(z+1) . L ^-3/4
 dsr/ /u = |dy| - |dx|
 dsr ^-e' . -pi^2 = ZN. 2î^2 /-log GT^2/3·32
+Hgg = sû . Opc  / v^2 + Dk(aû)
+ci/r^3 = 2vo . 8Eoc
 
 
-E1 = dK(101)^mo + spr(8)^6*
-T1^SO(3) = 0
 
-z = 1 > -nq - T(uv) -d4
-ds(mo) = 1z^(-F(uv)^uv . m(sh)v
+    1AU:
 
-
-bb(z)=-Q(x) . logTZN
-msi^-2 = /Voo*
-pi6 and pv7; KQ = T.ds
-|Dy| = bb(y)^-2 - e'/23.v^3/2 + z1
-z = 2 if D2 =0, e' = -I(2)
-dt(8)talamus = -log(emj)
-
-mef^2 = v^2
-m(grid)^-2 = z^2(m) + ^/u(dovo)^E3
-sr(10) = z = 3^pz^2
-RM/FR = (U(k)n+1 -K(ab)z+1
-
-nsi^-2m= PZR (h/mo) if N=c
+Hoo + Hu = d^n!O -AEom|k1|
+3Hô = TQZNo - arcosen3334(Eo)^1
+shH = M|ak|o - v^2 / dsvz(RPSMoo34)
+4/433/2.58523913M^d32 = T2Z1(N23sh / vs5 - vsd4
+//He (atkm) := Fuv^SO . +-FRmm / memo_w
+pHe = 15shv/^2 + Frsh/-ssnPo|
+HLT = 2c'^2/3 . -pu^3/2 +dt / mo^FR . Tr23
+3mû = log(gt2)^ish(a)^2H . ch^-dts
+BDZ(He) = \\FRpmû
 
 
+stand for running:
+SO (30)
+rish
+K9 biology systems:
+milky way prism:
+horizon 2030
+bubbles:
+guage drift:
+    
+    
+    andromeda Hst ^7/2
 
 Kpc(a) = 10/4 Ecv / 4/2 Ecb
 PK(1.1'.0,FBI=) genetic systems'\dtr^27(-1ds,-1dtr,0,0) = 0 (pfcdt)^nH . (pfB^-(e^-,e^+))(
@@ -865,26 +890,10 @@ KS = r^2(Hc^2)
 (1.0)-cd\ = -dtr/ log(dts)^2
 
 
-
-
-
-
-Autopilot:
-
-1AU:
-
-
-
-stand for running:
-SO (30)
-rish
-K9 biology systems:
-milky way prism:
-horizon 2030
-bubbles:
-guage drift:
-andromeda Hst ^7/2
 skyrocket:
+
+SO(3) = sen 30· . N^(n+1)/ A^1/2
+
 usa army:
 tissue producive:
 nagaksua' sense, throught:
