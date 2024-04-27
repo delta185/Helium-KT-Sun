@@ -957,7 +957,7 @@ Dtd(di)+-9yg
 
 
 
-
+FR = msi^-1 . -qg(f)^qr,Z(mo) / e.e')-qu . u^2
 
 
 
