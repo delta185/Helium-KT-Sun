@@ -90,7 +90,7 @@ see methods:
 
 Not talamus replication.
 
-1AU:
+
 
   circinus (D = 2vo^d(tzn) . Ecp' )
   cygnus
@@ -410,9 +410,20 @@ r^-g=KPZN^v3uiv
 r^2tv.D^2=Vodm
 grr = goo - wo / -1.214^22/4
 d(b^-)r^(2n-1m)t^(n-3)/mu = -e^-
+R^3 = R^2/|dy|^o
+AK(cfa) . CH /-T = -At^2 + cj(a^2) / -g^2 < jw < gz=o < -2/1 F(dr)^uvT
+AHe . k^+/ACO2 . -k^- = Hdro
+-K^-(n-1)/p(aE)^(n+2) = 2sq^(-3/2)n) . K^(n1+1)
+q(b^-)rs - p^2 . |Dx| > q(b^+)p . |Dy|
+|Dy|/1/2pr^(n+1)• = Loo(arcsen^2(45.3124º))/|Dx| . xp^2 
+(AE,z=1,n=dpx)/1 < 2/(AE,z=1,n=dp'z) = (3 . Ec'/Qz^-0) + 5^pq'/4(Ttd . -pmf . Ud)
+Mu^drt2/to-dt1s' = 3.134gak1v . at^2
+n+1 = -dqrs
+dL^2(K10vmuo) = -dqrs . -(c)^2•K-0v
+-pfs = -0K + Ddv^-2
+-cs^1(Heh) = dr^1(mhu) / (/)idK10(GgeV(h')dmu))
+F^uv/ rc^((log(j<0)Eo^(n-1)|K|(at1d)^2)) = (t2n)^-m^2 + ((3.4/(16)^2 Fuv . 16/4 GeV))
 
-
-          
 po/pi= P'obs/k100.4/pi
 80%ds=71,2%dtr(mo)= 20%rt|dx|mo
 dsz^2=wo(pi)-wo 
@@ -429,12 +440,7 @@ XLM sen^2272 = GeV pi/3 . sen^2 0
 TZN^+ = BCH(kb)
 
 
-K(100^mobb) = -23Gsh/4pi 
--K(a)^n! = DMat(a^2)d^2
-Kpc(sun)^pi/4= |xt|^3+|dy`2| 
-KPR 453 -PKR345GeV = GF271GeV . 1/16(gaze)
-mvt . At^2/ ic + KPR sh-R^2^1/2 = dd723^-4/3 r^8 / Gc . drT^ds1t2s2 SO3PM
-KU = -Q9. Rv7
+
 
 p(a) + a^2 / df = q^3/1 - mf^2/3 / T(k)^2/2 - dEc^+-w(jr)(rp)
 ANGC = c^2 . PK,Zmu^- . (arsen0),N3t^3/2 / -i^2DT^? - v(ka)t3
@@ -515,14 +521,12 @@ T(so) = -T(su) . K(ab)^u.v/ v^2
 
 psm (H) = ((F(sc')Eb))HT / Dts
   ss^(ds^+-1)ch^3/2Er/(3cf) . Eo^n^n!(/sr(dNn22) = r^-g(fc)H
-  KS = r^2(Hc^2)
+  
   c^2 = s(c')E^- (ch)
   Hoo (-pr) / ant(Hs) = c^3 . dt^nsd / dtr(Hsu)* - (imtv /fso)^-pn!*
   ((v^3(out)) - |T|^-nd(cH)  = pd^u / (dtp)^2 (oddsT)
 
-PK(1.1'.0,FBI=) genetic systems'\dtr^27(-1ds,-1dtr,0,0) = 0 (pfcdt)^nH . (pfB^-(e^-,e^+))(
 
-  K(1.0)-cd\ = -dtr/ log(dts)^2
   FBI = -1/2memo^n^n!
   cTH = v-vo
   -ch/3H . at^2 = p^2/-dt
@@ -674,7 +678,7 @@ Oc|mx| = ad^2 || MGg•Kfu/^(-e^2).+eK.piu'
 Kt(a) . dgid(ntciby) = ucvg /e.(d^2)gv(a)
 
 Ort . g01pi = chmg'p|y| / (x)out
-Kpc(a) = 10/4 Ecv / 4/2 Ecb
+
 C(n+1)^(e-e+)^2 = At1^2/-(D(n+1)ts)^2
 
 
@@ -769,19 +773,6 @@ d8 = 2l(SDXY) / 4/360pi
 
 
   
-R^3 = R^2/|dy|^o
-AK(cfa) . CH /-T = -At^2 + cj(a^2) / -g^2 < jw < gz=o < -2/1 F(dr)^uvT
-AHe . k^+/ACO2 . -k^- = Hdro
--K^-(n-1)/p(aE)^(n+2) = 2sq^(-3/2)n) . K^(n1+1)
-q(b^-)rs - p^2 . |Dx| > q(b^+)p . |Dy|
-|Dy|/1/2pr^(n+1)• = Loo(arcsen^2(45.3124º))/|Dx| . xp^2 
-(AE,z=1,n=dpx)/1 < 2/(AE,z=1,n=dp'z) = (3 . Ec'/Qz^-0) + 5^pq'/4(Ttd . -pmf . Ud)
-Mu^drt2/to-dt1s' = 3.134gak1v . at^2
-n+1 = -dqrs
-dL^2(K10vmuo) = -dqrs . -(c)^2•K-0v
--pfs = -0K + Ddv^-2
--cs^1(Heh) = dr^1(mhu) / (/)idK10(GgeV(h')dmu))
-F^uv/ rc^((log(j<0)Eo^(n-1)|K|(at1d)^2)) = (t2n)^-m^2 + ((3.4/(16)^2 Fuv . 16/4 GeV))
 
 
   FGv*Nn^(ats)/R^3 . ((+-n+log(1aû))
@@ -862,7 +853,16 @@ nsi^-2m= PZR (h/mo) if N=c
 
 
 
-
+Kpc(a) = 10/4 Ecv / 4/2 Ecb
+PK(1.1'.0,FBI=) genetic systems'\dtr^27(-1ds,-1dtr,0,0) = 0 (pfcdt)^nH . (pfB^-(e^-,e^+))(
+K(100^mobb) = -23Gsh/4pi 
+-K(a)^n! = DMat(a^2)d^2
+Kpc(sun)^pi/4= |xt|^3+|dy`2| 
+KPR 453 -PKR345GeV = GF271GeV . 1/16(gaze)
+mvt . At^2/ ic + KPR sh-R^2^1/2 = dd723^-4/3 r^8 / Gc . drT^ds1t2s2 SO3PM
+KU = -Q9. Rv7
+KS = r^2(Hc^2)
+(1.0)-cd\ = -dtr/ log(dts)^2
 
 
 
@@ -871,7 +871,7 @@ nsi^-2m= PZR (h/mo) if N=c
 
 Autopilot:
 
-
+1AU:
 
 
 
