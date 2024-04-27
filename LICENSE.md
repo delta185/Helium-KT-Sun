@@ -172,8 +172,8 @@ drs /dts . K10^h^3s/2m = p^2(vo)^dc^3t / K9(dtr) . -G(1.0, 2d^DRP)
 
 FR = 1/2mu(3)
 FR(si,hy^2/htc(su)) = 2h^2-3dz,d2su/3
- He^a^2:(2/8gm1-2/1gi64/nT.(dst)^2 = vAc
-  -FRgab^- = (+-gc(rd)^2 / -h . dt^2
+He^a^2:(2/8gm1-2/1gi64/nT.(dst)^2 = vAc
+-FRgab^- = (+-gc(rd)^2 / -h . dt^2
 
 
 
