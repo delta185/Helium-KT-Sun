@@ -113,7 +113,14 @@ skyrocket:
 SO(3) = sen 30· . N^(n+1)/ A^1/2
 
 usa army:
+
+
 tissue producive:
+
+FR = 1/2mu(3)
+FR(si,hy^2/htc(su)) = 2h^2-3dz,d2su/3
+He^a^2:(2/8gm1-2/1gi64/nT.(dst)^2 = vAc
+-FRgab^- = (+-gc(rd)^2 / -h . dt^2
 
 rash ce (KPR50y) = 9/1ce
 hackectt+(p^2)^log(ebs- =  |dx| . lis^ctt / d|(msi)| . ~SU/SO~
@@ -283,10 +290,7 @@ LOG(R(y)^3P(x)^2) = ddrr/ TRP
 
 drs /dts . K10^h^3s/2m = p^2(vo)^dc^3t / K9(dtr) . -G(1.0, 2d^DRP)
 
-FR = 1/2mu(3)
-FR(si,hy^2/htc(su)) = 2h^2-3dz,d2su/3
-He^a^2:(2/8gm1-2/1gi64/nT.(dst)^2 = vAc
--FRgab^- = (+-gc(rd)^2 / -h . dt^2
+
 
 
 
