@@ -141,16 +141,50 @@ mesh:
 
 luminar strenght:
 energy: 
+
+(35.2)I27 / (-dts)^-3/23* = -(cHeQ)^-2 . brdr^16piG / 5dc . 3c^2dt(rpx)^3
+  dtNGC^-16/8i/At^2 .r^3pr|x| = DTN(2vo) + AE2c'iD^9/1.4
+  -(R)^2 . Dt^-4/2 = -Dtvû^-1/3
+  3/2(SU^nl^n!) = 200y
+  (FR(30º)^/64, -PR/16(dt)^n!, Rdmod|dy^|^-^/32)
+
+  DTZNff\|gp(2dx|^dnH|
+  D =2(vo+-mû)/3(+-e^-e^+) |ce/2?* ) (dmo =HCDv?||:= t/to^2sq(vo)ccns,dgvo!)))cps
+  30º/2))|^= (99%/2) || 3N^|(4dd5dd(Tsd) - 1))2vo
+  (TLMff) = s!|dy|/|D|Dx|)
+  PR = (2Vo/1vo)2s^n . dt(yH)3|
+
 Mo/sh (20)
 D5
 mb:
 cmb:
+
+
+
+
+
 no staking:
 I3
+H2
 open talamus
 workflow:
+
+
+
 quantile:
-relesase
+
+circinus (D = 2vo^d(tzn) . Ecp' )
+cygnus
+leo  
+coma berenices
+a^2 . 5/5dRH = Smesh^(n+2)* / (-ib^2) . 3vho
+
+
+    relesase:
+desactivation binary algothrim by dmcode to 50 years olddd in advance))))\\|
+administration laws haven't zerohedge (T)
+blood is different layer
+
 
 
 
@@ -185,9 +219,6 @@ cz=gamma ray and x ray by different infrastructure at 4/1 . K-2
 )))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))) KPR 555/1-2
 
  
-desactivation binary algothrim by dmcode to 50years olddd in advance))))\\|
-administration laws haven't zerohedge (T)
-blood is different layer
 
 
 
@@ -216,29 +247,13 @@ Not talamus replication.
 
 
 
-  circinus (D = 2vo^d(tzn) . Ecp' )
-  cygnus
-  leo  
-  coma berenices
-  a^2 . 5/5dRH = Smesh^(n+2)* / (-ib^2) . 3vho
+  
  
 
  
 
 
-  (35.2)I27 / (-dts)^-3/23* = -(cHeQ)^-2 . brdr^16piG / 5dc . 3c^2dt(rpx)^3
-  dtNGC^-16/8i/At^2 .r^3pr|x| = DTN(2vo) + AE2c'iD^9/1.4
-  -(R)^2 . Dt^-4/2 = -Dtvû^-1/3
-  3/2(SU^nl^n!) = 200y
-  (FR(30º)^/64, -PR/16(dt)^n!, Rdmod|dy^|^-^/32)
-
-  DTZNff\|gp(2dx|^dnH|
-  D =2(vo+-mû)/3(+-e^-e^+) |ce/2?* ) (dmo =HCDv?||:= t/to^2sq(vo)ccns,dgvo!)))cps
-  30º/2))|^= (99%/2) || 3N^|(4dd5dd(Tsd) - 1))2vo
-  (TLMff) = s!|dy|/|D|Dx|)
-  PR = (2Vo/1vo)2s^n . dt(yH)3|
-
-
+  
 
   SU^-n = (PR)iD|y| . log+-(FR^2)radq(t^2) / Tn . e^-2/4
   Avrg(tech) = 3/1
