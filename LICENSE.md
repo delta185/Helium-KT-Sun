@@ -630,8 +630,6 @@ img = -1/2 rf . 2/3Fuv^uv / m(dm) . pU
 -1/2 - 2/2 = DTo . (qt2rs - qT2rc) / 1/2gg
 DM (ds^2) > 1/2 m^e+ . (p3)i(2dt^1) | 1/2 > 1/2
 FR + dac = -At^2sds + Wo^3/1.223 
-358 dt^2sv = F271 +dr^3 / 1:121234^3/2 r^2 -cfv^2
-9/1m . dt2 = Fuv . dts2
 
 
 
@@ -646,7 +644,8 @@ Er^2.ST(a) = 2/ rc^8t8T -ER(kpc101)^2
 dp(gs) = v1^-1/2-vo^-w^2rci.AEc / d(ts1)^2
 
 
-
+358 dt^2sv = F271 +dr^3 / 1:121234^3/2 r^2 -cfv^2
+9/1m . dt2 = Fuv . dts2
 dt2 / 5D(n`agtp)^-bbcs^2 = c(a
 |Dx| = Ec^3/2 / -Q^T01q2 . pq`u
 (R,K,Dq) = 3N
