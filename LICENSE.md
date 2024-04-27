@@ -127,7 +127,6 @@ Not talamus replication.
 
 
 
-bryn and mikita methods
 
   Td^(n-2)c^(n+1) = bRNA fields
   Epoch = - N(dy) / To . c^2
@@ -146,13 +145,8 @@ bryn and mikita methods
 NULL = |trx| . |dy|^(n+1)
 
 
-
-
-
   DMcd msid mush ph(3Mo)^23Ec' parsc* mdlbb (eucn)\di flux gzfr(rdz/NGC) |dy|
-  qT-^2-q^3
-  -q^3 =T1
-  -q^2 = T2
+ 
   sd= dy|| arsen^3(0)c(F3sh(gcHu)c'dHcsd(ssv) = v\\\\\
   UT = -logqarcos^3(360)ssv^
   d^3(v^2) di^2(m^3/2cc) = epsilon (Ecv') / parsec\NG(v^2(64-0,EDd)))Mo
@@ -230,7 +224,7 @@ log^4/3,TZN^3/4> 2,Mdt,Pdts,Ddts,310\gu^O>msi^2^v^3
 d4^-dt^2,log,msi,a^2,jkt
 pi,d3PR
 15,+dt,34554,8e^2dt
-8/3,-q,2msi,1vo^1/2^2,dt^121.0
+
 2E0^1/2dt24/7<ce<c8e)^2
 chgb>chscHto
 
@@ -246,7 +240,9 @@ KNodds^out=-Pe^v
 -aint=dp^2/dvo^3
 
 
-
+ qT-^2-q^3
+  -q^3 =T1
+  -q^2 = T2
 
 
 
