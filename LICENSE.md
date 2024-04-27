@@ -833,8 +833,8 @@ Uk = (rpm)^-3/4 / -K(ab)^2/3
 AR = sr(vz)^1infinity / HôA(sh)
 
 
-
-
+E1 = dK(101)^mo + spr(8)^6*
+T1^SO(3) = 0
 
 
 
