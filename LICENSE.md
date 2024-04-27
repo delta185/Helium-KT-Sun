@@ -666,18 +666,6 @@ st(a^2) = PR(1.120 < 1.210) . -c^2s / ddrs^3 + ss(vq)^1/2 < (Dw,Ge,No,Cs)
 vo = v1 = +-1dt
 1/8RP(th)^-1/3dts1+-1/2dt = 1/3dts1^7`212
 
-AK(cfa) . CH /-T = -At^2 + cj(a^2) / -g^2 < jw < gz=o < -2/1 F(dr)^uvT
-AHe . k^+/ACO2 . -k^- = Hdro
--K^-(n-1)/p(aE)^(n+2) = 2sq^(-3/2)n) . K^(n1+1)
-q(b^-)rs - p^2 . |Dx| > q(b^+)p . |Dy|
-|Dy|/1/2pr^(n+1)• = Loo(arcsen^2(45.3124º))/|Dx| . xp^2 
-(AE,z=1,n=dpx)/1 < 2/(AE,z=1,n=dp'z) = (3 . Ec'/Qz^-0) + 5^pq'/4(Ttd . -pmf . Ud)
-Mu^drt2/to-dt1s' = 3.134gak1v . at^2
-n+1 = -dqrs
-dL^2(K10vmuo) = -dqrs . -(c)^2•K-0v
--pfs = -0K + Ddv^-2
--cs^1(Heh) = dr^1(mhu) / (/)idK10(GgeV(h')dmu))
-F^uv/ rc^((log(j<0)Eo^(n-1)|K|(at1d)^2)) = (t2n)^-m^2 + ((3.4/(16)^2 Fuv . 16/4 GeV))
 
 1/2TcsGv(KN) . V(He) / Od(CO2) . Od(He) = g08ru'imy^-eish/at^2
 
@@ -703,7 +691,7 @@ Cs^3 - dt(qdf)^2/3 . -pK32 = -Tvts3|•
 gu^2 . ip / F(ar1d2)(lm2) = drl . d3chz(g4h')
 dtt^2s .rqs (arcsen180^(n+dy') = R(log1)Pc(sht)^3/1 / 1s
 gmc• . -sr^3 . Fu(sz)^2 / Fvi . g(cv)^(dm-1) = at^2 + dtss1
-sr8=D2*=dc(gu)3N(kmo)~sr6
+
 Texpt^-1 = pc + gct
 (n-2)^2 = cTs(âû) / ph(cmb) . dts(dchg)^3
 -R= T(uv)^uv
@@ -712,6 +700,9 @@ R=PDX
 U(x)^3/4-diff . Kab^-1/2
 Uk = (rpm)^-3/4 / -K(ab)^2/3
 AR = sr(vz)^1infinity / HôA(sh)
+sr8 = z = 0*
+sr6 /= sr8 = Di|s6|
+sr8=D2*=dc(gu)3N(kmo)~sr6
 
 
 im(qvt) . -i^2v = (^)3pbx / -dt(mq4/8)^02
@@ -778,7 +769,19 @@ d8 = 2l(SDXY) / 4/360pi
 
 
   
-
+R^3 = R^2/|dy|^o
+AK(cfa) . CH /-T = -At^2 + cj(a^2) / -g^2 < jw < gz=o < -2/1 F(dr)^uvT
+AHe . k^+/ACO2 . -k^- = Hdro
+-K^-(n-1)/p(aE)^(n+2) = 2sq^(-3/2)n) . K^(n1+1)
+q(b^-)rs - p^2 . |Dx| > q(b^+)p . |Dy|
+|Dy|/1/2pr^(n+1)• = Loo(arcsen^2(45.3124º))/|Dx| . xp^2 
+(AE,z=1,n=dpx)/1 < 2/(AE,z=1,n=dp'z) = (3 . Ec'/Qz^-0) + 5^pq'/4(Ttd . -pmf . Ud)
+Mu^drt2/to-dt1s' = 3.134gak1v . at^2
+n+1 = -dqrs
+dL^2(K10vmuo) = -dqrs . -(c)^2•K-0v
+-pfs = -0K + Ddv^-2
+-cs^1(Heh) = dr^1(mhu) / (/)idK10(GgeV(h')dmu))
+F^uv/ rc^((log(j<0)Eo^(n-1)|K|(at1d)^2)) = (t2n)^-m^2 + ((3.4/(16)^2 Fuv . 16/4 GeV))
 
 
   FGv*Nn^(ats)/R^3 . ((+-n+log(1aû))
@@ -792,7 +795,7 @@ d8 = 2l(SDXY) / 4/360pi
   
 
 SO(3) = sen 30· . N^(n+1)/ A^1/2
-R^3 = R^2/|dy|^o
+
 SO(-its) = / . G7
 G23 = /e^-imz < G7
 
@@ -818,7 +821,7 @@ Hgg = sû . Opc  / v^2 + Dk(aû)
 ci/r^3 = 2vo . 8Eoc
 
 
-
+vo^u ~ vo^k
 Vo(/vj) = j0·0·
 -trv = ((-(null)trx(di))) . |dy|
 /v . c^2 = 2d^2 = n+3 /1/3e*
@@ -830,38 +833,44 @@ Vai(u) = RKN101*wiwo
 Vo(dtzn)~vo(tzn)
 Vo^v2dQ = AFûv . c^2 / G4Po^1
 Va = -pi^n-1) . j 2 (va^2)
-
 sv^2(rcd^5) . G1/8 . T(uv)^uv
-
+dszg^-1 = pi^(z+1) . L ^-3/4
+dsr/ /u = |dy| - |dx|
+dsr ^-e' . -pi^2 = ZN. 2î^2 /-log GT^2/3·32
 
 
 E1 = dK(101)^mo + spr(8)^6*
 T1^SO(3) = 0
-dszg^-1 = pi^(z+1) . L ^-3/4
+
 z = 1 > -nq - T(uv) -d4
 ds(mo) = 1z^(-F(uv)^uv . m(sh)v
 
 
-
-Autopilot:
 bb(z)=-Q(x) . logTZN
 msi^-2 = /Voo*
 pi6 and pv7; KQ = T.ds
 |Dy| = bb(y)^-2 - e'/23.v^3/2 + z1
 z = 2 if D2 =0, e' = -I(2)
 dt(8)talamus = -log(emj)
-dsr/ /u = |dy| - |dx|
-dsr ^-e' . -pi^2 = ZN. 2î^2 /-log GT^2/3·32
+
 mef^2 = v^2
 m(grid)^-2 = z^2(m) + ^/u(dovo)^E3
 sr(10) = z = 3^pz^2
 RM/FR = (U(k)n+1 -K(ab)z+1
-vo^u ~ vo^k
+
 nsi^-2m= PZR (h/mo) if N=c
 
 
-sr8 = z = 0*
-sr6 /= sr8 = Di|s6|
+
+
+
+
+
+
+
+
+Autopilot:
+
 
 
 
