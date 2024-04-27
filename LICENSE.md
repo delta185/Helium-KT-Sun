@@ -846,6 +846,10 @@ bb(z)=-Q(x) . logTZN
 msi^-2 = /Voo*
 pi6 and pv7; KQ = T.ds
 |Dy| = bb(y)^-2 - e'/23.v^3/2 + z1
+z = 2 if D2 =0, e' = -I(2)
+dt(8)talamus = -log(emj)
+dsr/ /u = |dy| - |dx|
+dsr ^-e' . -pi^2 = ZN. 2î^2 /-log GT^2/3·32
 
 m(grid)^-2 = z^2(m) + ^/u(dovo)^E3
 
