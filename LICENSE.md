@@ -43,6 +43,120 @@ You will not pay for the elimination of hydrostatic pressure in the body through
   salomon 72 decay Au |Hamiltonian|
       8,500,000,000.00 blô||lô4c(b),cs<cx
 
+KPZN (10,101,500,3000,8000,....20,000.00)
+  Di = (/cp^h\)
+  meson |px|
+  (px)^2 = IPC
+
+
+stand for running:
+SO (30)
+rish
+K9 biology systems:
+milky way prism:
+horizon 2030
+bubbles:
+guage drift:
+
+    
+    Autopilot:
+
+vo^u ~ vo^k
+Vo(/vj) = j0·0·
+-trv = ((-(null)trx(di))) . |dy|
+/v . c^2 = 2d^2 = n+3 /1/3e*
+Vvo^3 +3/2KQq'arcon279º = Tuv . F^uv
+AUmu . vo^2/3 / 4/3 dr(du) . p10Ka -rR = - P(mr^-2/1)(de^-1/2)
+Vo = W0 - W0 / DU8^2p^2) . p(iv)
+v2 = D2 . at^2 / 40Gev(logsin)^-m'
+Vai(u) = RKN101*wiwo
+Vo(dtzn)~vo(tzn)
+Vo^v2dQ = AFûv . c^2 / G4Po^1
+Va = -pi^n-1) . j 2 (va^2)
+sv^2(rcd^5) . G1/8 . T(uv)^uv
+dszg^-1 = pi^(z+1) . L ^-3/4
+dsr/ /u = |dy| - |dx|
+dsr ^-e' . -pi^2 = ZN. 2î^2 /-log GT^2/3·32
+Hgg = sû . Opc  / v^2 + Dk(aû)
+ci/r^3 = 2vo . 8Eoc
+
+
+
+    1AU:
+
+Hoo + Hu = d^n!O -AEom|k1|
+3Hô = TQZNo - arcosen3334(Eo)^1
+shH = M|ak|o - v^2 / dsvz(RPSMoo34)
+4/433/2.58523913M^d32 = T2Z1(N23sh / vs5 - vsd4
+//He (atkm) := Fuv^SO . +-FRmm / memo_w
+pHe = 15shv/^2 + Frsh/-ssnPo|
+HLT = 2c'^2/3 . -pu^3/2 +dt / mo^FR . Tr23
+3mû = log(gt2)^ish(a)^2H . ch^-dts
+BDZ(He) = \\FRpmû
+    
+    andromeda Hst ^7/2
+
+Kpc(a) = 10/4 Ecv / 4/2 Ecb
+PK(1.1'.0,FBI=) genetic systems'\dtr^27(-1ds,-1dtr,0,0) = 0 (pfcdt)^nH . (pfB^-(e^-,e^+))(
+K(100^mobb) = -23Gsh/4pi 
+-K(a)^n! = DMat(a^2)d^2
+Kpc(sun)^pi/4= |xt|^3+|dy`2| 
+KPR 453 -PKR345GeV = GF271GeV . 1/16(gaze)
+mvt . At^2/ ic + KPR sh-R^2^1/2 = dd723^-4/3 r^8 / Gc . drT^ds1t2s2 SO3PM
+KU = -Q9. Rv7
+KS = r^2(Hc^2)
+(1.0)-cd\ = -dtr/ log(dts)^2
+
+
+skyrocket:
+
+SO(3) = sen 30· . N^(n+1)/ A^1/2
+
+usa army:
+tissue producive:
+nagaksua' sense, throught:
+lens:
+gaussian flow:
+2038 grow:
+mesh:
+luminar strenght:
+energy: 
+Mo/sh (20)
+D5
+mb:
+cmb:
+no staking:
+I3
+open talamus
+workflow:
+quantile:
+relesase
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -71,10 +185,7 @@ C01= rtch/dsmo
 K100`mobb=23Gsh/ 4pi
 
 
-  KPZN (10,101,500,3000,8000,....20,000.00)
-  Di = (/cp^h\)
-  meson |px|
-  (px)^2 = IPC
+  
 
   NGC ((2261))w|:=CDPR))
   R^2 / R^3 -R = Dy
@@ -823,86 +934,6 @@ Dtd(di)+-9yg
 
 
 
-    Autopilot:
-
-vo^u ~ vo^k
-Vo(/vj) = j0·0·
--trv = ((-(null)trx(di))) . |dy|
-/v . c^2 = 2d^2 = n+3 /1/3e*
-Vvo^3 +3/2KQq'arcon279º = Tuv . F^uv
-AUmu . vo^2/3 / 4/3 dr(du) . p10Ka -rR = - P(mr^-2/1)(de^-1/2)
-Vo = W0 - W0 / DU8^2p^2) . p(iv)
-v2 = D2 . at^2 / 40Gev(logsin)^-m'
-Vai(u) = RKN101*wiwo
-Vo(dtzn)~vo(tzn)
-Vo^v2dQ = AFûv . c^2 / G4Po^1
-Va = -pi^n-1) . j 2 (va^2)
-sv^2(rcd^5) . G1/8 . T(uv)^uv
-dszg^-1 = pi^(z+1) . L ^-3/4
-dsr/ /u = |dy| - |dx|
-dsr ^-e' . -pi^2 = ZN. 2î^2 /-log GT^2/3·32
-Hgg = sû . Opc  / v^2 + Dk(aû)
-ci/r^3 = 2vo . 8Eoc
 
 
 
-    1AU:
-
-Hoo + Hu = d^n!O -AEom|k1|
-3Hô = TQZNo - arcosen3334(Eo)^1
-shH = M|ak|o - v^2 / dsvz(RPSMoo34)
-4/433/2.58523913M^d32 = T2Z1(N23sh / vs5 - vsd4
-//He (atkm) := Fuv^SO . +-FRmm / memo_w
-pHe = 15shv/^2 + Frsh/-ssnPo|
-HLT = 2c'^2/3 . -pu^3/2 +dt / mo^FR . Tr23
-3mû = log(gt2)^ish(a)^2H . ch^-dts
-BDZ(He) = \\FRpmû
-
-
-stand for running:
-SO (30)
-rish
-K9 biology systems:
-milky way prism:
-horizon 2030
-bubbles:
-guage drift:
-    
-    
-    andromeda Hst ^7/2
-
-Kpc(a) = 10/4 Ecv / 4/2 Ecb
-PK(1.1'.0,FBI=) genetic systems'\dtr^27(-1ds,-1dtr,0,0) = 0 (pfcdt)^nH . (pfB^-(e^-,e^+))(
-K(100^mobb) = -23Gsh/4pi 
--K(a)^n! = DMat(a^2)d^2
-Kpc(sun)^pi/4= |xt|^3+|dy`2| 
-KPR 453 -PKR345GeV = GF271GeV . 1/16(gaze)
-mvt . At^2/ ic + KPR sh-R^2^1/2 = dd723^-4/3 r^8 / Gc . drT^ds1t2s2 SO3PM
-KU = -Q9. Rv7
-KS = r^2(Hc^2)
-(1.0)-cd\ = -dtr/ log(dts)^2
-
-
-skyrocket:
-
-SO(3) = sen 30· . N^(n+1)/ A^1/2
-
-usa army:
-tissue producive:
-nagaksua' sense, throught:
-lens:
-gaussian flow:
-2038 grow:
-mesh:
-luminar strenght:
-energy: 
-Mo/sh (20)
-D5
-mb:
-cmb:
-no staking:
-I3
-open talamus
-workflow:
-quantile:
-relesase
