@@ -4,10 +4,9 @@ NASA have non-linear navigation system, so, no instrumentation
 AVEC contrinutions failed in short stage.
 
   there isn't any sample of intelligent systems, "?"
-  perpetual margin' for current vibration
-  clean ce areas
-  dt= log(0| for me
-  received SO's fermionic bubble's giraffe panels (2p(x)^2, Dy/(dx), Udt, -R|dx|) 
+  perpetual margin' for current wave lengths
+  clean ce areas by dt= log(0| for me
+  army forces received SO's fermionic bubble's giraffe panels (2p(x)^2, Dy/(dx), Udt, -R|dx|) 
 
 if LUNC won`t hits 0.01. Stock market capital loses credentials in oceanic intermediary action. It's true
 
@@ -704,6 +703,12 @@ gmc• . -sr^3 . Fu(sz)^2 / Fvi . g(cv)^(dm-1) = at^2 + dtss1
 sr8=D2*=dc(gu)3N(kmo)~sr6
 Texpt^-1 = pc + gct
 (n-2)^2 = cTs(âû) / ph(cmb) . dts(dchg)^3
+-R= T(uv)^uv
+-R=PDA
+R=PDX
+U(x)^3/4-diff . Kab^-1/2
+Uk = (rpm)^-3/4 / -K(ab)^2/3
+AR = sr(vz)^1infinity / HôA(sh)
 
 
 im(qvt) . -i^2v = (^)3pbx / -dt(mq4/8)^02
@@ -825,12 +830,6 @@ Va = -pi^n-1) . j 2 (va^2)
 
 sv^2(rcd^5) . G1/8 . T(uv)^uv
 
--R= T(uv)^uv
--R=PDA
-R=PDX
-U(x)^3/4-diff . Kab^-1/2
-Uk = (rpm)^-3/4 / -K(ab)^2/3
-AR = sr(vz)^1infinity / HôA(sh)
 
 
 E1 = dK(101)^mo + spr(8)^6*
