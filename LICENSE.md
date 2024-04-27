@@ -850,8 +850,16 @@ z = 2 if D2 =0, e' = -I(2)
 dt(8)talamus = -log(emj)
 dsr/ /u = |dy| - |dx|
 dsr ^-e' . -pi^2 = ZN. 2î^2 /-log GT^2/3·32
-
+mef^2 = v^2
 m(grid)^-2 = z^2(m) + ^/u(dovo)^E3
+sr(10) = z = 3^pz^2
+RM/FR = (U(k)n+1 -K(ab)z+1
+vo^u ~ vo^k
+nsi^-2m= PZR (h/mo) if N=c
+
+
+sr8 = z = 0*
+sr6 /= sr8 = Di|s6|
 
 
 
