@@ -70,14 +70,11 @@ C00=(o)trx/rc2pi
 C01= rtch/dsmo
 K100`mobb=23Gsh/ 4pi
 
-btc:
 
   KPZN (10,101,500,3000,8000,....20,000.00)
   Di = (/cp^h\)
   meson |px|
   (px)^2 = IPC
-
-see methods:
 
   NGC ((2261))w|:=CDPR))
   R^2 / R^3 -R = Dy
