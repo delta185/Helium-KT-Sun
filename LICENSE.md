@@ -100,7 +100,7 @@ xo = 1/2 +-(dc) / t^2
 C00=(o)trx/rc2pi
 C01= rtch/dsmo
 2py•(|Dx|^st^-2/q`) = uEOScc > d(dSO) < 1 || See Methods!                                                          
-                                                                                                              andromeda Hst ^7/2;milky way prism:
+                                                                                                              andromeda Hst ^7/2;milky way prism: Qs
 
 Kpc(a) = 10/4 Ecv / 4/2 Ecb
 PK(1.1'.0,FBI=) genetic systems'\dtr^27(-1ds,-1dtr,0,0) = 0 (pfcdt)^nH . (pfB^-(e^-,e^+))(
