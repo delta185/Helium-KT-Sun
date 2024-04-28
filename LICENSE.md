@@ -100,8 +100,6 @@ xo = 1/2 +-(dc) / t^2
 C00=(o)trx/rc2pi
 C01= rtch/dsmo
 2py•(|Dx|^st^-2/q`) = uEOScc > d(dSO) < 1 || See Methods!                                                          
-                                                                                                             
-
 Kpc(a) = 10/4 Ecv / 4/2 Ecb
 PK(1.1'.0,FBI=) genetic systems'\dtr^27(-1ds,-1dtr,0,0) = 0 (pfcdt)^nH . (pfB^-(e^-,e^+))(
 K(100^mobb) = -23Gsh/4pi 
@@ -112,11 +110,7 @@ mvt . At^2/ ic + KPR sh-R^2^1/2 = dd723^-4/3 r^8 / Gc . drT^ds1t2s2 SO3PM
 KU = -Q9. Rv7
 KS = r^2(Hc^2)
 (1.0)-cd\ = -dtr/ log(dts)^2
-SO(3) = sen 30· . N^(n+1)/ A^1/2
-
-
-                                                                                                    
-
+SO(3) = sen 30· . N^(n+1)/ A^1/2                                                                                            
 FR = 1/2mu(3)
 FR(si,hy^2/htc(su)) = 2h^2-3dz,d2su/3
 He^a^2:(2/8gm1-2/1gi64/nT.(dst)^2 = vAc
@@ -133,10 +127,7 @@ mesh:
 panels = 2y'(px)|Dy|, (dx)^-2/1, dt=0, DM(dt) = ck(He)
 ld^-2 = -3(dxy|
 w(ce) = AH^-
-kq(br) = b+^2
-
-                                                                                                
-
+kq(br) = b+^2                                                                                              
 (35.2)I27 / (-dts)^-3/23* = -(cHeQ)^-2 . brdr^16piG / 5dc . 3c^2dt(rpx)^3
 dtNGC^-16/8i/At^2 .r^3pr|x| = DTN(2vo) + AE2c'iD^9/1.4
 -(R)^2 . Dt^-4/2 = -Dtvû^-1/3
@@ -145,13 +136,7 @@ dtNGC^-16/8i/At^2 .r^3pr|x| = DTN(2vo) + AE2c'iD^9/1.4
 DTZNff\|gp(2dx|^dnH|
 D =2(vo+-mû)/3(+-e^-e^+) |ce/2?* ) (dmo =HCDv?||:= t/to^2sq(vo)ccns,dgvo!)))cps
 30º/2))|^= (99%/2) || 3N^|(4dd5dd(Tsd) - 1))2vo
-(TLMff) = s!|dy|/|D|Dx|)
-
-
-
-
-                                                                                                                       
-
+(TLMff) = s!|dy|/|D|Dx|)                                                                                                                    
 p(a) + a^2 / df = q^3/1 - mf^2/3 / T(k)^2/2 - dEc^+-w(jr)(rp)
 Di = CHR + sr0
 D2 = z 1(00) = SO
@@ -161,47 +146,30 @@ D4=-z^2 . d^2(2)/ D9 + D11(cc)
 D3 = -w0^(z+1) . -pK(u) - Kab
 (D = 2vo^d(tzn) . Ecp' )
 a^2 . 5/5dRH = Smesh^(n+2)* / (-ib^2) . 3vho
-
-
-    relesase:
-desactivation binary algothrim by dmcode to 50 years olddd in advance))))\\|
-administration laws haven't zerohedge (T)
-blood is different layer
-
-
-
 sin00 at TGR flow on gamma . x ray. at 1/8
 cz=gamma ray and x ray by different infrastructure at 4/1 . K-2
 )))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))) KPR 555/1-2
-
-
-  NGC ((2261))w|:=CDPR))
-  R^2 / R^3 -R = Dy
-  m^2 -1 / m^3 -1 = Di
-  (Di, Dy, nds) = Poch
-  /?
-  KPZN compound's composites
-  -R=T(uv)^uv
-
-  
-
-  SU^-n = (PR)iD|y| . log+-(FR^2)radq(t^2) / Tn . e^-2/4
-  Avrg(tech) = 3/1
- 
-
- 
-  Dr^3s^t! = d(intv)^n^3^-m^-1
-  KPR (100kpc) = (30,99,-2,Dvo))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))tTquo(KPR))((((7171kpc))1.)
-  Td^(n-2)c^(n+1) = bRNA fields
-  Epoch = - N(dy) / To . c^2
-  bch . dt(r^2) = - adq / tc^|dx|^-m^2^(n!-1)
-  Ud = b(msi)
-  ph(in)^((-br(ps)/c^3)) = f(mc)dph(u)(v^3)
-  bv^(vo)ns)^u
-  AHe(sf) = r^2su+-gsd(Hc)
-  -Ts/ = dpi\ / sT(dm) / dst
+NGC ((2261))w|:=CDPR))
+R^2 / R^3 -R = Dy
+m^2 -1 / m^3 -1 = Di
+(Di, Dy, nds) = Poch
+/?
+KPZN compound's composites
+-R=T(uv)^uv
+SU^-n = (PR)iD|y| . log+-(FR^2)radq(t^2) / Tn . e^-2/4
+Avrg(tech) = 3/1
+Dr^3s^t! = d(intv)^n^3^-m^-1
+KPR (100kpc) = (30,99,-2,Dvo))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))tTquo(KPR))((((7171kpc))1.)
+Td^(n-2)c^(n+1) = bRNA fields
+Epoch = - N(dy) / To . c^2
+bch . dt(r^2) = - adq / tc^|dx|^-m^2^(n!-1)
+Ud = b(msi)
+ph(in)^((-br(ps)/c^3)) = f(mc)dph(u)(v^3)
+bv^(vo)ns)^u
+AHe(sf) = r^2su+-gsd(Hc)
+-Ts/ = dpi\ / sT(dm) / dst
 NULL = |trx| . |dy|^(n+1)
-  DMcd msid mush ph(3Mo)^23Ec' parsc* mdlbb (eucn)\di flux gzfr(rdz/NGC) |dy|
+DMcd msid mush ph(3Mo)^23Ec' parsc* mdlbb (eucn)\di flux gzfr(rdz/NGC) |dy|
   msd(v) = 20sd
   sd= dy|| arsen^3(0)c(F3sh(gcHu)c'dHcsd(ssv) = v\\\\\
   UT = -logqarcos^3(360)ssv^
@@ -252,7 +220,6 @@ KNodds^out=-Pe^v
  qT-^2-q^3
   -q^3 =T1
   -q^2 = T2
-
 pi/360|dx|= GeV . R^2k . |dy|
 sr6 guides experiment control trought PKR 101/pi at GeV 40 Mdz
 Ekab,i=nk3; Fdp`2 * pi = 0^1/3
@@ -265,32 +232,20 @@ I agree^1/2 . 1/2 ^2/1 pu
 1/2Lj^n=0 = KPR 1450·
 n=-2/ xtr(j)^n=--- = zw(CN)
 F^3 u.^ = d^3(vo).DM
-
 KN^out / odds = -i . Pe^v^
-
 SU(2) = -mp/dy^ . -JA (aint)
 DPA^-R(R) =1/3-dt(pi) = dt(p^2^) . -g2/pi
-
-
 DH(193)^00 = Vo(RjA)^rc-g(kpzn^d3
 M^dd3 (pi!) = RE· RC2
-
 n^n! .pi(earth) = dsv5
 dx(p^2) . pu9 = piIC(n+1)
-
 p^3 = -p^2 . D12(ar)
-
 KEROLOX(sh) = SO3/+SD7*
 600gr of clozapine by aint 3px·
-
 any parsec navigates. ecluidean geometry. dt^3 = v^2(max)
-
 H8 = SO^mo(j3)/sr7·
-
-
 sr6 (short) 2p^2=expt^-1
 sr2 = - Kab
-
 Lo(r') = dAu
 C00 = (0^x) . rx / rc(2pi)
 C01 = rtch/dsmo
@@ -304,7 +259,6 @@ msi^-2= LUNC
 +-msiRP < Tch =-bbout\
 2d(msi)^1/3k-k+!
 msi2^z2 = CRU . (S8.R3M)
-
 dtr = 3/1 Udt / 1/2 Es (ch)
 ddt^2=ds +  trv(rc)mo'
 Tc7 = bb^7/6
@@ -328,8 +282,6 @@ H(n) = R+ . st^5/2 / /|N^n-1
 8/2ab^b'c|ax| / qt3E(pn) . Thd( = QoV
 T^n+2 =-xpo + PRZ·^c
 s3s5 = 4Qv - (2T-To4)
-
-
 zmi = IC o wp^2 /dsv
 Z0t1 = Rm . . Id4 . mo^(dx|·
 Z3out = dy^rad3-4  odds
@@ -341,8 +293,6 @@ Z8 = rcmo'
 Z1* = msi2^KN
 dsgz4 = -Ej(sh)^2/mo(CH)
 gz001 = 1/2 c . -j2/1 / SO3
-
-
 2(c^2^dvo') . vo(SOp|dx|r^2qs^4/3 (t1-t2)^3/2 - qd2-t^2 . fmsq /Fu5qvm = He^dmo*
 d(ch) = 1/2(3/1)m
 fHe . v(isH)^bmû (DMrtmc) = Ads(mû) / -(H^+)
@@ -354,12 +304,7 @@ TGS = -Q
 S=~Q
 GP = SGA*
 amygdala = Z2 .RM5^4 / (N +1)^-2m^2
-40Gev = CLPi . KPR/n
-
-
-
-
-                                                                                                  
+40Gev = CLPi . KPR/n                                                                                               
 R^3-2R = N(us) / Tr
 R^3(fm) = CH(2) + Epu·
 rd^at-dts, D=3, 2(qt*)^(n-1)^2
@@ -391,21 +336,14 @@ dL^2(K10vmuo) = -dqrs . -(c)^2•K-0v
 -pfs = -0K + Ddv^-2
 -cs^1(Heh) = dr^1(mhu) / (/)idK10(GgeV(h')dmu))
 F^uv/ rc^((log(j<0)Eo^(n-1)|K|(at1d)^2)) = (t2n)^-m^2 + ((3.4/(16)^2 Fuv . 16/4 GeV))
-
 po/pi= P'obs/k100.4/pi
 80%ds=71,2%dtr(mo)= 20%rt|dx|mo
 dsz^2=wo(pi)-wo 
-
 dHz + T |dx| = nEi=/1 -pi.Ua
 6T LUNC coins are burned by dark matter that it's ordinary matter means nothing in global cost by SEC
 branchs orders at 0,3% stock reserve
-
-
 XLM cos^2271 - rdz sen^2 1/16 = GeV pi/rc2TLM + sen^2 30
-XLM sen^2272 = GeV pi/3 . sen^2 0
-
-                                                                                                   
-                                                                                                    
+XLM sen^2272 = GeV pi/3 . sen^2 0                                                                                                
 K100`mobb=23Gsh/ 4pi
 TZN^+ = BCH(kb)
 ANGC = c^2 . PK,Zmu^- . (arsen0),N3t^3/2 / -i^2DT^? - v(ka)t3
@@ -426,10 +364,7 @@ p0e=))s^na)^u /c td)mu^(1/2dmo)*gpn^n
 M (d4,40Epcc')
 st + msi^-2 -msi^-1|dx|= 2(mf)
 -Kab = FA(uk)^uH/c
-
-
  dt+sr = -pi . 3wo
-
  2cs
  2tcs
  2wo
@@ -437,13 +372,8 @@ st + msi^-2 -msi^-1|dx|= 2(mf)
  pi/360+(20/40)
 c^2 = n+1
 z= n+2
-
  msi^2 = -qs^2 . e'^5/4 / st^1/3. rcN+dt^5/1
  G23/rcZ = s^2.t^2/K^3(n+1) . R^3/4
-
-
-
-
 ru = dru = -qs(pi)Un^K(ab) . RH
 DMZ ^4 = 2D! / at^2
 c^2 = -N-e'/logv^2
