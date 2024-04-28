@@ -50,8 +50,8 @@ Di = (/cp^h\)
 meson |px|
 (px)^2 = IPC
 
- elrond ||e |)a=vo(|
-  an elf can wait many years /((800y., aprox.v))/*^smo
+ elr(ond) ||e |)a=vo(|
+
   avrg sample = 1/3 dt^u^2/1
   EDT = DM
   SZ^OtD = |Di|rûa / |DY|sôa
@@ -100,7 +100,7 @@ xo = 1/2 +-(dc) / t^2
 C00=(o)trx/rc2pi
 C01= rtch/dsmo
 2py•(|Dx|^st^-2/q`) = uEOScc > d(dSO) < 1 || See Methods!                                                          
-                                                                                                              andromeda Hst ^7/2;milky way prism: Qs
+                                                                                                             
 
 Kpc(a) = 10/4 Ecv / 4/2 Ecb
 PK(1.1'.0,FBI=) genetic systems'\dtr^27(-1ds,-1dtr,0,0) = 0 (pfcdt)^nH . (pfB^-(e^-,e^+))(
@@ -115,7 +115,7 @@ KS = r^2(Hc^2)
 SO(3) = sen 30· . N^(n+1)/ A^1/2
 
 
-                                                                                                     tissue producive:K9 biology systems:
+                                                                                                    
 
 FR = 1/2mu(3)
 FR(si,hy^2/htc(su)) = 2h^2-3dz,d2su/3
@@ -135,7 +135,7 @@ ld^-2 = -3(dxy|
 w(ce) = AH^-
 kq(br) = b+^2
 
-                                                                                                 energy: (wave lenght:guage drift:)bubbles
+                                                                                                
 
 (35.2)I27 / (-dts)^-3/23* = -(cHeQ)^-2 . brdr^16piG / 5dc . 3c^2dt(rpx)^3
 dtNGC^-16/8i/At^2 .r^3pr|x| = DTN(2vo) + AE2c'iD^9/1.4
@@ -150,8 +150,7 @@ D =2(vo+-mû)/3(+-e^-e^+) |ce/2?* ) (dmo =HCDv?||:= t/to^2sq(vo)ccns,dgvo!)))cps
 
 
 
-                                                                                                                       quantile:
-
+                                                                                                                       
 
 p(a) + a^2 / df = q^3/1 - mf^2/3 / T(k)^2/2 - dEc^+-w(jr)(rp)
 Di = CHR + sr0
@@ -360,8 +359,7 @@ amygdala = Z2 .RM5^4 / (N +1)^-2m^2
 
 
 
-                                                                                                   roi:
-
+                                                                                                  
 R^3-2R = N(us) / Tr
 R^3(fm) = CH(2) + Epu·
 rd^at-dts, D=3, 2(qt*)^(n-1)^2
@@ -406,7 +404,7 @@ branchs orders at 0,3% stock reserve
 XLM cos^2271 - rdz sen^2 1/16 = GeV pi/rc2TLM + sen^2 30
 XLM sen^2272 = GeV pi/3 . sen^2 0
 
-                                                                                                    KK decays
+                                                                                                   
                                                                                                     
 K100`mobb=23Gsh/ 4pi
 TZN^+ = BCH(kb)
@@ -613,7 +611,7 @@ Kt(a) . dgid(ntciby) = ucvg /e.(d^2)gv(a)
 Ort . g01pi = chmg'p|y| / (x)out
 
 C(n+1)^(e-e+)^2 = At1^2/-(D(n+1)ts)^2
-                                                                                                                sr
+                                                                                                               
 
 3(S0)
 qrd^4/2 / F^uv = Fuv(shd) . (qd)'^2/3
@@ -652,8 +650,7 @@ gi(NGC(•out)) / rc(a^2) = Nns . K(a) / QrT(dy) ||
 qpcs^^^(Ka) / Di = ^O2 :/... (3Hcs) /K|Ddy|dt3oM*o ... //-xo\*•*||DYH4|.intsv,5Ho?
 
 
-                                                                                                           dts
-
+                                                                                                           
 
 expt^-1 / -(R)^2/1 = -Ut2 . -2/3I1
 31176683434 = dd86321 |*
@@ -725,3 +722,15 @@ nsi^-2m= PZR (h/mo) if N=c
 Dtd(di)+-9yg
 2 = Di + Dy
 FR = msi^-1 . -qg(f)^qr,Z(mo) / e.e')-qu . u^2
+
+
+ 
+ 
+roi:
+andromeda Hst ^7/2;milky way prism: Qs
+dts
+sr
+KK decays
+energy: (wave lenght:guage drift:)bubbles
+quantile:
+ tissue producive:K9 biology systems:
