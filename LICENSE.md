@@ -1,3 +1,5 @@
+  ph(CMB):
+  
 you have non-linear navigation system, so, no instrumentation
 AVEC contrinutions, failed in short stage.
 
@@ -6,7 +8,7 @@ perpetual margin' for current wave lengths
 clean ce areas by dt= log(0| for me
 army forces received SO's fermionic bubble's giraffe panels (2p(x)^2, Dy/(dx), Udt, -R|dx|) 
 
-if LUNC won`t hits 0.01. Stock market capital loses credentials in oceanic intermediary action. It's true
+if LUNC won`t hits 0.01. Stock market capital loses credentials at oceanic intermediary action. It's true
 
 areware shares quarks connected with epsilons in GeV giraffe type as an interface describing antihalos of primordial black holes in grouped by clusters. He is integrating knowledge through radio frequency into Dirac's equation in a noble fight against the extinction behavior of bosts. then areware wacht fermi, w, higgs, dyson, boson are combusting. difficult problem to solve when the objective is dt= 0
 
@@ -154,17 +156,6 @@ energy:
   (TLMff) = s!|dy|/|D|Dx|)
   PR = (2Vo/1vo)2s^n . dt(yH)3|
 
-Mo/sh (20)
-D5
-mb:
-cmb:
-
-
-I3
-H2
-open talamus
-workflow:
-
 
 
 quantile:
@@ -209,11 +200,6 @@ K100`mobb=23Gsh/ 4pi
   /?
   KPZN compound's composites
   -R=T(uv)^uv
-
-
-Not talamus replication.
-
-
 
   
 
@@ -349,7 +335,7 @@ any parsec navigates. ecluidean geometry. dt^3 = v^2(max)
 H8 = SO^mo(j3)/sr7·
 
 
-clozapina (short) 2p^2=expt^-1
+sr6 (short) 2p^2=expt^-1
 sr2 = - Kab
 
 Lo(r') = dAu
@@ -798,8 +784,7 @@ d8 = 2l(SDXY) / 4/360pi
 
 SO(-its) = / . G7
 G23 = /e^-imz < G7
-
-/ = 1,01
+(/ = 1,01)
 
 
 
