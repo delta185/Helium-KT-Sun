@@ -58,10 +58,8 @@ meson |px|
   Q(tr^3) = R|Dy(dx•)|
  
 
+                                                                                1AU:SO||(30)rish99%cap
 
-    
-
-                                                                                                                 1AU:SO (30)rish
 PR = (2Vo/1vo)2s^n . dt(yH)3|
 cc =/ cco
 cc = dts/1,20
