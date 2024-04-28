@@ -44,9 +44,9 @@ You will not pay for the elimination of hydrostatic pressure in the body through
       8,500,000,000.00 blô||lô4c(b),cs<cx
 
 KPZN (10,101,500,3000,8000,....20,000.00)
-  Di = (/cp^h\)
-  meson |px|
-  (px)^2 = IPC
+Di = (/cp^h\)
+meson |px|
+(px)^2 = IPC
 
 
 stand for running:
@@ -160,10 +160,6 @@ mb:
 cmb:
 
 
-
-
-
-no staking:
 I3
 H2
 open talamus
