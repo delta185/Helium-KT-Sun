@@ -511,8 +511,6 @@ DMvfmh / PRN(frHe) = log(arcsen/)vo^-1wm^n-2hN/ Fuv^uv . Kpc 3242n
 Mo(at) = N(na)^uv . K(a) / rc^3
 Er^2.ST(a) = 2/ rc^8t8T -ER(kpc101)^2
 dp(gs) = v1^-1/2-vo^-w^2rci.AEc / d(ts1)^2
-
-
 358 dt^2sv = F271 +dr^3 / 1:121234^3/2 r^2 -cfv^2
 9/1m . dt2 = Fuv . dts2
 dt2 / 5D(n`agtp)^-bbcs^2 = c(a
@@ -524,25 +522,16 @@ v = -cos21 (n-2)^n+1d/
 z=2 if d2=0,E'=-I2
 F^uv.Ruv / qG(c^2) = -dt(q)
 (300101)kpc^1GeV - AEo(ac)• / |Dy| = -(dts)^2/q•s(sv)
-
 2/1 inv(ka)^2 = i4D^-4/3 . dts(1q) + 2dt / md(uuv^uv)
 |(C)| = 2 / rc^Ek(a^nt) . |Dx|^1
 st(a^2) = PR(1.120 < 1.210) . -c^2s / ddrs^3 + ss(vq)^1/2 < (Dw,Ge,No,Cs)
 vo = v1 = +-1dt
 1/8RP(th)^-1/3dts1+-1/2dt = 1/3dts1^7`212
-
-
 1/2TcsGv(KN) . V(He) / Od(CO2) . Od(He) = g08ru'imy^-eish/at^2
-
-
 Oc|mx| = ad^2 || MGg•Kfu/^(-e^2).+eK.piu'
 Kt(a) . dgid(ntciby) = ucvg /e.(d^2)gv(a)
-
 Ort . g01pi = chmg'p|y| / (x)out
-
-C(n+1)^(e-e+)^2 = At1^2/-(D(n+1)ts)^2
-                                                                                                               
-
+C(n+1)^(e-e+)^2 = At1^2/-(D(n+1)ts)^2                                                                                                             
 3(S0)
 qrd^4/2 / F^uv = Fuv(shd) . (qd)'^2/3
 cpf(FR) . ((l0cos(qs) . -pe(logtdd2)) = dt(qs)' . |enr1'sK|^1/2
@@ -556,7 +545,6 @@ Cs^3 - dt(qdf)^2/3 . -pK32 = -Tvts3|•
 gu^2 . ip / F(ar1d2)(lm2) = drl . d3chz(g4h')
 dtt^2s .rqs (arcsen180^(n+dy') = R(log1)Pc(sht)^3/1 / 1s
 gmc• . -sr^3 . Fu(sz)^2 / Fvi . g(cv)^(dm-1) = at^2 + dtss1
-
 Texpt^-1 = pc + gct
 (n-2)^2 = cTs(âû) / ph(cmb) . dts(dchg)^3
 -R= T(uv)^uv
@@ -568,20 +556,13 @@ AR = sr(vz)^1infinity / HôA(sh)
 sr8 = z = 0*
 sr6 /= sr8 = Di|s6|
 sr8=D2*=dc(gu)3N(kmo)~sr6
-
-
 im(qvt) . -i^2v = (^)3pbx / -dt(mq4/8)^02
 -wo^rd2^2/1wi = cj^1/2 + dr(vprp) / d(a^2vdc) . ih(fr) + dts(mq)^d(dmû)
 d(a^2)^(n-2) = avnt(HTh)/rdt
 ddpp^2 = -ns . qT^Fuv / fr(ka)
 gi(NGC(•out)) / rc(a^2) = Nns . K(a) / QrT(dy) ||
 || = FvRu - dt
-
-qpcs^^^(Ka) / Di = ^O2 :/... (3Hcs) /K|Ddy|dt3oM*o ... //-xo\*•*||DYH4|.intsv,5Ho?
-
-
-                                                                                                           
-
+qpcs^^^(Ka) / Di = ^O2 :/... (3Hcs) /K|Ddy|dt3oM*o ... //-xo\*•*||DYH4|.intsv,5Ho?                                                                                         
 expt^-1 / -(R)^2/1 = -Ut2 . -2/3I1
 31176683434 = dd86321 |*
 || / 5/4.Fkq^-Kn = \TEv523 Gv^bb^-2
@@ -594,7 +575,6 @@ z^2 -Fuv . Tuv^uv = 3IMo
 S9 = AK(nk10(a))^n+1hg
 312st . Fs(dr)^ph / A|ds|^cq^(1 - n(x)) = - dts^qp^2 /Ncgdd(y) . 2px|dx|
 b3h . -ait^2 = bcg / logK5n . at(n3dt)^Edv(h)\
-
 2nt^(nt - 1n) = fT(kap) / m^2 . 3/1dh. (dt^-dt(ps)) . 3ûvg
 p(dvo-ar) ((MD(dgr)3id)) / (t-1)/to = (-jkt)^2^nd2 .IFv^ûv
 (i8923)Tt4Zn^/Nc^-1 = Kp^2ZN((gc(l^3)) / parc(2M)6754183
@@ -655,7 +635,7 @@ FR = msi^-1 . -qg(f)^qr,Z(mo) / e.e')-qu . u^2
 
 
  
- 
+ NOTE
 roi:
 andromeda Hst ^7/2;milky way prism: Qs
 dts
@@ -663,4 +643,4 @@ sr
 KK decays
 energy: (wave lenght:guage drift:)bubbles
 quantile:
- tissue producive:K9 biology systems:
+tissue producive:K9 biology systems:
