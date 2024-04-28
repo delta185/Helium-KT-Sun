@@ -69,7 +69,7 @@ bubbles:
 guage drift:
 
     
-    Autopilot:
+                                                                                Autopilot:
 
 vo^u ~ vo^k
 Vo(/vj) = j0·0·
@@ -92,7 +92,7 @@ ci/r^3 = 2vo . 8Eoc
 
 
 
-    1AU:
+                                                                                        1AU:
 
 Hoo + Hu = d^n!O -AEom|k1|
 3Hô = TQZNo - arcosen3334(Eo)^1
@@ -289,28 +289,16 @@ KNodds^out=-Pe^v
   -q^2 = T2
 
 pi/360|dx|= GeV . R^2k . |dy|
-
-clozapine guides experiment control trought PKR 101/pi at GeV 40 Mdz
-
+sr6 guides experiment control trought PKR 101/pi at GeV 40 Mdz
 Ekab,i=nk3; Fdp`2 * pi = 0^1/3
 really love ds(sh) is out and only odds for extinguish
-
-
 So ? will know how trductions carry
 R5 =msi^2app and Ka(ua) andromeda gig
-
-bad stacking for 3/3
-
 -Kab (wiwo rish) = sd^n+1 + CH1^ka / EUa(sh) . mo^2 = Fvmf`ev·16/1pi^1/3 / c`2^n+1/ rcmo^2-1 = Ax`dy*/ dt^pi2
-
-
 d4 = cos^tr
 I agree^1/2 . 1/2 ^2/1 pu
 1/2Lj^n=0 = KPR 1450·
 n=-2/ xtr(j)^n=--- = zw(CN)
-
-
-
 F^3 u.^ = d^3(vo).DM
 
 KN^out / odds = -i . Pe^v^
