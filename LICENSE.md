@@ -56,17 +56,16 @@ meson |px|
   EDT = DM
   SZ^OtD = |Di|rûa / |DY|sôa
   Q(tr^3) = R|Dy(dx•)|
-  rd^at-dts, D=3, 2(qt*)^(n-1)^2
-
-
-
-
-horizon 2030
+ 
 
 
     
 
                                                                                                                  1AU:SO (30)rish
+PR = (2Vo/1vo)2s^n . dt(yH)3|
+cc =/ cco
+cc = dts/1,20
+cc = dts/0,8
 vo^u ~ vo^k
 Vo(/vj) = j0·0·
 -trv = ((-(null)trx(di))) . |dy|
@@ -148,12 +147,14 @@ DTZNff\|gp(2dx|^dnH|
 D =2(vo+-mû)/3(+-e^-e^+) |ce/2?* ) (dmo =HCDv?||:= t/to^2sq(vo)ccns,dgvo!)))cps
 30º/2))|^= (99%/2) || 3N^|(4dd5dd(Tsd) - 1))2vo
 (TLMff) = s!|dy|/|D|Dx|)
-PR = (2Vo/1vo)2s^n . dt(yH)3|
+
 
 
 
                                                                                                                        quantile:
 
+
+p(a) + a^2 / df = q^3/1 - mf^2/3 / T(k)^2/2 - dEc^+-w(jr)(rp)
 Di = CHR + sr0
 D2 = z 1(00) = SO
 D9 z=0.5
@@ -360,8 +361,9 @@ amygdala = Z2 .RM5^4 / (N +1)^-2m^2
 
 
 
-                                                                                       roi:
+                                                                                                   roi:
 
+rd^at-dts, D=3, 2(qt*)^(n-1)^2
 sr7 / rc (v) = sr(2) . pu'
 roo = dt^2.(dy)/(c^2)
 sr8 = KU^-3/4(HS)
@@ -403,10 +405,12 @@ branchs orders at 0,3% stock reserve
 XLM cos^2271 - rdz sen^2 1/16 = GeV pi/rc2TLM + sen^2 30
 XLM sen^2272 = GeV pi/3 . sen^2 0
 
+                                                                                                    KK decays
+                                                                                                    
 
 TZN^+ = BCH(kb)
 
-p(a) + a^2 / df = q^3/1 - mf^2/3 / T(k)^2/2 - dEc^+-w(jr)(rp)
+
 ANGC = c^2 . PK,Zmu^- . (arsen0),N3t^3/2 / -i^2DT^? - v(ka)t3
 |Apsu)) = 4Q d(so) drs3/5 / 4/3 ddpparsen 90
 Q-dr^2 . |+-g16p^n! = -Rqt2/3 + gb^arsen180cs, atmdhs
@@ -453,9 +457,7 @@ z= n+2
  G23/rcZ = s^2.t^2/K^3(n+1) . R^3/4
 
 
-cc =/ cco
-cc = dts/1,20
-cc = dts/0,8
+
 
 ru = dru = -qs(pi)Un^K(ab) . RH
 DMZ ^4 = 2D! / at^2
