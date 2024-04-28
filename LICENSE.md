@@ -479,9 +479,6 @@ XLM sen^2272 = GeV pi/3 . sen^2 0
 
 TZN^+ = BCH(kb)
 
-
-
-
 p(a) + a^2 / df = q^3/1 - mf^2/3 / T(k)^2/2 - dEc^+-w(jr)(rp)
 ANGC = c^2 . PK,Zmu^- . (arsen0),N3t^3/2 / -i^2DT^? - v(ka)t3
 |Apsu)) = 4Q d(so) drs3/5 / 4/3 ddpparsen 90
@@ -540,8 +537,8 @@ c^2 = -N-e'/logv^2
  
  bz bg bw bb
 
-dogmatil 50gr (xp)
-betahistina 16 gr xp
+sr8 = xpx'
+sr6 16 gr xp
 
 
 
@@ -579,7 +576,7 @@ dts long live learning
   
 
 1/2 SM(dsh^d(pi3u))/dt^log2D(x)^3drms^-vi^2N(cfj)^vlz^2(dg)^3
-  1(dt) = 10x'(dt)
+1(dt) = 10x'(dt)
 
 
 pvsFghj > (R^2mo -pi. -uç`2 ) +1.12*.rsc
@@ -592,20 +589,10 @@ L^n+-mf^2 + L^2/1 = cmf . e^pi(yhi)e(d-)
 -intv (atm) = -3S . gvu^2m . (e-)2Njd!
 d2t3 + RFf318.5 = v^3/v^2 - R
 dt(qHe)^qdt = 1/2muv3H - |km)^4/3
-
-GC (10)
-
-
 dKa = Gp64^vx / d3T-o
-
 senº/123(ds2ka10832 ... 5) = 2R^2 . v^mu / KPZN + E2
 3dt = 1FR - dts1 / t-ts1
-
 V-ind-2t--g242441
-
-
-
-
 V^2 = Ceff -drs^1/2 /dttpp (FR^e+)
 mu / M^2o = dsz(4) . FR^1/2^2213
 K(a)To = 2pxvo . 3vt2 / AHebb^-7/2*
@@ -692,7 +679,7 @@ Z|fXd| = - Fuv^uv + 3Ec^2/1 / -SVq
 v = -cos21 (n-2)^n+1d/
 z=2 if d2=0,E'=-I2
 F^uv.Ruv / qG(c^2) = -dt(q)
-300101kpc^1GeV - AEo(ac)• / |Dy| = -(dts)^2/q•s(sv)
+(300101)kpc^1GeV - AEo(ac)• / |Dy| = -(dts)^2/q•s(sv)
 2py•(|Dx|^st^-2/q`) = uEOScc > d(dSO) < 1 || See Methods!
 2/1 inv(ka)^2 = i4D^-4/3 . dts(1q) + 2dt / md(uuv^uv)
 |(C)| = 2 / rc^Ek(a^nt) . |Dx|^1
