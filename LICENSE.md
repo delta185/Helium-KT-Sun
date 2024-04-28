@@ -376,57 +376,36 @@ ru = dru = -qs(pi)Un^K(ab) . RH
 DMZ ^4 = 2D! / at^2
 c^2 = -N-e'/logv^2
 -qtv = SO(o) ^T(uv)
- 
- bz bg bw bb
-
+bz bg bw bb
 sr8 = xpx'
 sr6 16 gr xp
-
-
-
 a^2/dv^5 = s2 . v(2)/ t(4) + U(8)
 dts . .tr = a^2
 T(so) = -T(su) . K(ab)^u.v/ v^2
-
-
-
 psm (H) = ((F(sc')Eb))HT / Dts
-  ss^(ds^+-1)ch^3/2Er/(3cf) . Eo^n^n!(/sr(dNn22) = r^-g(fc)H
-  
-  c^2 = s(c')E^- (ch)
-  Hoo (-pr) / ant(Hs) = c^3 . dt^nsd / dtr(Hsu)* - (imtv /fso)^-pn!*
-  ((v^3(out)) - |T|^-nd(cH)  = pd^u / (dtp)^2 (oddsT)
-
-
-  FBI = -1/2memo^n^n!
-  cTH = v-vo
-  -ch/3H . at^2 = p^2/-dt
-  -r = ph + c^3/2
-
-
-  4/3 bH = gdc^3
-  DMdr = lo(g) p^2
-  dtr 2/3 = 3H*
-
+ss^(ds^+-1)ch^3/2Er/(3cf) . Eo^n^n!(/sr(dNn22) = r^-g(fc)H
+c^2 = s(c')E^- (ch)
+Hoo (-pr) / ant(Hs) = c^3 . dt^nsd / dtr(Hsu)* - (imtv /fso)^-pn!*
+((v^3(out)) - |T|^-nd(cH)  = pd^u / (dtp)^2 (oddsT)
+FBI = -1/2memo^n^n!
+cTH = v-vo
+-ch/3H . at^2 = p^2/-dt
+-r = ph + c^3/2
+4/3 bH = gdc^3
+DMdr = lo(g) p^2
+dtr 2/3 = 3H*
 dm(shau) = pi(aush^3)/dmH.gu^n!
-
 dts long live learning
   1/2 america
   2/3 china . russia
   (1/7,1/6,1/7,1/9) ce
-
-  
-
 1/2 SM(dsh^d(pi3u))/dt^log2D(x)^3drms^-vi^2N(cfj)^vlz^2(dg)^3
 1(dt) = 10x'(dt)
-
-
 pvsFghj > (R^2mo -pi. -uç`2 ) +1.12*.rsc
 3Po|ddxv-inAm^f^2! = jnds^2/KPR 3212312243453455523*.int
 5T - AkmD = -Qtt^2 + v^qq^n!*.lk
 5S = -Aa^2 + I3 (g100hvu^huvmfo5)*.zip
 Mo-OH|/- = HCT + sh1/2 . mo^-2/1 / drs MMoo^rr
-
 L^n+-mf^2 + L^2/1 = cmf . e^pi(yhi)e(d-)
 -intv (atm) = -3S . gvu^2m . (e-)2Njd!
 d2t3 + RFf318.5 = v^3/v^2 - R
@@ -440,15 +419,12 @@ mu / M^2o = dsz(4) . FR^1/2^2213
 K(a)To = 2pxvo . 3vt2 / AHebb^-7/2*
 gu^2(vo) / N2^-37/1 = sGv^-98/1
 M^-indmg3/2t^2^-1/2g8 -dmu'cl^2 = -R^2 . 3dR3^3/4^^4/3 +dt5/AKPR arcos +1/2mFU(uv) +-b^-79/2dtsh
-
 RRF = L^n!.Ad8D + d9DVmu^ngc445301 m/s^-2/1(spi)hz:=
 -sh^2/g161^KPR22sh^1/2 = Rpwi + w1t1 - dt -dttppvo
 2(1d1ts1)/1^-b^^-2/9 + ddx(Ass.V)
 R2 = rm^2 + 2/1 (oh^-eipi^n2-2^-m1 + f334
 n^3x.u'/ r^2, 64pi rnt?d3/4
 -L^2 = 0rc . g3/2pi / Am^-pu.u
-
-
 z = r^2 v^2 - 2
 3+1/2Nmf = -Aq' . 1/2hco.dnc
 Trc . dt^2 = oH
@@ -458,7 +434,6 @@ dryHe = Frv^vu^2
 DM = ds^5/4 - pu^-2mû'. -hu!
 arcsen^2 = Apu'-mf'/1
 d6/pi(as,pi,ru,Un)
-
 5/0- . Mo - ddt^2E = GEo . Q^nk . pEc - Ec2
 dt = 3/2j - dc2 . t^h + KPR+-4/27
 mu^2 = -t^2 + arcsen r^216pirsc^-2/1
@@ -467,14 +442,12 @@ o = -pmiEc't^3/2
 a = d-pmu . QPRRct
 q = +- -2/1dp (-R)
 j^ns-1/2)N!5 = -d0
-
 1:5000rnab = 213 Kpc . sh^3H + (2n - 1/2Hen)
 (cfdm^+1/2e+lt1) = dtt^2 +1/2-4/3.15
 GPI + K3.105^n = R^2
 dt= 2/3 -icsg8 . pi^2
 gu=dd1t1cs^2d2-DT9t'
 Ka = rc^muv^sh2-pu^2/Eccp^8''
-
 W1^3/2 + d1t1 . w^3/2 = $LUNC + target 300dsh ($0.023)
 RB + MAF = Eo - d1t1 . wrs^2|/^o,313
 cos159 = ^8pi^KPR 24/7 + 2/3 pidrt^2ms / r^2arsen3/0
@@ -484,24 +457,16 @@ He = mu . v^2 gpack(AEo) / mb^pumf^3/2
 mu = a^2 - (r^2-To) / dAa + Eo^1/2
 Ao (li30)^+-(e-e+)^fv2 + FR|x|dx-(vk) . F^u.v/At^2-cs^2+Ec4o = /TN2|dy| - 2q2 / -Tg17^-2/3
 C2H2 = TD3-cidt^1/3
-
 gp = V^2o^(-2+n!) / -|Qxy|^3
 (pb)^nô3/2nî = cmb^3/1 . e^2 +drq0*
 -(sh)^3 . ptdd2 = p^2 . At^2 / 2
-
-
 EOSmf1 = -RF . -vo(ypt)q2A^5/4
-
 Lm5 = p(qgz) . AE /Av^2dk^-3/2
 img = -1/2 rf . 2/3Fuv^uv / m(dm) . pU
 -1/2 - 2/2 = DTo . (qt2rs - qT2rc) / 1/2gg
 DM (ds^2) > 1/2 m^e+ . (p3)i(2dt^1) | 1/2 > 1/2
 FR + dac = -At^2sds + Wo^3/1.223 
-
-
-
 PM ^2/1 -dts^-1/2= 2vo . arcsen180dr10 / rpm(cos180) . G32Apro^bb+-8342gms
-
 8Di = Ecp^3 + vm^-1/2 / mbht^1 - R(u)^v
 a^2 = pr.dt.M(m) / rcK(a) . rbb^-2/3dMEc
 DMvfmh / PRN(frHe) = log(arcsen/)vo^-1wm^n-2hN/ Fuv^uv . Kpc 3242n
