@@ -45,10 +45,18 @@ You will not pay for the elimination of hydrostatic pressure in the body through
   salomon 72 decay Au |Hamiltonian|
       8,500,000,000.00 blô||lô4c(b),cs<cx
 
-KPZN (10,101,500,3000,8000,....20,000.00)
+KPZN (10,101,500,3000,8000,....20,000.00.....60,000.00)
 Di = (/cp^h\)
 meson |px|
 (px)^2 = IPC
+
+ elrond ||e |)a=vo(|
+  an elf can wait many years /((800y., aprox.v))/*^smo
+  avrg sample = 1/3 dt^u^2/1
+  EDT = DM
+  SZ^OtD = |Di|rûa / |DY|sôa
+  Q(tr^3) = R|Dy(dx•)|
+  rd^at-dts, D=3, 2(qt*)^(n-1)^2
 
 
 stand for running:
@@ -671,7 +679,7 @@ Kt(a) . dgid(ntciby) = ucvg /e.(d^2)gv(a)
 Ort . g01pi = chmg'p|y| / (x)out
 
 C(n+1)^(e-e+)^2 = At1^2/-(D(n+1)ts)^2
-
+                                                      sr
 
 3(S0)
 qrd^4/2 / F^uv = Fuv(shd) . (qd)'^2/3
@@ -709,6 +717,10 @@ gi(NGC(•out)) / rc(a^2) = Nns . K(a) / QrT(dy) ||
 
 qpcs^^^(Ka) / Di = ^O2 :/... (3Hcs) /K|Ddy|dt3oM*o ... //-xo\*•*||DYH4|.intsv,5Ho?
 
+
+                                                            dts
+
+
 expt^-1 / -(R)^2/1 = -Ut2 . -2/3I1
 31176683434 = dd86321 |*
 || / 5/4.Fkq^-Kn = \TEv523 Gv^bb^-2
@@ -739,15 +751,6 @@ U^2 = U^1 . pi^u vo(n/2dts3)
 12010:10050rpm > ( 3/2 )dt (2/2) dts (1.2/2) dr < 100K(au) > -1/2gmo
 Mdr = du^drs-4/2 . 2/3dt(3/4) / -0me + dts (2:10130)
 DM = ds^5 . -int)^4/5 / F^uv . -A-K^-^pn + Mo(fq'pq2)
-
-
-  elrond ||e |)a=vo(|
-  an elf can wait many years /((800y., aprox.v))/*^smo
-  avrg sample = 1/3 dt^u^2/1
-  EDT = DM
-  SZ^OtD = |Di|rûa / |DY|sôa
-  Q(tr^3) = R|Dy(dx•)|
-  rd^at-dts, D=3, 2(qt*)^(n-1)^2
 
 
   (Ddy)grid / +-arcosF^(uv)G . ndt3^cHeK^Qq(out)
