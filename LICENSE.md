@@ -99,8 +99,7 @@ xo = 1/2 +-(dc) / t^2
 2px(ch)
 C00=(o)trx/rc2pi
 C01= rtch/dsmo
-K100`mobb=23Gsh/ 4pi
-                                                          
+2py•(|Dx|^st^-2/q`) = uEOScc > d(dSO) < 1 || See Methods!                                                          
                                                                                                               andromeda Hst ^7/2;milky way prism:
 
 Kpc(a) = 10/4 Ecv / 4/2 Ecb
@@ -363,6 +362,8 @@ amygdala = Z2 .RM5^4 / (N +1)^-2m^2
 
                                                                                                    roi:
 
+R^3-2R = N(us) / Tr
+R^3(fm) = CH(2) + Epu·
 rd^at-dts, D=3, 2(qt*)^(n-1)^2
 sr7 / rc (v) = sr(2) . pu'
 roo = dt^2.(dy)/(c^2)
@@ -407,23 +408,16 @@ XLM sen^2272 = GeV pi/3 . sen^2 0
 
                                                                                                     KK decays
                                                                                                     
-
+K100`mobb=23Gsh/ 4pi
 TZN^+ = BCH(kb)
-
-
 ANGC = c^2 . PK,Zmu^- . (arsen0),N3t^3/2 / -i^2DT^? - v(ka)t3
 |Apsu)) = 4Q d(so) drs3/5 / 4/3 ddpparsen 90
 Q-dr^2 . |+-g16p^n! = -Rqt2/3 + gb^arsen180cs, atmdhs
-
-
 apo)m =(FfR)d"cI" . se^2epid2t2,1.12^2/3 + k5uvsh /-grr + FR . cs (SOkadtm) + intv ^3 drSMmn
-
 Lim Eo-Eodt = 2/3 shch/ I^2
-
 v/s^5 = ac^1/2 . E^2/1cc
 g4.5 = bst^3 / 2 - dts^-1/2 +c^2Fuv
 gmu + av = FR^-2/1 + OHCdrr
-
 mo(k1001) = fm(dv)
 Dr(mo) = stm·/sr^4/1CH
 B(bb)CH= rcmo' + K(100)^mo+ g(23)^32 / K9.PKR(101) + a(ds)^2
@@ -432,16 +426,9 @@ Dz(4)334(k) = (SO) . YM^2oOpi543234
 DM = 3L^2ki-3nqT
 p0e=))s^na)^u /c td)mu^(1/2dmo)*gpn^n
 M (d4,40Epcc')
-
-
 st + msi^-2 -msi^-1|dx|= 2(mf)
-
 -Kab = FA(uk)^uH/c
 
-
-
- R^3-2R = N(us) / Tr
- R^3(fm) = CH(2) + Epu·
 
  dt+sr = -pi . 3wo
 
@@ -609,7 +596,7 @@ v = -cos21 (n-2)^n+1d/
 z=2 if d2=0,E'=-I2
 F^uv.Ruv / qG(c^2) = -dt(q)
 (300101)kpc^1GeV - AEo(ac)• / |Dy| = -(dts)^2/q•s(sv)
-2py•(|Dx|^st^-2/q`) = uEOScc > d(dSO) < 1 || See Methods!
+
 2/1 inv(ka)^2 = i4D^-4/3 . dts(1q) + 2dt / md(uuv^uv)
 |(C)| = 2 / rc^Ek(a^nt) . |Dx|^1
 st(a^2) = PR(1.120 < 1.210) . -c^2s / ddrs^3 + ss(vq)^1/2 < (Dw,Ge,No,Cs)
