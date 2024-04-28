@@ -69,8 +69,8 @@ bubbles:
 guage drift:
 
     
-                                                                                                         Autopilot:
 
+                                                                                                                 1AU:
 vo^u ~ vo^k
 Vo(/vj) = j0·0·
 -trv = ((-(null)trx(di))) . |dy|
@@ -89,10 +89,6 @@ dsr/ /u = |dy| - |dx|
 dsr ^-e' . -pi^2 = ZN. 2î^2 /-log GT^2/3·32
 Hgg = sû . Opc  / v^2 + Dk(aû)
 ci/r^3 = 2vo . 8Eoc
-
-
-                                                                                                                 1AU:
-
 Hoo + Hu = d^n!O -AEom|k1|
 3Hô = TQZNo - arcosen3334(Eo)^1
 shH = M|ak|o - v^2 / dsvz(RPSMoo34)
@@ -102,7 +98,13 @@ pHe = 15shv/^2 + Frsh/-ssnPo|
 HLT = 2c'^2/3 . -pu^3/2 +dt / mo^FR . Tr23
 3mû = log(gt2)^ish(a)^2H . ch^-dts
 BDZ(He) = \\FRpmû
-    
+xi = 4/1 |drc|
+xy = 3/2
+xo = 1/2 +-(dc) / t^2
+2px(ch)
+C00=(o)trx/rc2pi
+C01= rtch/dsmo
+K100`mobb=23Gsh/ 4pi
                                                           
                                                                                                               andromeda Hst ^7/2
 
@@ -160,10 +162,13 @@ mesh:
 
                                                                                                                        quantile:
 
-circinus (D = 2vo^d(tzn) . Ecp' )
-cygnus
-leo  
-coma berenices
+Di = CHR + sr0
+D2 = z 1(00) = SO
+D9 z=0.5
+D11= z = 1.5
+D4=-z^2 . d^2(2)/ D9 + D11(cc)
+D3 = -w0^(z+1) . -pK(u) - Kab
+(D = 2vo^d(tzn) . Ecp' )
 a^2 . 5/5dRH = Smesh^(n+2)* / (-ib^2) . 3vho
 
 
@@ -178,20 +183,6 @@ sin00 at TGR flow on gamma . x ray. at 1/8
 cz=gamma ray and x ray by different infrastructure at 4/1 . K-2
 )))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))) KPR 555/1-2
 
- 
-
-
-
-  xi = 4/1 |drc|
-  xy = 3/2
-  xo = 1/2 +-(dc) / t^2
-   2px(ch)
-C00=(o)trx/rc2pi
-C01= rtch/dsmo
-K100`mobb=23Gsh/ 4pi
-
-
-  
 
   NGC ((2261))w|:=CDPR))
   R^2 / R^3 -R = Dy
@@ -210,38 +201,22 @@ K100`mobb=23Gsh/ 4pi
  
   Dr^3s^t! = d(intv)^n^3^-m^-1
   KPR (100kpc) = (30,99,-2,Dvo))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))tTquo(KPR))((((7171kpc))1.)
-
-
-
-
   Td^(n-2)c^(n+1) = bRNA fields
   Epoch = - N(dy) / To . c^2
   bch . dt(r^2) = - adq / tc^|dx|^-m^2^(n!-1)
-
-
-
   Ud = b(msi)
   ph(in)^((-br(ps)/c^3)) = f(mc)dph(u)(v^3)
   bv^(vo)ns)^u
-  
   AHe(sf) = r^2su+-gsd(Hc)
   -Ts/ = dpi\ / sT(dm) / dst
-  
-  
 NULL = |trx| . |dy|^(n+1)
-
-
   DMcd msid mush ph(3Mo)^23Ec' parsc* mdlbb (eucn)\di flux gzfr(rdz/NGC) |dy|
   msd(v) = 20sd
- 
   sd= dy|| arsen^3(0)c(F3sh(gcHu)c'dHcsd(ssv) = v\\\\\
   UT = -logqarcos^3(360)ssv^
   d^3(v^2) di^2(m^3/2cc) = epsilon (Ecv') / parsec\NG(v^2(64-0,EDd)))Mo
   (dy) = c^3(sh)/c^2(mUT) -qssvv / -Dto^2/3 +dt'^3/2 . log(EVMo)^2DcE
-
-  1ch/3sh . v^3 = Pi^Mo / log (Pu) |NK|-m(p)^2
-
-
+  1ch/3sh . v^3 = Pi^Mo / log (Pu) |NK|-m(p)^
   3M + log1E' / FuvG(2-UT3Dtr/1d62psc) . -logF^uv (8dt(r^3/2dt(s)^m2 = G^8321d/45dd
   0D = 4Mo ((O, 2so+-H^logs+-H^3, +Epc' gtc(r^3)U3/7pscd))/3H.*
 LOG(R(y)^3P(x)^2) = ddrr/ TRP
@@ -250,7 +225,6 @@ LOG(R(y)^3P(x)^2) = ddrr/ TRP
   u-log(pu)ât^2 = 2d1ts^3/2d2tr^2
   mp^2/3/mp^2/3 = -logdts(at^2)/TZN(NGC*pcss(v^2))
   at^2 / dtr^2\.dts^3/ = p^2
-
 +Kpc(a^n) -g(drs)1/3(PCZ) (3sd)^3 = pi^3/dtr(NGC) .-log(pi)^3 .u^3 || 2Mqmsi<TSUmi^2/3
 drs /dts . K10^h^3s/2m = p^2(vo)^dc^3t / K9(dtr) . -G(1.0, 2d^DRP)
 O|H (ch)mpsu(dy) =log (r^3,l^2^nipu)
@@ -378,17 +352,8 @@ dsgz4 = -Ej(sh)^2/mo(CH)
 gz001 = 1/2 c . -j2/1 / SO3
 
 
-
-Di = CHR + sr0
-D2 = z 1(00) = SO
-D9 z=0.5
-D11= z = 1.5
-D4=-z^2 . d^2(2)/ D9 + D11(cc)
-D3 = -w0^(z+1) . -pK(u) - Kab
 2(c^2^dvo') . vo(SOp|dx|r^2qs^4/3 (t1-t2)^3/2 - qd2-t^2 . fmsq /Fu5qvm = He^dmo*
 d(ch) = 1/2(3/1)m
-
-
 fHe . v(isH)^bmû (DMrtmc) = Ads(mû) / -(H^+)
 Fuiv^3 = d^3vodm
 FG^v^(2n-1) = ât^(n+1) / sû - v^2((1/2(bh^-â) + hbû
