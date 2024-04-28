@@ -96,7 +96,7 @@ HLT = 2c'^2/3 . -pu^3/2 +dt / mo^FR . Tr23
 3mû = log(gt2)^ish(a)^2H . ch^-dts
 BDZ(He) = \\FRpmû
     
-    andromeda Hst ^7/2
+                                                          andromeda Hst ^7/2
 
 Kpc(a) = 10/4 Ecv / 4/2 Ecb
 PK(1.1'.0,FBI=) genetic systems'\dtr^27(-1ds,-1dtr,0,0) = 0 (pfcdt)^nH . (pfB^-(e^-,e^+))(
@@ -108,16 +108,10 @@ mvt . At^2/ ic + KPR sh-R^2^1/2 = dd723^-4/3 r^8 / Gc . drT^ds1t2s2 SO3PM
 KU = -Q9. Rv7
 KS = r^2(Hc^2)
 (1.0)-cd\ = -dtr/ log(dts)^2
-
-
-skyrocket:
-
 SO(3) = sen 30· . N^(n+1)/ A^1/2
 
-usa army:
 
-
-tissue producive:
+                                                          tissue producive:
 
 FR = 1/2mu(3)
 FR(si,hy^2/htc(su)) = 2h^2-3dz,d2su/3
@@ -140,9 +134,7 @@ mesh:
   w(ce) = AH^-
   kq(br) = b+^2
 
-
-luminar strenght:
-energy: 
+                                                energy: (wave lenght)
 
 (35.2)I27 / (-dts)^-3/23* = -(cHeQ)^-2 . brdr^16piG / 5dc . 3c^2dt(rpx)^3
   dtNGC^-16/8i/At^2 .r^3pr|x| = DTN(2vo) + AE2c'iD^9/1.4
@@ -158,7 +150,7 @@ energy:
 
 
 
-quantile:
+                                                        quantile:
 
 circinus (D = 2vo^d(tzn) . Ecp' )
 cygnus
