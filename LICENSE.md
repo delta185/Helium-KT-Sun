@@ -187,39 +187,11 @@ blood is different layer
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 sin00 at TGR flow on gamma . x ray. at 1/8
 cz=gamma ray and x ray by different infrastructure at 4/1 . K-2
 )))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))) KPR 555/1-2
 
  
-
 
 
 
@@ -248,12 +220,6 @@ Not talamus replication.
 
 
   
- 
-
- 
-
-
-  
 
   SU^-n = (PR)iD|y| . log+-(FR^2)radq(t^2) / Tn . e^-2/4
   Avrg(tech) = 3/1
@@ -275,7 +241,7 @@ Not talamus replication.
   Ud = b(msi)
   ph(in)^((-br(ps)/c^3)) = f(mc)dph(u)(v^3)
   bv^(vo)ns)^u
-  msd(v) = 20sd
+  
   AHe(sf) = r^2su+-gsd(Hc)
   -Ts/ = dpi\ / sT(dm) / dst
   
@@ -284,6 +250,7 @@ NULL = |trx| . |dy|^(n+1)
 
 
   DMcd msid mush ph(3Mo)^23Ec' parsc* mdlbb (eucn)\di flux gzfr(rdz/NGC) |dy|
+  msd(v) = 20sd
  
   sd= dy|| arsen^3(0)c(F3sh(gcHu)c'dHcsd(ssv) = v\\\\\
   UT = -logqarcos^3(360)ssv^
@@ -292,11 +259,9 @@ NULL = |trx| . |dy|^(n+1)
 
   1ch/3sh . v^3 = Pi^Mo / log (Pu) |NK|-m(p)^2
 
-H2
 
   3M + log1E' / FuvG(2-UT3Dtr/1d62psc) . -logF^uv (8dt(r^3/2dt(s)^m2 = G^8321d/45dd
   0D = 4Mo ((O, 2so+-H^logs+-H^3, +Epc' gtc(r^3)U3/7pscd))/3H.*
-
 LOG(R(y)^3P(x)^2) = ddrr/ TRP
   v^2/ (KPZN)dmsi^2 = logU (+pi/-pu) . Mo d3U(2sh,1SM) D(EN)
   +log(mu) = (dgtr)^3 . -log(bb)^2 (2pi^2, 3pu^3)
@@ -305,82 +270,41 @@ LOG(R(y)^3P(x)^2) = ddrr/ TRP
   at^2 / dtr^2\.dts^3/ = p^2
 
 +Kpc(a^n) -g(drs)1/3(PCZ) (3sd)^3 = pi^3/dtr(NGC) .-log(pi)^3 .u^3 || 2Mqmsi<TSUmi^2/3
-
 drs /dts . K10^h^3s/2m = p^2(vo)^dc^3t / K9(dtr) . -G(1.0, 2d^DRP)
-
-
-
-
-
-
-
 O|H (ch)mpsu(dy) =log (r^3,l^2^nipu)
-
 2px = K(log_(KN,Q)v(ca)c = ch(a^2)/ msi^2 . tch(ca) 2v+-log /dpg)Ho^vs.log dtsr^3-m^2^n-|log1c|^RT(Pi)=c(z^2) = Hcms^2 -R(gm^2)^-phfvci(12<21,KPC,1ME<2EpcN)*
-
 KN+-log^/(NGC)(gt)epc' = HP<HD
-
 3px(2?KN,1-1HOch^(n)) KNgmsi = 3ca(vfc^3) = blame/cut off companies
-
 P|dx| = D|dx| = MHe(ch)^logKTN^-l^2
-
 -log PNGC ch(ca)^-mspi(ch)s^2^-! =SD<DH<Hdsu^nD^-ED'!
-
-
-
 k9^! (msi)^n = 1/3^-n dt^(d-1)< d+1 < r^3(a^2)/log(DH)
-  
-  K^+ . b^+ = ph . cmb
-  n^vo = E(dc')
-
-  
+K^+ . b^+ = ph . cmb
+n^vo = E(dc')
 d4 2KNch = RK10 (kerolox) log(dtr
-
 all container' composites are ebooks. no thrust
-
 d4m, PKNc', dmsiv,
-
 g(ca)^ch|aussi|(ca^ch)+-logmEc'^-m^2 +-logdT^3
-
 astronomical units (AU) = n
-
 dt(r^3) = quantile (d4) ~$50Kpc
-
 msi - qdgbbSOsuvigaze/
-
 dszg = PR 
-
 logTZN^(AU^2-a) = (d4, 1/2, 1/^3/2^-1, 4/2^2/3-1, 5/2^3/3-1,)<Ri> GF15,e^2/D'SO,diRi`-ngc./?/p^u2y,\(vo),O,|M|,e^2))
-
 log^4/3,TZN^3/4> 2,Mdt,Pdts,Ddts,310\gu^O>msi^2^v^3
-
 15|),)/59(((((dtr^3/2^2 . dts^3/1^2,v1\|
-
 d4^-dt^2,log,msi,a^2,jkt
 pi,d3PR
 15,+dt,34554,8e^2dt
-
 2E0^1/2dt24/7<ce<c8e)^2
 chgb>chscHto
-
 S10,Trs, pi,rad, O +beta
-
 -1/3 dp, -1/3dtr, -1/3 dts, 1/3 dsz < g(U)log DP
-
-
-
 ^=iPe^d3v
 DPA=r^d^3iv-r^2dto^vu
 KNodds^out=-Pe^v
 -aint=dp^2/dvo^3
-
-
  qT-^2-q^3
   -q^3 =T1
   -q^2 = T2
-
-
-
 
 pi/360|dx|= GeV . R^2k . |dy|
 
@@ -402,8 +326,6 @@ d4 = cos^tr
 I agree^1/2 . 1/2 ^2/1 pu
 1/2Lj^n=0 = KPR 1450·
 n=-2/ xtr(j)^n=--- = zw(CN)
-
-
 
 
 
@@ -431,22 +353,12 @@ any parsec navigates. ecluidean geometry. dt^3 = v^2(max)
 H8 = SO^mo(j3)/sr7·
 
 
-
 clozapina (short) 2p^2=expt^-1
-behistina y/o dogmatil = - Kab
-
+sr2 = - Kab
 
 Lo(r') = dAu
-
-
 C00 = (0^x) . rx / rc(2pi)
 C01 = rtch/dsmo
-
-
-
-
-
- 
 
               I3, hold right respiratory lung tensor for isometry and isomery settings
                         KPN production tensor by rny tissue
@@ -576,8 +488,6 @@ ANGC = c^2 . PK,Zmu^- . (arsen0),N3t^3/2 / -i^2DT^? - v(ka)t3
 Q-dr^2 . |+-g16p^n! = -Rqt2/3 + gb^arsen180cs, atmdhs
 
 
-
-
 apo)m =(FfR)d"cI" . se^2epid2t2,1.12^2/3 + k5uvsh /-grr + FR . cs (SOkadtm) + intv ^3 drSMmn
 
 Lim Eo-Eodt = 2/3 shch/ I^2
@@ -585,10 +495,6 @@ Lim Eo-Eodt = 2/3 shch/ I^2
 v/s^5 = ac^1/2 . E^2/1cc
 g4.5 = bst^3 / 2 - dts^-1/2 +c^2Fuv
 gmu + av = FR^-2/1 + OHCdrr
-
-
-
-
 
 mo(k1001) = fm(dv)
 Dr(mo) = stm·/sr^4/1CH
@@ -604,8 +510,6 @@ st + msi^-2 -msi^-1|dx|= 2(mf)
 
 -Kab = FA(uk)^uH/c
 
-
- 
 
 
  R^3-2R = N(us) / Tr
@@ -698,8 +602,6 @@ senº/123(ds2ka10832 ... 5) = 2R^2 . v^mu / KPZN + E2
 3dt = 1FR - dts1 / t-ts1
 
 V-ind-2t--g242441
-
-
 
 
 
@@ -900,9 +802,6 @@ d8 = 2l(SDXY) / 4/360pi
 
 
 
-  
-
-
   FGv*Nn^(ats)/R^3 . ((+-n+log(1aû))
   1/2ac = Fû . log(dr)ûs / dt1^-2
   DMû =/ m^-e+e
@@ -914,14 +813,10 @@ d8 = 2l(SDXY) / 4/360pi
   
 
 
-
 SO(-its) = / . G7
 G23 = /e^-imz < G7
 
 / = 1,01
-
-
-
 
 
 
@@ -945,7 +840,6 @@ pi6 and pv7; KQ = T.ds
 dt(8)talamus = -log(emj)
 
 
-
 nsi^-2m= PZR (h/mo) if N=c
 -mb=0t (d is out)
 4m = QT34k5
@@ -958,6 +852,5 @@ Dtd(di)+-9yg
 
 
 FR = msi^-1 . -qg(f)^qr,Z(mo) / e.e')-qu . u^2
-
 
 
