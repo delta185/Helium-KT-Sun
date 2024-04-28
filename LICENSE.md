@@ -59,18 +59,14 @@ meson |px|
   rd^at-dts, D=3, 2(qt*)^(n-1)^2
 
 
-stand for running:
-SO (30)
-rish
-K9 biology systems:
-milky way prism:
+
+
 horizon 2030
-bubbles:
-guage drift:
+
 
     
 
-                                                                                                                 1AU:
+                                                                                                                 1AU:SO (30)rish
 vo^u ~ vo^k
 Vo(/vj) = j0·0·
 -trv = ((-(null)trx(di))) . |dy|
@@ -106,7 +102,7 @@ C00=(o)trx/rc2pi
 C01= rtch/dsmo
 K100`mobb=23Gsh/ 4pi
                                                           
-                                                                                                              andromeda Hst ^7/2
+                                                                                                              andromeda Hst ^7/2;milky way prism:
 
 Kpc(a) = 10/4 Ecv / 4/2 Ecb
 PK(1.1'.0,FBI=) genetic systems'\dtr^27(-1ds,-1dtr,0,0) = 0 (pfcdt)^nH . (pfB^-(e^-,e^+))(
@@ -121,42 +117,38 @@ KS = r^2(Hc^2)
 SO(3) = sen 30· . N^(n+1)/ A^1/2
 
 
-                                                                                                     tissue producive:
+                                                                                                     tissue producive:K9 biology systems:
 
 FR = 1/2mu(3)
 FR(si,hy^2/htc(su)) = 2h^2-3dz,d2su/3
 He^a^2:(2/8gm1-2/1gi64/nT.(dst)^2 = vAc
 -FRgab^- = (+-gc(rd)^2 / -h . dt^2
-
 rash ce (KPR50y) = 9/1ce
 hackectt+(p^2)^log(ebs- =  |dx| . lis^ctt / d|(msi)| . ~SU/SO~
 e=(ee)+-m(e)son: = peer review a lot\
 thanks for worflows at 1/3 and rent special areas. It'noghing
-
 nagaksua' sense, throught:
 lens:
 gaussian flow:
 2038 grow:
 mesh:
+panels = 2y'(px)|Dy|, (dx)^-2/1, dt=0, DM(dt) = ck(He)
+ld^-2 = -3(dxy|
+w(ce) = AH^-
+kq(br) = b+^2
 
- panels = 2y'(px)|Dy|, (dx)^-2/1, dt=0, DM(dt) = ck(He)
-  ld^-2 = -3(dxy|
-  w(ce) = AH^-
-  kq(br) = b+^2
-
-                                                                                                         energy: (wave lenght)
+                                                                                                 energy: (wave lenght:guage drift:)bubbles
 
 (35.2)I27 / (-dts)^-3/23* = -(cHeQ)^-2 . brdr^16piG / 5dc . 3c^2dt(rpx)^3
-  dtNGC^-16/8i/At^2 .r^3pr|x| = DTN(2vo) + AE2c'iD^9/1.4
-  -(R)^2 . Dt^-4/2 = -Dtvû^-1/3
-  3/2(SU^nl^n!) = 200y
-  (FR(30º)^/64, -PR/16(dt)^n!, Rdmod|dy^|^-^/32)
-
-  DTZNff\|gp(2dx|^dnH|
-  D =2(vo+-mû)/3(+-e^-e^+) |ce/2?* ) (dmo =HCDv?||:= t/to^2sq(vo)ccns,dgvo!)))cps
-  30º/2))|^= (99%/2) || 3N^|(4dd5dd(Tsd) - 1))2vo
-  (TLMff) = s!|dy|/|D|Dx|)
-  PR = (2Vo/1vo)2s^n . dt(yH)3|
+dtNGC^-16/8i/At^2 .r^3pr|x| = DTN(2vo) + AE2c'iD^9/1.4
+-(R)^2 . Dt^-4/2 = -Dtvû^-1/3
+3/2(SU^nl^n!) = 200y
+(FR(30º)^/64, -PR/16(dt)^n!, Rdmod|dy^|^-^/32)
+DTZNff\|gp(2dx|^dnH|
+D =2(vo+-mû)/3(+-e^-e^+) |ce/2?* ) (dmo =HCDv?||:= t/to^2sq(vo)ccns,dgvo!)))cps
+30º/2))|^= (99%/2) || 3N^|(4dd5dd(Tsd) - 1))2vo
+(TLMff) = s!|dy|/|D|Dx|)
+PR = (2Vo/1vo)2s^n . dt(yH)3|
 
 
 
