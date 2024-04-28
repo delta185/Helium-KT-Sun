@@ -69,7 +69,7 @@ bubbles:
 guage drift:
 
     
-                                                                                Autopilot:
+                                                                                                         Autopilot:
 
 vo^u ~ vo^k
 Vo(/vj) = j0·0·
@@ -91,8 +91,7 @@ Hgg = sû . Opc  / v^2 + Dk(aû)
 ci/r^3 = 2vo . 8Eoc
 
 
-
-                                                                                        1AU:
+                                                                                                                 1AU:
 
 Hoo + Hu = d^n!O -AEom|k1|
 3Hô = TQZNo - arcosen3334(Eo)^1
@@ -104,7 +103,8 @@ HLT = 2c'^2/3 . -pu^3/2 +dt / mo^FR . Tr23
 3mû = log(gt2)^ish(a)^2H . ch^-dts
 BDZ(He) = \\FRpmû
     
-                                                          andromeda Hst ^7/2
+                                                          
+                                                                                                              andromeda Hst ^7/2
 
 Kpc(a) = 10/4 Ecv / 4/2 Ecb
 PK(1.1'.0,FBI=) genetic systems'\dtr^27(-1ds,-1dtr,0,0) = 0 (pfcdt)^nH . (pfB^-(e^-,e^+))(
@@ -119,7 +119,7 @@ KS = r^2(Hc^2)
 SO(3) = sen 30· . N^(n+1)/ A^1/2
 
 
-                                                          tissue producive:
+                                                                                                     tissue producive:
 
 FR = 1/2mu(3)
 FR(si,hy^2/htc(su)) = 2h^2-3dz,d2su/3
@@ -142,7 +142,7 @@ mesh:
   w(ce) = AH^-
   kq(br) = b+^2
 
-                                                energy: (wave lenght)
+                                                                                                         energy: (wave lenght)
 
 (35.2)I27 / (-dts)^-3/23* = -(cHeQ)^-2 . brdr^16piG / 5dc . 3c^2dt(rpx)^3
   dtNGC^-16/8i/At^2 .r^3pr|x| = DTN(2vo) + AE2c'iD^9/1.4
@@ -158,7 +158,7 @@ mesh:
 
 
 
-                                                        quantile:
+                                                                                                                       quantile:
 
 circinus (D = 2vo^d(tzn) . Ecp' )
 cygnus
@@ -403,7 +403,7 @@ amygdala = Z2 .RM5^4 / (N +1)^-2m^2
 
 
 
-roi:
+                                                                                       roi:
 
 sr7 / rc (v) = sr(2) . pu'
 roo = dt^2.(dy)/(c^2)
@@ -667,7 +667,7 @@ Kt(a) . dgid(ntciby) = ucvg /e.(d^2)gv(a)
 Ort . g01pi = chmg'p|y| / (x)out
 
 C(n+1)^(e-e+)^2 = At1^2/-(D(n+1)ts)^2
-                                                      sr
+                                                                                                                sr
 
 3(S0)
 qrd^4/2 / F^uv = Fuv(shd) . (qd)'^2/3
@@ -706,7 +706,7 @@ gi(NGC(•out)) / rc(a^2) = Nns . K(a) / QrT(dy) ||
 qpcs^^^(Ka) / Di = ^O2 :/... (3Hcs) /K|Ddy|dt3oM*o ... //-xo\*•*||DYH4|.intsv,5Ho?
 
 
-                                                            dts
+                                                                                                           dts
 
 
 expt^-1 / -(R)^2/1 = -Ut2 . -2/3I1
@@ -739,21 +739,12 @@ U^2 = U^1 . pi^u vo(n/2dts3)
 12010:10050rpm > ( 3/2 )dt (2/2) dts (1.2/2) dr < 100K(au) > -1/2gmo
 Mdr = du^drs-4/2 . 2/3dt(3/4) / -0me + dts (2:10130)
 DM = ds^5 . -int)^4/5 / F^uv . -A-K^-^pn + Mo(fq'pq2)
-
-
   (Ddy)grid / +-arcosF^(uv)G . ndt3^cHeK^Qq(out)
   fl(w)^g+ / d((log(Kr)) = Tq(t^2)/ dUr^3(i)ûd-rv(ô)(o)^2
-
-
 d8 = 2l(SDXY) / 4/360pi
-
-
   F^uv . Hû = intH . Fuv / RFtc(îdm)
   3/2 + dt = E^oc" . Kict^-3/2
   G(io)^gri / Duû = +-dt . (p^2) / +-1U
-
-
-
   FGv*Nn^(ats)/R^3 . ((+-n+log(1aû))
   1/2ac = Fû . log(dr)ûs / dt1^-2
   DMû =/ m^-e+e
@@ -762,35 +753,23 @@ d8 = 2l(SDXY) / 4/360pi
   D = 2vo
   /(dy)/s3 = vT3
   (dy)^2 = 3/2(gip) + int(l^2)^(n-1-2)+(2/2dN|Dy) + 5/4drs - d3/2)
-  
-
-
 SO(-its) = / . G7
 G23 = /e^-imz < G7
 (/ = 1,01)
-
-
-
 mef^2 = v^2
 m(grid)^-2 = z^2(m) + ^/u(dovo)^E3
 sr(10) = z = 3^pz^2
 RM/FR = (U(k)n+1 -K(ab)z+1
 E1 = dK(101)^mo + spr(8)^6*
 T1^SO(3) = 0
-
 z = 1 > -nq - T(uv) -d4
 z = 2 if D2 =0, e' = -I(2)
 ds(mo) = 1z^(-F(uv)^uv . m(sh)v
-
-
 bb(z)=-Q(x) . logTZN
 msi^-2 = /Voo*
 pi6 and pv7; KQ = T.ds
 |Dy| = bb(y)^-2 - e'/23.v^3/2 + z1
-
 dt(8)talamus = -log(emj)
-
-
 nsi^-2m= PZR (h/mo) if N=c
 -mb=0t (d is out)
 4m = QT34k5
@@ -799,9 +778,4 @@ nsi^-2m= PZR (h/mo) if N=c
 3Q4q\(16_64yg)2R^3
 Dtd(di)+-9yg
 2 = Di + Dy
-
-
-
 FR = msi^-1 . -qg(f)^qr,Z(mo) / e.e')-qu . u^2
-
-
