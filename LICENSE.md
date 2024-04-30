@@ -593,7 +593,8 @@ nsi^-2m= PZR (h/mo) if N=c
 Dtd(di)+-9yg
 2 = Di + Dy
 FR = msi^-1 . -qg(f)^qr,Z(mo) / e.e')-qu . u^2
-
+Vo = z + 1
+z + 1 = m^2
 
  
 notes:
