@@ -50,16 +50,14 @@ Di = (/cp^h\)
 meson |px|
 (px)^2 = IPC
 
- elr(ond) ||e |)a=vo(|
 
-  avrg sample = 1/3 dt^u^2/1
-  EDT = DM
-  SZ^OtD = |Di|rûa / |DY|sôa
-  Q(tr^3) = R|Dy(dx•)|
- 
+1AU:SO||(30)rish99%cap
 
-                                                                                1AU:SO||(30)rish99%cap
-
+elr(ond) ||e |)a=vo(|
+avrg sample = 1/3 dt^u^2/1
+EDT = DM
+SZ^OtD = |Di|rûa / |DY|sôa
+Q(tr^3) = R|Dy(dx•)|
 PR = (2Vo/1vo)2s^n . dt(yH)3|
 cc =/ cco
 cc = dts/1,20
