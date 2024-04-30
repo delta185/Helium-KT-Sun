@@ -555,20 +555,20 @@ U^2 = U^1 . pi^u vo(n/2dts3)
 12010:10050rpm > ( 3/2 )dt (2/2) dts (1.2/2) dr < 100K(au) > -1/2gmo
 Mdr = du^drs-4/2 . 2/3dt(3/4) / -0me + dts (2:10130)
 DM = ds^5 . -int)^4/5 / F^uv . -A-K^-^pn + Mo(fq'pq2)
-  (Ddy)grid / +-arcosF^(uv)G . ndt3^cHeK^Qq(out)
-  fl(w)^g+ / d((log(Kr)) = Tq(t^2)/ dUr^3(i)ûd-rv(ô)(o)^2
+(Ddy)grid / +-arcosF^(uv)G . ndt3^cHeK^Qq(out)
+fl(w)^g+ / d((log(Kr)) = Tq(t^2)/ dUr^3(i)ûd-rv(ô)(o)^2
 d8 = 2l(SDXY) / 4/360pi
-  F^uv . Hû = intH . Fuv / RFtc(îdm)
-  3/2 + dt = E^oc" . Kict^-3/2
-  G(io)^gri / Duû = +-dt . (p^2) / +-1U
-  FGv*Nn^(ats)/R^3 . ((+-n+log(1aû))
-  1/2ac = Fû . log(dr)ûs / dt1^-2
-  DMû =/ m^-e+e
-  (DM(-arcos270º)Evoa)/(-dts)^2 - dt(SO) = intv(-shxo)arcos70 / arcos70(shxo^1)
-  f(x)le^ug+ . -log(LKQ)^-2 / +-q^3 . a^2 = co
-  D = 2vo
-  /(dy)/s3 = vT3
-  (dy)^2 = 3/2(gip) + int(l^2)^(n-1-2)+(2/2dN|Dy) + 5/4drs - d3/2)
+F^uv . Hû = intH . Fuv / RFtc(îdm)
+3/2 + dt = E^oc" . Kict^-3/2
+G(io)^gri / Duû = +-dt . (p^2) / +-1U
+FGv*Nn^(ats)/R^3 . ((+-n+log(1aû))
+1/2ac = Fû . log(dr)ûs / dt1^-2
+DMû =/ m^-e+e
+(DM(-arcos270º)Evoa)/(-dts)^2 - dt(SO) = intv(-shxo)arcos70 / arcos70(shxo^1)
+f(x)le^ug+ . -log(LKQ)^-2 / +-q^3 . a^2 = co
+D = 2vo
+/(dy)/s3 = vT3
+(dy)^2 = 3/2(gip) + int(l^2)^(n-1-2)+(2/2dN|Dy) + 5/4drs - d3/2)
 SO(-its) = / . G7
 G23 = /e^-imz < G7
 (/ = 1,01)
@@ -598,12 +598,15 @@ FR = msi^-1 . -qg(f)^qr,Z(mo) / e.e')-qu . u^2
 
 
  
- NOTE
+notes:
+
 roi:
 andromeda Hst ^7/2;milky way prism: Qs
 dts
 sr
 KK decays
-energy: (wave lenght:guage drift:)bubbles
-quantile:
-tissue producive:K9 biology systems:
+energy: (wave lenght:guage drift)
+bubbles
+quantils
+tissue producive
+K9 biology systems:
