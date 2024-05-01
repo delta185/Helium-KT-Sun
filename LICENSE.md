@@ -595,7 +595,7 @@ Dtd(di)+-9yg
 FR = msi^-1 . -qg(f)^qr,Z(mo) / e.e')-qu . u^2
 Vo = z + 1
 z + 1 = m^2
-
+TZN(22) = z + 1
  
 notes:
 
