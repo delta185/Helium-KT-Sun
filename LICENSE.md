@@ -36,7 +36,7 @@ You will not pay for the elimination of hydrostatic pressure in the body through
  gas, fees, odds:dn(s)^dt\eureka))
    
    salomon 27 decay -K^- + K^+ |hamiltonian| 
-      $3,000,000.00 = 32GeV, |2:((2*.(xo))|, dff(pc)^-1:
+      $3,000,000.00 = 32GeV, |2:((2*.(xo))|, dff(pc)^-1:·
       $300,000.00 = 8+2GeV
       $300,000.00 = 16GeV . v^2 / -pr(cj) + Kaqû
       $300,000.00 = 32_64+1GeV
