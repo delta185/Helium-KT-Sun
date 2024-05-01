@@ -596,6 +596,19 @@ FR = msi^-1 . -qg(f)^qr,Z(mo) / e.e')-qu . u^2
 Vo = z + 1
 z + 1 = m^2
 TZN(22) = z + 1
+
+
+N24 = stand by run tubular light    
+N32 : blame bandwicth (gravity)
+N23 = s^2
+N22 = ds
+N11 = dx
+
+D = (/cp^1h\) px^2 . -G23^7· / I3
+
+Sp^2·x = spx - pu
+
+
  
 notes:
 
