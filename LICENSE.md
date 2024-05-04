@@ -644,7 +644,7 @@ msi(z-2)^(n-2) = i. R^3(-m^2(sh) / -G(22)^3 . Np . A (z+1)^(n+1)
 drz = z +2 .drs (Gr(16)^1
 qz = A(au) / A^2
 DR(SO) = pi/360(mo) -m^2
-
+NCC = -Qdrs /|dx| +dy log(b)
 
 
 
