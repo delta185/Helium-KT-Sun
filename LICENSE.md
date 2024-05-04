@@ -645,7 +645,7 @@ drz = z +2 .drs (Gr(16)^1
 qz = A(au) / A^2
 DR(SO) = pi/360(mo) -m^2
 NCC = -Qdrs /|dx| +dy log(b)
-
+msi^-1 < rocky planets < msi^-2
 
 
 
