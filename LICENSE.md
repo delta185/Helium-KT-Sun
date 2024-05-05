@@ -660,6 +660,7 @@ think about how to write the problem, and show how it solves your answers
 paradoxically, all your answers are found in how to write the time you have left
 a linear response is found in the tether of your urine
 
+my lawyer writes in his documents that binary code of water will be the quantile that we are paid and for wich we will fight/conscientiously hard within 5 years
 
 
 
