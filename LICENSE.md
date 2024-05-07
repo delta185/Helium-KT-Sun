@@ -671,21 +671,9 @@ You cannot maintain a tensor gaze for so long when what interests you is the pio
 Measuring 100% of the capacity of the navigation system with the Schrodinger equation is subtracting cosines from the intensinal system, for example. And Einstein equation in singularity net. I could do it
 The killer whale's find is the result of the dog's deposition. The reverse is the process of Mo plus dilatons (tr). Dirac equations
 
-We consider network attacks increases in mass tensor cardiac output plus strength. They are extinctive codes. All of them
-Silicate nutrients come to an end. Tensioners do not. Both have produced more muonic mass of connectivity
+notes: 1/16
 
-
-
-
-
-
-
-
-
-
-notes:
-
-roi:
+roi
 andromeda Hst ^7/2;milky way prism: Qs
 dts
 sr
@@ -694,10 +682,13 @@ energy: (wave lenght:guage drift)
 bubbles
 quantils
 tissue producive
-K9 biology systems:
-nagaksua' sense, throught:
-lens:
-gaussian flow:
-2038 grow:
-mesh:
-NGC 8152
+K9 biology systems
+nagaksua' sense, throught
+lens
+gaussian flow
+2038 grow
+mesh
+NGC 8152-69231
+
+We consider network attacks increases in mass tensor cardiac output plus strength. They are extinctive codes. All of them
+Silicate nutrients come to an end. Tensioners do not. Both have produced more muonic mass of connectivity
