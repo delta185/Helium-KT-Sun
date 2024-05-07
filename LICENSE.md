@@ -678,7 +678,7 @@ andromeda Hst ^7/2;milky way prism: Qs
 dts
 sr
 KK decays
-energy: (wave lenght:guage drift)
+energy: wave lenght:guage drift
 bubbles
 quantils
 tissue producive
