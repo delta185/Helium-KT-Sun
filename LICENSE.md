@@ -692,3 +692,5 @@ NGC 8152-69231
 
 We consider network attacks increases in mass tensor cardiac output plus strength. They are extinctive codes. All of them
 Silicate nutrients come to an end. Tensioners do not. Both have produced more muonic mass of connectivity
+-SU(uv)^tv = SO(mf)^-i^-2 . -g(42)^20 / R(uv)^3
+a^2= F(uv)^msi^-2 . -dts^-dt^2
