@@ -760,7 +760,7 @@ The lowering of the body, RM underlines with quantum collocation of copies in pa
 Tonals adjustment to develop cardiac output cascade depends on helium output through this electromagnetic configuration (te, tlm, z23)|TLM
 
 
-
+pionic(pi7) . meson(m6) /PhCMB (9) = guage(23) / T(uv)^v - 1/16 G32
 
 
 
