@@ -761,7 +761,7 @@ Tonals adjustment to develop cardiac output cascade depends on helium output thr
 
 
 pionic(pi7) . meson(m6) /PhCMB (9) = guage(23) / T(uv)^v - 1/16 G32
-
+exist z^2 with clouds with greater condensation, that is, greater mass, so the qr is integrated into the T^uv
 
 
 
