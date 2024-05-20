@@ -702,43 +702,7 @@ geomagnetic clouds and energy from coma berenices to 1/2 of the maldelbrot geome
 "We need a radiofrequency donor receptor to synchronize and form the placenta. My kishu inu. They've to be people with height of Coma Berenices.'|EM
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+97651320899964 (CMB)
 
 
 
