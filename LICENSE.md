@@ -307,6 +307,8 @@ H(n) = R+ . st^5/2 / /|N^n-1
 T^n+2 =-xpo + PRZ·^c
 s3s5 = 4Qv - (2T-To4)
 
+                                                                                                  (DE)
+
 zmi = IC o wp^2 /dsv
 Z0t1 = Rm . . Id4 . mo^(dx|·
 Z3out = dy^rad3-4  odds
@@ -405,6 +407,8 @@ st + msi^-2 -msi^-1|dx|= 2(mf)
  pi/360+(20/40)
 c^2 = n+1
 z= n+2
+
+                                                                            DMr
 
  msi^2 = -qs^2 . e'^5/4 / st^1/3. rcN+dt^5/1
  G23/rcZ = s^2.t^2/K^3(n+1) . R^3/4
