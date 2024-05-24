@@ -509,6 +509,7 @@ C2H2 = TD3-cidt^1/3
 
                                                                                 Halo
 
+without damaging all lattice, any element that increases temperature is always a radio frequency scaler
 gp = V^2o^(-2+n!) / -|Qxy|^3
 (pb)^nô3/2nî = cmb^3/1 . e^2 +drq0*
 -(sh)^3 . ptdd2 = p^2 . At^2 / 2
