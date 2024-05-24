@@ -556,6 +556,9 @@ C(n+1)^(e-e+)^2 = At1^2/-(D(n+1)ts)^2
                                                                               flux
 
 3(S0)
+It will have to wait for more abrupt actions to make mesh tensioner
+It will be done faster. good setup on this side of anaphase
+{||<\}
 qrd^4/2 / F^uv = Fuv(shd) . (qd)'^2/3
 cpf(FR) . ((l0cos(qs) . -pe(logtdd2)) = dt(qs)' . |enr1'sK|^1/2
 SO^-(cbz)^2 = (-K^-). -K^+(F^uv) . Fuv / e-ff(dx)c' . |Dy|^mo
