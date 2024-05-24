@@ -506,6 +506,8 @@ mu = a^2 - (r^2-To) / dAa + Eo^1/2
 Ao (li30)^+-(e-e+)^fv2 + FR|x|dx-(vk) . F^u.v/At^2-cs^2+Ec4o = /TN2|dy| - 2q2 / -Tg17^-2/3
 C2H2 = TD3-cidt^1/3
 
+                                                                                Halo
+
 gp = V^2o^(-2+n!) / -|Qxy|^3
 (pb)^nô3/2nî = cmb^3/1 . e^2 +drq0*
 -(sh)^3 . ptdd2 = p^2 . At^2 / 2
@@ -547,6 +549,8 @@ Oc|mx| = ad^2 || MGg•Kfu/^(-e^2).+eK.piu'
 Kt(a) . dgid(ntciby) = ucvg /e.(d^2)gv(a)
 Ort . g01pi = chmg'p|y| / (x)out
 C(n+1)^(e-e+)^2 = At1^2/-(D(n+1)ts)^2                                                                                                             
+
+                                                                              flux
 
 3(S0)
 qrd^4/2 / F^uv = Fuv(shd) . (qd)'^2/3
