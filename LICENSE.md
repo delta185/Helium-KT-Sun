@@ -150,7 +150,7 @@ D =2(vo+-mû)/3(+-e^-e^+) |ce/2?* ) (dmo =HCDv?||:= t/to^2sq(vo)ccns,dgvo!)))cps
 p(a) + a^2 / df = q^3/1 - mf^2/3 / T(k)^2/2 - dEc^+-w(jr)(rp)
 
 
-                                            mesh
+                                                      mesh
                                             
 Di = CHR + sr0
 D2 = z 1(00) = SO
@@ -184,6 +184,7 @@ ph(in)^((-br(ps)/c^3)) = f(mc)dph(u)(v^3)
 bv^(vo)ns)^u
 AHe(sf) = r^2su+-gsd(Hc)
 
+                                                              z<2
 -Ts/ = dpi\ / sT(dm) / dst
 NULL = |trx| . |dy|^(n+1)
 DMcd msid mush ph(3Mo)^23Ec' parsc* mdlbb (eucn)\di flux gzfr(rdz/NGC) |dy|
