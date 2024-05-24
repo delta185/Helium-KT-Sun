@@ -751,7 +751,8 @@ Obtaining dark energy (DE) depends on solar exposure, and dilatons and halos tha
 My doctor says, clinical trials, in outer space, must be accompanied by samples that exceed 800 mg quantiles of clozapine
 
 It couldn't compete with astronaut because he has a different metabolism than mine. They go in ds, and we Kujia, Ajax and Gheisa want to eliminate thalamus, by liquidate the binary code in dsv or lower
-
+F(u.v)^f^(uv) = ch (DE)
+-D. T^(uv) = BHc
 
 
 
