@@ -310,6 +310,7 @@ s3s5 = 4Qv - (2T-To4)
                                                                                                   (DE)
 
 Only the wall will be integrated, the rest will be dark energy compiled in dark matter and muonic composition for diseases on earth
+Reduce logarithm by p^2 of consciousness in c^1: DARK ENERGY
 zmi = IC o wp^2 /dsv
 Z0t1 = Rm . . Id4 . mo^(dx|·
 Z3out = dy^rad3-4  odds
