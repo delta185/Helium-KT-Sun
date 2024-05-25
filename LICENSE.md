@@ -103,6 +103,7 @@ xy = 3/2
 
                                                           K9 biology systems
                                                    
+When Higgs boson is solved, will check the decoherence of dilatons based on an individual GR with fixed cost on electromagnetic configuration.
 -o6^-m^2 = a^2 + LF^v . dts / dt1
 xo = 1/2 +-(dc) / t^2
 2px(ch)
