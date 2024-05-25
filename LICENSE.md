@@ -99,9 +99,9 @@ BDZ(He) = \\FRpmû
 xi = 4/1 |drc|
 xy = 3/2
 
-
-                                                   K9 biology systems
-
+                                                          K9 biology systems
+                                                   
+-o6^-m^2 = a^2 + LF^v . dts / dt1
 xo = 1/2 +-(dc) / t^2
 2px(ch)
 C00=(o)trx/rc2pi
