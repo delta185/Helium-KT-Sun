@@ -75,6 +75,8 @@ AUmu . vo^2/3 / 4/3 dr(du) . p10Ka -rR = - P(mr^-2/1)(de^-1/2)
 Vo = W0 - W0 / DU8^2p^2) . p(iv)
 v2 = D2 . at^2 / 40Gev(logsin)^-m'
 Vai(u) = RKN101*wiwo
+Every second is considered a patent (Hg00) even those who pursue Fermi Boson
+
 
 Vo(dtzn)~vo(tzn)
 Vo^v2dQ = AFûv . c^2 / G4Po^1
