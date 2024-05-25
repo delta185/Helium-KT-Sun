@@ -50,6 +50,8 @@ meson |px|
 
                                                   energy\wave lenght:guage 
 
+Mesh with kpc~quark depends on GeV radius
+Log gradient on GeV copies +-,e^-+ radian grabs log kpc me
 1AU:SO||(30)rish99%cap
 elr(ond) ||e |)a=vo(|
 avrg sample = 1/3 dt^u^2/1
@@ -128,6 +130,7 @@ FR = 1/2mu(3)
 FR(si,hy^2/htc(su)) = 2h^2-3dz,d2su/3
 
                                                             lens
+
 
 He^a^2:(2/8gm1-2/1gi64/nT.(dst)^2 = vAc
 -FRgab^- = (+-gc(rd)^2 / -h . dt^2
