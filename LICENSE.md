@@ -46,6 +46,7 @@ KPZN (10,101,500,3000,8000,....20,000.00.....60,000.00)
 Di = (/cp^h\)
 meson |px|
 (px)^2 = IPC
+being infinite is the task
 
 
                                                   energy\wave lenght:guage 
