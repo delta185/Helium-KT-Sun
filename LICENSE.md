@@ -51,6 +51,7 @@ being infinite is the task
 
                                                   energy\wave lenght:guage 
 
+dz . GR 1/8^2/4 = -P(u)^mf . Qrs
 Mesh with kpc~quark depends on GeV radius
 Log gradient on GeV copies +-,e^-+ radian grabs log kpc me
 1AU:SO||(30)rish99%cap
