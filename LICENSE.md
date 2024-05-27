@@ -165,6 +165,7 @@ p(a) + a^2 / df = q^3/1 - mf^2/3 / T(k)^2/2 - dEc^+-w(jr)(rp)
 
                                                       mesh
                                             
+S2 (msi)^(n+1) = dt5 . R^4/1^(z<2)
 Vertical communication with liver' tr, and brain along with pionic meson copy above intestine to continue climbing the tr
 Di = CHR + sr0
 D2 = z 1(00) = SO
