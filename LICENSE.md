@@ -118,6 +118,7 @@ C01= rtch/dsmo
 Kpc(a) = 10/4 Ecv / 4/2 Ecb
 PK(1.1'.0,FBI=) genetic systems'\dtr^27(-1ds,-1dtr,0,0) = 0 (pfcdt)^nH . (pfB^-(e^-,e^+))(
 K(100^mobb) = -23Gsh/4pi 
+There is decoherence in the clouds through the transmission of deposition and ingestion of medication. It is more complicated to follow in a linear route but obtaining more tension is what we want
 
                                                           \dts|sr
                                                           
@@ -148,6 +149,7 @@ kq(br) = b+^2
 
                                                         gaussian flow
 
+-V(ub . F^c^2 = dsz^2 . Mf/s8 .log pi
 (35.2)I27 / (-dts)^-3/23* = -(cHeQ)^-2 . brdr^16piG / 5dc . 3c^2dt(rpx)^3
 dtNGC^-16/8i/At^2 .r^3pr|x| = DTN(2vo) + AE2c'iD^9/1.4
 -(R)^2 . Dt^-4/2 = -Dtvû^-1/3
