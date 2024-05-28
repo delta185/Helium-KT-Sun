@@ -202,6 +202,7 @@ bv^(vo)ns)^u
 AHe(sf) = r^2su+-gsd(Hc)
 
                                                               z<2
+-c^2 -3R^(z-1) = -PDA / DEo . log 2H
 -Ts/ = dpi\ / sT(dm) / dst
 NULL = |trx| . |dy|^(n+1)
 DMcd msid mush ph(3Mo)^23Ec' parsc* mdlbb (eucn)\di flux gzfr(rdz/NGC) |dy|
