@@ -24,7 +24,7 @@ listen to me, if you not risk, not rich, only rish; my phcmb) It's as if Apple c
 If you are able to burn 5 trillion LUNC for a higher quantile of the Euler-Dyson equation without having to go back and push bit a bit pulse in each black hole Kv(ab) deposits and decays
 LUNC will broke all astronomy tissues and arcosen(radian) appear by boson theory and practical null contract
 This is a luxury where you are burdened by creditors and debt brokers, less factoriality, your final voltage is different. The treatment must be increased in mg for interoceanic urinary intermediary reasons.
-
+GR(a,b)^(z+2) = - 1/10. dt (shb) . p(u,b)^(a-2)
 
                                                           \roi
                                                           
@@ -124,6 +124,7 @@ There is decoherence in the clouds through the transmission of deposition and in
 
                                                           \dts|sr
                                                           
+msi^-m^2 = Pu.FA^v^
 -K(a)^n! = DMat(a^2)d^2
 Kpc(sun)^pi/4= |xt|^3+|dy`2| 
 KPR 453 -PKR345GeV = GF271GeV . 1/16(gaze)
