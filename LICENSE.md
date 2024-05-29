@@ -572,7 +572,8 @@ Ort . g01pi = chmg'p|y| / (x)out
 C(n+1)^(e-e+)^2 = At1^2/-(D(n+1)ts)^2                                                                                                             
 
                                                                               flux
-
+                                                                              
+msi^2 /pi.pu-APo = 23G/64GR -pu.(u)
 3(S0)
 It will have to wait for more abrupt actions to make mesh tensioner
 It will be done faster. good setup on this side of anaphase
