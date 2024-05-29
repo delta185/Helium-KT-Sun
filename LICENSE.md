@@ -67,6 +67,7 @@ cc = dts/0,8
 
                                                            bubbles
 
+1/1 .01 drift segmentations for Mo(tr) = log-0.8"
 A residual and an achievable retail is what It was needed to calculate my life expectancy, break 50 years of license} and be able to continue compiling my quantile with discretion, despite what It say or think. Always goes in -W0
 vo^u ~ vo^k
 Vo(/vj) = j0·0·
