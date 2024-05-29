@@ -758,7 +758,7 @@ Tonals adjustment to develop cardiac output cascade depends on helium output thr
 
 pionic(pi7) . meson(m6) /PhCMB (9) = guage(23) / T(uv)^v - 1/16 G32
 exist z^2 with clouds with greater condensation, that is, greater mass, so the qr is integrated into the T^uv
-According to Boltzmann, the clouds with greatest charge head towards the sun to acquire tension. When the sun enters the delta 4 configuration, the cloud will decompose into Maldenbrot energy.
+According to Boltzmann, the clouds with greatest charge head towards the sun to acquire tension. When the sun enters the delta 4 configuration, the cloud will decompose into Maldenbrot energy. 
 \navegation D2.R2 /logQ(eo)^3
 97651320899964 (CMB)
 512378639415
