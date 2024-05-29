@@ -64,6 +64,10 @@ PR = (2Vo/1vo)2s^n . dt(yH)3|
 cc =/ cco
 cc = dts/1,20
 cc = dts/0,8
+iDE + log csx^dz = | ho . Ho (i)^2 | 
+
+| DE > DFA |º
+
 
                                                            bubbles
 
