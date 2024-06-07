@@ -781,7 +781,10 @@ It couldn't compete with astronaut because he has a different metabolism than mi
 F(u.v)^f^(uv) = ch (DE)
 -D. T^(uv) = BHc
 Flux (Ua) = I2, holochain of universe
-
+-1/4 DRG mo23 = 3/2 QRGD . - F(u,dt) 
+|dz|^2dfmr = -cbz^m^2^7/6
+Eo(qrs) = T(f^u.v)^û.v
+dsz' = pa . GRB^m^2
 
 
 
