@@ -787,7 +787,8 @@ Eo(qrs) = T(f^u.v)^û.v
 dsz' = pa . GRB^m^2
 
 
-
+Tvu = 2ab . Eab / Cvu
+L=-Eab . Tvu / G(a,+-b)
 
 
 
