@@ -789,7 +789,7 @@ dsz' = pa . GRB^m^2
 
 Tvu = 2ab . Eab / Cvu
 L=-Eab . Tvu / G(a,+-b)
-
+-4|dx| = -7|dy| . N^2 / (jhb)^3/1 for low orbit
 
 
 
