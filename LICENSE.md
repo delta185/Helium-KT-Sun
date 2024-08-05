@@ -807,6 +807,9 @@ production over senª90
 
 dilaton (Po)
 
+                                                          Rose (oasis)
+
+dilaton dsx
 
                                                           CKB
 x.(Po) = Eos
