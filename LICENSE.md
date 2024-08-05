@@ -799,4 +799,6 @@ senª 0,3 go throuht to rose network
 balance cosª in/on vectorization dsz
                                                       
 
+                                                          babydoge  
 
+production over senª90
