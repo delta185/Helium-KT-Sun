@@ -793,6 +793,10 @@ L=-Eab . Tvu / G(a,+-b)
 Q5 / SO3 = 1/2 u' . |dy| / |dx|
 
 
+                                                            floki inu  
 
+senª 0,3 go throuht to rose network
+balance cosª in/on vectorization dsz
+                                                      
 
 
