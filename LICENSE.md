@@ -806,3 +806,7 @@ production over senª90
                                                           dogelon
 
 dilaton (Po)
+
+
+                                                          CKB
+x.(Po) = Eos
