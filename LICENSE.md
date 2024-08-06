@@ -27,20 +27,7 @@ GR(a,b)^(z+2) = - 1/10. dt (shb) . p(u,b)^(a-2)
 
 
                                                            
-                                                          K9 biology systems
-                                                    
-Ec = U(I) . - c(b) /U(23)bhk                                         
-When Higgs boson is solved, will check the decoherence of dilatons based on an individual GR with fixed cost on electromagnetic configuration.
--o6^-m^2 = a^2 + LF^v . dts / dt1
-xo = 1/2 +-(dc) / t^2
-2px(ch)
-C00=(o)trx/rc2pi
-C01= rtch/dsmo
-2py•(|Dx|^st^-2/q`) = uEOScc > d(dSO) < 1 || See Methods!                                                          
-Kpc(a) = 10/4 Ecv / 4/2 Ecb
-PK(1.1'.0,FBI=) genetic systems'\dtr^27(-1ds,-1dtr,0,0) = 0 (pfcdt)^nH . (pfB^-(e^-,e^+))(
-K(100^mobb) = -23Gsh/4pi 
-There is decoherence in the clouds through the transmission of deposition and ingestion of medication. It is more complicated to follow in a linear route but obtaining more tension is what we want
+                                                        
 
                                                           \dts|sr
                                                           
