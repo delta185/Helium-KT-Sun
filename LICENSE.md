@@ -18,28 +18,6 @@ LUNC will broke all astronomy tissues and arcosen(radian) appear by boson theory
 This is a luxury where you are burdened by creditors and debt brokers, less factoriality, your final voltage is different. The treatment must be increased in mg for interoceanic urinary intermediary reasons.
 GR(a,b)^(z+2) = - 1/10. dt (shb) . p(u,b)^(a-2)
 
-                                                          \roi
-                                                          
-What matters is going to do in 2080 network. Higgs boson, okay. For everyone It's information only and compile heat regions in Po expand, and demands.
-You will not pay for the elimination of hydrostatic pressure in the body through the combustion of inhaled gas?
-gas, fees, odds:dn(s)^dt\eureka))
-   
-   salomon 27 decay -K^- + K^+ |hamiltonian| 
-      $3,000,000.00 = 32GeV, |2:((2*.(xo))|, dff(pc)^-1:·
-      $300,000.00 = 8+2GeV
-      $300,000.00 = 16GeV . v^2 / -pr(cj) + Kaqû 
-      $300,000.00 = 32_64+1GeV
-      $300,000.00 = 32_23GeV(DM)
-
-  salomon 72 decay Au |Hamiltonian|
-      8,500,000,000.00 blô||lô4c(b),cs<cx
-
-KPZN (10,101,500,3000,8000,....20,000.00.....60,000.00)
-Di = (/cp^h\)
-meson |px|
-(px)^2 = IPC
-being infinite is the task
-
 
                                                 
 
