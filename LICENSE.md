@@ -44,32 +44,7 @@ being infinite is the task
                                                 
 
 
-                                                           bubbles
-
-1/1 .01 drift segmentations for Mo(tr) = log-0.8"
-A residual and an achievable retail is what It was needed to calculate life expectancy, break 50 years of license} and be able to continue compiling my quantile with discretion, despite what It say or think. Always goes in -W0
-vo^u ~ vo^k
-Vo(/vj) = j0·0·
--trv = ((-(null)trx(di))) . |dy|
-/v . c^2 = 2d^2 = n+3 /1/3e*
-Vvo^3 +3/2KQq'arcon279º = Tuv . F^uv
-AUmu . vo^2/3 / 4/3 dr(du) . p10Ka -rR = - P(mr^-2/1)(de^-1/2)
-Vo = W0 - W0 / DU8^2p^2) . p(iv)
-v2 = D2 . at^2 / 40Gev(logsin)^-m'
-Vai(u) = RKN101*wiwo
-Every second is considered a patent (Hg00) even those who pursue Fermi Boson
-
-
-Vo(dtzn)~vo(tzn)
-Vo^v2dQ = AFûv . c^2 / G4Po^1
-Va = -pi^n-1) . j 2 (va^2)
-sv^2(rcd^5) . G1/8 . T(uv)^uv
-dszg^-1 = pi^(z+1) . L ^-3/4
-dsr/ /u = |dy| - |dx|
-dsr ^-e' . -pi^2 = ZN. 2î^2 /-log GT^2/3·32
-Hgg = sû . Opc  / v^2 + Dk(aû)
-ci/r^3 = 2vo . 8Eoc
-Hoo + Hu = d^n!O -AEom|k1|
+                                                          
 
 
 
