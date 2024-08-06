@@ -43,19 +43,7 @@ SO(3) = sen 30· . N^(n+1)/ A^1/2
 FR = 1/2mu(3)
 FR(si,hy^2/htc(su)) = 2h^2-3dz,d2su/3
 
-                                                            lens
-
-
-He^a^2:(2/8gm1-2/1gi64/nT.(dst)^2 = vAc
--FRgab^- = (+-gc(rd)^2 / -h . dt^2
-rash ce (KPR50y) = 9/1ce
-hackectt+(p^2)^log(ebs- =  |dx| . lis^ctt / d|(msi)| . ~SU/SO~
-e=(ee)+-m(e)son: = peer review a lot\
-thanks for worflows at 1/3 and rent special areas. It'noghing
-panels = 2y'(px)|Dy|, (dx)^-2/1, dt=0, DM(dt) = ck(He)
-ld^-2 = -3(dxy|
-w(ce) = AH^-
-kq(br) = b+^2                                                                                              
+                                                                                                                       
 
 
 
