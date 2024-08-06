@@ -29,19 +29,7 @@ GR(a,b)^(z+2) = - 1/10. dt (shb) . p(u,b)^(a-2)
                                                            
                                                         
 
-                                                          \dts|sr
                                                           
-msi^-m^2 = Pu.FA^v^
--K(a)^n! = DMat(a^2)d^2
-Kpc(sun)^pi/4= |xt|^3+|dy`2| 
-KPR 453 -PKR345GeV = GF271GeV . 1/16(gaze)
-mvt . At^2/ ic + KPR sh-R^2^1/2 = dd723^-4/3 r^8 / Gc . drT^ds1t2s2 SO3PM
-KU = -Q9. Rv7
-KS = r^2(Hc^2)
-(1.0)-cd\ = -dtr/ log(dts)^2
-SO(3) = sen 30· . N^(n+1)/ A^1/2                                                                                            
-FR = 1/2mu(3)
-FR(si,hy^2/htc(su)) = 2h^2-3dz,d2su/3
 
                                                                                                                        
 
