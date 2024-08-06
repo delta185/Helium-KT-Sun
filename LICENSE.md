@@ -785,29 +785,6 @@ L=-Eab . Tvu / G(a,+-b)
 Q5 / SO3 = 1/2 u' . |dy| / |dx|
 
 
-                                                            floki inu  
-
-senª 0,3 go throuht to rose network
-balance cosª in/on vectorization dsz
-                                                      
-
-                                                          babydoge  
-
-production over senª90
-
-                                                          dogelon
-
-dilaton (Po)
-
-                                                          Rose (oasis)
-
-dilaton dsx
-
-                                                          CKB
-x.(Po) = Eos
-
-                                                          client
-
-health systems, space systems, robotics
+                                                           
 
 
