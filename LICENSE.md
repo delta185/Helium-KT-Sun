@@ -41,24 +41,7 @@ meson |px|
 being infinite is the task
 
 
-                                                  energy\wave lenght:guage 
-
-dz . GR 1/8^2/4 = -P(u)^mf . Qrs
-Mesh with kpc~quark depends on GeV radius
-Log gradient on GeV copies +-,e^-+ radian grabs log kpc me
-1AU:SO||(30)rish99%cap
-elr(ond) ||e |)a=vo(|
-avrg sample = 1/3 dt^u^2/1
-EDT = DM
-SZ^OtD = |Di|rûa / |DY|sôa
-Q(tr^3) = R|Dy(dx•)|
-PR = (2Vo/1vo)2s^n . dt(yH)3|
-cc =/ cco
-cc = dts/1,20
-cc = dts/0,8
-iDE + log csx^dz = | ho . Ho (i)^2 | 
-
-| DE > DFA |º
+                                                
 
 
                                                            bubbles
