@@ -70,19 +70,6 @@ ld^-2 = -3(dxy|
 w(ce) = AH^-
 kq(br) = b+^2                                                                                              
 
-                                                        gaussian flow
-
--V(ub . F^c^2 = dsz^2 . Mf/s8 .log pi
-(35.2)I27 / (-dts)^-3/23* = -(cHeQ)^-2 . brdr^16piG / 5dc . 3c^2dt(rpx)^3
-dtNGC^-16/8i/At^2 .r^3pr|x| = DTN(2vo) + AE2c'iD^9/1.4
--(R)^2 . Dt^-4/2 = -Dtvû^-1/3
-3/2(SU^nl^n!) = 200y
-(FR(30º)^/64, -PR/16(dt)^n!, Rdmod|dy^|^-^/32)
-DTZNff\|gp(2dx|^dnH|
-D =2(vo+-mû)/3(+-e^-e^+) |ce/2?* ) (dmo =HCDv?||:= t/to^2sq(vo)ccns,dgvo!)))cps
-30º/2))|^= (99%/2) || 3N^|(4dd5dd(Tsd) - 1))2vo
-(TLMff) = s!|dy|/|D|Dx|)                                                                                                                    
-p(a) + a^2 / df = q^3/1 - mf^2/3 / T(k)^2/2 - dEc^+-w(jr)(rp)
 
 
                                                      
