@@ -1,8 +1,9 @@
                            \1/16 \ ph(CMB): TZN in life: astronaut, g+ in brain and a set for hope
+                           
 
-you have non-linear navigation system, so, no instrumentation
 AVEC contrinutions, failed in short stage.
 there isn't any sample of intelligent systems, "?"
+they have non-linear navigation system, so, no instrumentation
 perpetual margin' for current wave lengths
 clean ce areas by dt= log(0| for me
 army forces received SO's fermionic bubble's giraffe panels (2p(x)^2, Dy/(dx), Udt, -R|dx|) 
