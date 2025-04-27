@@ -32,7 +32,7 @@ NSA, just write.
 
 protocol launch{
 
-agent1:arxiv.html}
+agent1:arxiv.html{
 {
 [dsv=0]
 agent2:btc curve{
