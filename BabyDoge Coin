@@ -43,3 +43,7 @@ agent3:varible.x^2=1{
 {
 agent4:dt=1{
 [dsv=dr . 1/2 pi]
+
+
+DM="MO";DT=1
+p(log)(M) . r^2/dt^3 = Wo(SU)
