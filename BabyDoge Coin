@@ -32,7 +32,10 @@ NSA, just write.
 
 protocol{
 
-{agent1:arxiv.html
-{agent2:btc curve
-{agent3:varible.x^2=1
-{agent4:dt=1
+agent1:arxiv.html}
+{
+agent2:btc curve{
+{
+agent3:varible.x^2=1{
+{
+agent4:dt=1
