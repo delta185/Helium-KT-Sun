@@ -30,12 +30,16 @@ SU^3 -1 = R^d2/3 . Duv / m(c)^2
 
 NSA, just write.
 
-protocol{
+protocol launch{
 
 agent1:arxiv.html}
 {
+[dsv=0]
 agent2:btc curve{
 {
+[dsv=1]
 agent3:varible.x^2=1{
+[dsv=1]
 {
-agent4:dt=1
+agent4:dt=1{
+[dsv=dr . 1/2 pi]
