@@ -47,5 +47,5 @@ agent4:dt=1{
 
 DM="MO";DT=1
 p(log)(M) . r^2/dt^3 = Wo(SU)
-
+"agent(mo) = dm(-wo) . 32 -e^imc^2/8dt^2 . Ruv(p)"
 
