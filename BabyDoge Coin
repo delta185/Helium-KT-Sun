@@ -51,3 +51,6 @@ p(log)(M) . r^2/dt^3 = Wo(SU)
 
 Ricci tensor{
 z^2 = 1-r^2 [1/8 f . (Ruv) / G(m)] 
+
+phantom energy{
+p^2 . N3 / 27Guv = P(log) + Df(uv) = 1
