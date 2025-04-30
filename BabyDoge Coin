@@ -53,4 +53,4 @@ Ricci tensor{
 z^2 = 1-r^2 [1/8 f . (Ruv) / G(m)] 
 
 phantom energy{
-p^2 . N3 / 27Guv = P(log) + Df(uv) = 1H
+p(k)^2 . N3 / 27Guv . a^2 = P(log) + Df(uv) = 1H
